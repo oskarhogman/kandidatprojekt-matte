@@ -26,15 +26,14 @@ for i in 9:9
             #println("b: ", b)
 
             try
-            	#if endswith(polytope, "1 1 1 1 1 1 1 1 1 1")
                     P = polyhedron(A,b)
                     dim_P = dim(P)
-                #if dim_P > -1
+                if dim_P > 20 && dim_P < 22
                     h_star_eq = h_star_polynomial(P)
                     write(file_write, string(", ", h_star_eq, ", ", dim_P))
-                #else
-                #    write(file_write, string(", ", "Dimension too high", ", ", dim_P))
-                #end
+                else
+                    write(file_write, string(", ", "Dimension too high", ", ", dim_P))
+                end
             catch
                 write(file_write, ", Unable to create polyhedron or calculate h*", ", NULL")
             end
