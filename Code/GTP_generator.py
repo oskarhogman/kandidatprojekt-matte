@@ -28,5 +28,5 @@ def generate_GTPs(lambda_size : int):
                         polyprint += str(j) + ' '
                     print(polyprint, file = out)
 
-for i in range(1, 10):
+for i in range(1, 11):
     generate_GTPs(i)
