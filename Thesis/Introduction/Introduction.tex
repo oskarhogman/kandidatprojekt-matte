@@ -1,18 +1,16 @@
-
-\begin{itemize}
-	\item Background on polytopes and GT-polytopes. Why are we interested?
-	\item Ehrhart polynomials and the assumption that they are non-negative
-	\item What we do in this paper and our results
-	\item Structure of paper
-\end{itemize}
-One paragraph each
-
 Representation theory and combinatorics are two important areas of mathematics. 
-Kostka numbers and Littlewood-Richardson coefficients appear in both \cite{narayanan2006complexit}. 
+Kostka numbers and Littlewood-Richardson coefficients appear in both \cite{narayanan2006complexity}. 
 They have a close connection to symmetric functions and Schur functions. 
 
 One such symmetric Schur function are Gelfand-Tsetlin patterns \cite{StanleyEC2}. 
-These patterns form polytopes, and a conjecture states that the Ehrhart polynomials of so called Gelfand-Tstelin polytopes have non-negative rational coefficients \cite{KingTolluToumazet200}. 
+These patterns form $\mathcal{H}$-polytopes, and a conjecture states that the Ehrhart polynomials of so called Gelfand-Tstelin polytopes have non-negative rational coefficients \cite{KingTolluToumazet2004}. 
 As far as we are aware, this conjecture have neither been proven or disproven. 
 
 In this thesis, we investigate the Ehrhart polynomials of Gelfand-Tsetlin polytopes. 
+Using computational power, over 1800 Gelfand-Tsetlin patterns were generated, from which polytopes were created and their Ehrhart polynomials calculated. 
+A limitation of the computations is the CPU-time needed to get the $h^*$-polynomials needed to get the Ehrhart-polynomials. 
+Only Ehrhart polynomials with positive coefficients was found. 
+
+The strucutre of thesis is as follows: the first section, Section\ref{polytopes}, gives a background to polytopes and Ehrhart theory. 
+Section \ref{symfuncs}, describes symmetric functions with regards to semistandard Young tableaux. Section \ref{gt}, describes the bijection between semistandard Young tableaux and Gelfand-Tstelin patters, as well as introduces Gelfand-Tstelin polytopes. 
+Section \ref{method}, the method used to generate the Gelfand-Tstelin patterns and the Ehrhart polynomials are described. Finally, in the last section, Section \ref{results}, the results are described. 

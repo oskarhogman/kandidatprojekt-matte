@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.13)  9 MAR 2026 18:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.13)  18 MAR 2026 06:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1031,7 +1031,7 @@ Package hyperref Info: Link coloring ON on input line 131.
 \@outlinefile=\write4
 \openout4 = `project.out'.
 
-<cover.pdf, id=95, 614.295pt x 794.97pt>
+<cover.pdf, id=103, 614.295pt x 794.97pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
 Package pdftex.def Info: cover.pdf  used on input line 136.
@@ -1052,7 +1052,7 @@ File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
 Package pdftex.def Info: cover.pdf  used on input line 136.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<cover.pdf, id=101, page=1, 614.295pt x 794.97pt>
+<cover.pdf, id=109, page=1, 614.295pt x 794.97pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
 Package pdftex.def Info: cover.pdf , page1 used on input line 136.
@@ -1077,7 +1077,7 @@ Package pdftex.def Info: cover.pdf , page1 used on input line 136.
 
 
  <./cover.pdf>]
-<cover.pdf, id=234, page=2, 614.295pt x 794.97pt>
+<cover.pdf, id=242, page=2, 614.295pt x 794.97pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 2>
 Package pdftex.def Info: cover.pdf , page2 used on input line 136.
@@ -1093,7 +1093,7 @@ Package pdftex.def Info: cover.pdf , page2 used on input line 136.
  [2
 
  <./cover.pdf>]
-<cover.pdf, id=239, page=3, 614.295pt x 794.97pt>
+<cover.pdf, id=247, page=3, 614.295pt x 794.97pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 3>
 Package pdftex.def Info: cover.pdf , page3 used on input line 136.
@@ -1109,7 +1109,7 @@ Package pdftex.def Info: cover.pdf , page3 used on input line 136.
  [3
 
  <./cover.pdf>]
-<cover.pdf, id=252, page=4, 614.295pt x 794.97pt>
+<cover.pdf, id=260, page=4, 614.295pt x 794.97pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 4>
 Package pdftex.def Info: cover.pdf , page4 used on input line 136.
@@ -1186,15 +1186,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout5 = `project.toc'.
 
  [7{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}] (./Introduction/Introdu
-ction.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3
-.
+ction.tex) [8
 
-(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) [8
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}] (./Polytopes/Polytopes.tex
 
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}] (./Polytopes/Polytopes.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 3.
@@ -1213,9 +1208,8 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 [9
 
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/
-dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathex.enc}]
-[10] [11]
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvip
+s/lm/lm-mathex.enc}] [10] [11]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 223.
@@ -1240,12 +1234,7 @@ File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
 ) [16] [17] [18]) [19] (./Symmetric-Functions/Symmetric-Functions.tex [20
 
 ]
-[21]
-
-LaTeX Warning: Citation `cauchy1815memoire' on page 22 undefined on input line 
-137.
-
-[22]) [23] (./GT/GT.tex [24
+[21] [22]) [23] (./GT/GT.tex [24
 
 ]
 Overfull \hbox (49.15318pt too wide) in paragraph at lines 136--137
@@ -1265,33 +1254,34 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 130.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 130.
-) [30] (./Results/Results.tex)
-(./project.bbl [31
+) [30] (./Results/Results.tex
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+.
 
-]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-9.
- (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) [32]
-(./project.aux)
+)
+Overfull \hbox (47.20123pt too wide) in paragraph at lines 2--3
+\T1/lmr/m/n/12 All code and data can be found on the github page [][]github.com
+/oskarhogman/kandidatproject-
+ []
+
+) (./project.bbl [31
+
+] [32]) [33] (./project.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `project.out' has not changed.
-(rerunfilecheck)             Checksum: 7C554EC35F99F0FD0D0BC14395B4B84A;3394.
+(rerunfilecheck)             Checksum: A72DDAD89F70FB503719553287BEB0B8;3621.
  ) 
 Here is how much of TeX's memory you used:
- 30652 strings out of 474222
- 611784 string characters out of 5748733
+ 30630 strings out of 474222
+ 611119 string characters out of 5748733
  1947975 words of memory out of 5000000
- 52159 multiletter control sequences out of 15000+600000
- 663662 words of font info for 126 fonts, out of 8000000 for 9000
+ 52137 multiletter control sequences out of 15000+600000
+ 663287 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,17n,87p,544b,1334s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/oskar-hogman/.texlive2023/texmf-var/fonts/pk/ljfour/public/bbm/bbm8.6
@@ -1312,10 +1302,10 @@ s/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb><
 /usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on project.pdf (32 pages, 468550 bytes).
+Output written on project.pdf (33 pages, 470061 bytes).
 PDF statistics:
- 715 PDF objects out of 1000 (max. 8388607)
- 510 compressed objects within 6 object streams
- 143 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 740 PDF objects out of 1000 (max. 8388607)
+ 535 compressed objects within 6 object streams
+ 148 named destinations out of 1000 (max. 500000)
+ 255 words of extra memory for PDF output out of 10000 (max. 10000000)
 

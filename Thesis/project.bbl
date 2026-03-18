@@ -5,6 +5,13 @@ Benjamin~James Braun.
 \newblock {\em Ehrhart theory for lattice polytopes}.
 \newblock PhD thesis, Washington University, 2007.
 
+\bibitem[Cau15]{cauchy1815memoire}
+Augustin~Louis Cauchy.
+\newblock M{\'e}moire sur les fonctions qui ne peuvent obtenir que deux valeurs
+  gales et de signes contraires par suite des transpositions opres entre les
+  variables qu’elles renferment.
+\newblock {\em J. Ec. Polytech}, 1:4, 1815.
+
 \bibitem[DLM04]{de2004vertices}
 Jes{\'u}s~A De~Loera and Tyrrell~B McAllister.
 \newblock Vertices of gelfand--tsetlin polytopes.
@@ -26,6 +33,12 @@ R.~C. King, C.~Tollu, and F.~Toumazet.
   Symmetry in Physics: In Memory of {R}obert {T}. {S}harp}, volume~34, pages
   99--112. AMS / OUP, 2004.
 \newblock URL: \url{http://eprints.soton.ac.uk/41202/}.
+
+\bibitem[Nar06]{narayanan2006complexity}
+Hariharan Narayanan.
+\newblock On the complexity of computing kostka numbers and
+  littlewood-richardson coefficients.
+\newblock {\em Journal of Algebraic Combinatorics}, 24(3):347--354, 2006.
 
 \bibitem[Ras04]{Rassart2004}
 Etienne Rassart.
