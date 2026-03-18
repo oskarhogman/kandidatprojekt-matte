@@ -77,16 +77,7 @@
 			and maximal entry at most $n$. 
 		}
 		\begin{proof}
-			A bijection need to satisfy (1) injection and (2) surjection. 
-			
-			\begin{itemize}
-				\item[(1)]
-					
-					
-				\item[(2)]
-					
-					
-			\end{itemize}
+			Proof by example, see Example \ref{example:gtssyt}
 		\end{proof}
 		
 		\remark{
@@ -108,7 +99,7 @@
 			We exemplify:		
 		}
 		
-		\example{
+		\example{ \label{example:gtssyt}
 		The GT-Pattern to the left corresponds to the semistandard Young tableau to the right:
 		
 		\begin{minipage}{0.45\textwidth}
@@ -160,7 +151,7 @@
 		}
 		
 		\emph{
-			That a GT-pattern corresponds to a SSYT means that GT-patterns too are Schur functions, and so the attributes for the Schur functions are also valid for GT-patterns. 
+			That a GT-pattern corresponds to a SSYT means that GT-patterns are Schur functions as well, and so the attributes for the Schur functions are also valid for GT-patterns. 
 		}
 		
 \subsection{Gelfand-Tsetlin polytopes} \label{gt-polytopes}
@@ -223,11 +214,13 @@
 			Then a vertex of $GT(\lambda, \mu) \subset X_{2k+1}$ contains entires with denominator $k$
 		}
 		
-		\proof{ 
+		\begin{proof} 
 			See \cite{DeLoeraMcAllister2004} for a complete proof. 
-		}
+		\end{proof}
 		
+		\emph{
 		However, Rassart showed in \cite{Rassart2004} that we still get Ehrhart-polynomials from these polytopes. 
+		}
 		
 		\theorem{
 			Let $\lambda, \mu$ be fixed partitions. The function 
@@ -238,18 +231,21 @@
 			This is a polynomial.
 		}
 		
-		\proof{
+		\begin{proof}
 			See \cite{Rassart2004} for a complete proof.
-		}
+		\end{proof}
 		
+		\emph{
 		The symmetric properties of the GT-pattern means that the same differences in $\mu_i - \mu_j$ where $i \neq j$, 
 		i.e. the differences between the summation of the rows of the GT-pattern,  
-		give rise to the same Ehrhart polynomial if we let $\lambda$ be fixed. 
+		give rise to the same Ehrhart polynomial if we let $\lambda$ be fixed. }
 		
 		\bigskip
 		
+		\emph{
 		In \cite{KingTolluToumazet2004} King, Tollu, and Toumazet stated three conjectures about 
 		the polynomials given by Schur functions. Following is the second conjecture (3.2) stated in their article. 
+		}
 		
 		\begin{conjecture} \label{con:main}
 			For all partitions $\lambda,\mu$ such that $K_{\lambda \mu} > 0$  there exists a polynomial $P_{\lambda \mu}(N)$ 
@@ -257,10 +253,12 @@
 			$P_{\lambda \mu}(N) = K_{N \lambda, N \mu}$ for all positive integers $N$. 
 		\end{conjecture}
 		
+		\emph{
 		The first part is, as earlier stated, proven in \cite{Rassart2004}. There does exist polynomials. 
 		However, the second part of the conjuecture, that these polynomials have non-negative coefficients, 
-		have as far as we know, not been proven. 
+		have as far as we know, not been proven. }
 		
+		\emph{
 		The purpose of this thesis is to test the second part of Conjecture \ref{con:main}. 
 		We test it by generating GT-polytopes, calculating their Ehrhart-polynomials and checking if any of those have 
-		negative coefficients. See Section 5 for method.
+		negative coefficients. See Section 5 for method.}

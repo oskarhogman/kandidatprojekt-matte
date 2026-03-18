@@ -311,7 +311,7 @@
 			(Here $A$ and $A^{/k}$ are interpreted as sets of row vectors.) 
 		}
 		
-		\proof{
+		\begin{proof}
 			We get that the row vectors in $A^{/k}$ are positive combinations of row vectors 
 			in $A$, and as such are the corresponding inequalities in $C$ valid, so we get that 
 			$C \subseteq P(A^{/k}, \boldsymbol{0})$. Also, the variable $x_k$ in the row 
@@ -334,8 +334,8 @@
 			\boldsymbol{x}$. 
 			This is equivalent to $(a_{ik}\boldsymbol{a}_j + (-a_{jk})\boldsymbol{a}_i)
 			\boldsymbol{x} \leq 0$, which holds becase $\boldsymbol{x} \in P(A^{/k}, 
-			\boldsymbol{0})$. $\blacksquare$
-		}
+			\boldsymbol{0})$.
+		\end{proof}
 		
 		\lemma{ \label{lemma:htovcone}
 			If $C = \text{cone}(Y)$ is a $\mathcal{V}$-cone in $\mathbb{R}^d$, then so is the 
@@ -349,7 +349,7 @@
 			matrix $Y = (\boldsymbol{y}_1, ..., \boldsymbol{y}_n)$).
 		}
 		
-		\proof{
+		\begin{proof}
 			All the vectors in $Y^{/k}$ have $x_k = 0$, so $C \cap H_k \supseteq \text{cone}
 			(Y^{/k})$. 
 			
@@ -378,12 +378,14 @@
 				(-y_{kj})\boldsymbol{y}_j + y_{ki}\boldsymbol{y}_j \right).
 			\end{align*}
 			This gives an explicit representation of $\boldsymbol{v}$ as a conical sum of vectors 
-			in $Y^{/k}$, which proves the lemma. $\blacksquare$
-		}
+			in $Y^{/k}$, which proves the lemma.
+		\end{proof}
 		
+		\emph{
 		We are now prepared to prove Theorem \ref{thm:vhconeeq}. 
+		}		
 		
-		\proof{ 
+		\begin{proof} 
 			For the direction from a $\mathcal{V}$-cone to an $\mathcal{H}$-cone, 
 			let $C = \text{cone} (Y) \subseteq \mathbb{R}^d$ be a $\mathcal{V}$-cone. 
 			We can write it as 
@@ -417,8 +419,8 @@
 			\right) \in \mathbb{R}^{d+m} : \boldsymbol{w} = \boldsymbol{0} \right\}$ can be 
 			formed successively, by setting coordinates to zero one at a time, i.e., intersecting 
 			with coordinate hyperplanes of the form $H_k = \{ \boldsymbol{y} \in \mathbb{R}_{d+m} 
-			: y_k = 0 \}$. This is proven in Lemma \ref{lemma:htovcone}. $\blacksquare$
-		}
+			: y_k = 0 \}$. This is proven in Lemma \ref{lemma:htovcone}. 
+		\end{proof}
 		
 		We now present and prove the theorem for equality between $\mathcal{V}$-polyhedrons and 
 		$\mathcal{H}$-polyhedrons. 
@@ -438,7 +440,7 @@
 			\]
 		}
 		
-		\proof{
+		\begin{proof}
 			This theorem can be proven directly from Theorem \ref{thm:vhconeeq}. 
 			To do this, we pass from affine $d$-space to linear $(d+1)$-space by adjoining an 
 			extra coordinate (which is the zeroeth coordinate, note that every cone $C$ in Theorem 
@@ -487,14 +489,16 @@
 			\in \mathbb{R}^{d+1} : x_0 \geq 0 \}$, so $P$ is a $\mathcal{V}$-polytope as well. 
 			Conversely, if $P$ is a $\mathcal{V}$-polyhedron, then accoring to Theorem 
 			\ref{thm:vhconeeq} the associated cone $C(P)$ is a $\mathcal{H}$-polyhedron and so is 
-			$P$. $\blacksquare$ 
-		}
+			$P$.
+		\end{proof}
 		
-		We stated earlier that we can define aa $\mathcal{V}$-polytope 
+		\emph{
+		We stated earlier that we can define a $\mathcal{V}$-polytope 
 		simply as a bounded $\mathcal{V}$-polyhedron, and similary an $\mathcal{H}$-polytope 
 		is a bounded $\mathcal{H}$-polyhedron. 
 		This means that we can apply Theorem \ref{thm:hvpolyhedrons} to polytopes, and 
 		Theorem \ref{thm:vhequality} is thus proven.
+		}
 		
 \subsection{Ehrhart theory}
 	
