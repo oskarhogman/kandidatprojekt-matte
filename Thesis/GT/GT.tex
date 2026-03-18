@@ -77,7 +77,31 @@
 			and maximal entry at most $n$. 
 		}
 		\begin{proof}
-			Proof by example, see Example \ref{example:gtssyt}
+			We start by showing that a semistandard Young tableau can be mapped to a Gelfand-Tsetlin pattern. 
+			
+			Given a semstandard Young tableau of shape $\lambda = [\lambda_1, \lambda_2, \dots, \lambda_n]$ with type $\alpha = (\alpha_1, \alpha_2, \dots, \alpha_k)$, a Gelfand-Tsetlin pattern can be formed with top row $\lambda = [\lambda_1, \lambda_2, \dots, \lambda_n]$ and row sum differences $\alpha = (\alpha_1, \alpha_2, \dots, \alpha_k)$. 
+			
+			That $\lambda$ satisfies the conditions of a Gelfand-Tsetlin patters is because of the property of semistandard Young tableaus that forbids boxes in lower rows to have more columns than previous rows. This means that for a $\lambda_i$ and $\lambda_j$ in $\lambda$ where $i > j$, $\lambda_i \geq \lambda_j$, which satisfies the condition for a top row of a Gelfand-Tsetlin pattern. 
+			
+			The type $\alpha$ for the semistandard Young tableau also satisfies the condition for row sum differences for a Gelfand-Tsetlin pattern. This is because $\sum_{i=1}^n \lambda_i = \sum_{j=1}^k \alpha_j$ by necessity, since all boxes in a semistandard Young tableau needs to be filled without any extra integers. This satisfies the condition of row sum differences for a Gelfand-Tsetlin pattern since the row sum differences needs to add up to the sum of $\lambda$. If they do not, the condition of inequalities in the Gelfand-Tsetlin pattern will not add up. 
+			
+			Thus, there is a mapping from any semistandard Young tableau to a Gelfand-Tsetlin pattern. 
+			
+			\bigskip
+			
+			We now show that a Gelfand-Tsetlin pattern can be mapped to a semistandard Young tableau. 
+			
+			Given a Gelfand-Tsetlin pattern with top row $\lambda = [\lambda_1, \lambda_2, \dots, \lambda_n]$ and row sum differences $\alpha = (\alpha_1, \alpha_2, \dots, \alpha_k)$ there exist a semistandard young Tableau of shape $\lambda = [\lambda_1, \lambda_2, \dots, \lambda_n]$ with type $\alpha = (\alpha_1, \alpha_2, \dots, \alpha_k)$. 
+			
+			The top row $\lambda$ of a Gelfand-Tsetlin pattern satisfies the condition of a semistandard Young tableau, because for any $\lambda_i$ and $\lambda_j$ where $i > j$, we have that $\lambda_i \geq \lambda_j$. This is exactly the condition for the rows of integers in a semistandard Young tableau, where the number of columns in each row needs to be the same amount or fewer than previous rows. 
+			
+			In order to get a correct Gelfand-Tsetlin pattern, we need that $\sum_{i=1}^n \lambda_i = \sum_{j=1}^k \alpha_j$. This means that the row sum differences $\alpha$ exactly adds up to the number of positions in a semistandard Young tableau of a shape $\lambda$. Moreover, in order to satisfy the condition of inequalities for a Gelfand-Tsetlin pattern, no row sum difference can be higher than $\lambda_1$. This means that they will satisfy the condition of a semistandard Young tableau being strictly increasing downwards. 
+			
+			Thus, a mapping from any Gelfand-Tsetlin pattern to a semistandard Young tableau exists. 
+			
+			\bigskip
+			
+			We can conclude there is a bijection between Gelfand-Tsetlin patterns and semistandard Young tableaus.
 		\end{proof}
 		
 		\remark{
