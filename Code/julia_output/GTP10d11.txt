@@ -1,0 +1,862 @@
+10 : 10, Unable to create polyhedron or calculate h*, NULL, time: 0.6445879936218262s
+10 : 9 1, Dimension too high, 0, time: 0.24248600006103516s
+10 : 8 2, Dimension too high, 0, time: 0.033483028411865234s
+10 : 8 1 1, Dimension too high, 0, time: 0.08500313758850098s
+10 : 7 3, Dimension too high, 0, time: 0.033154964447021484s
+10 : 7 2 1, Dimension too high, 0, time: 0.057418107986450195s
+10 : 7 1 1 1, Dimension too high, 0, time: 0.12378787994384766s
+10 : 6 4, Dimension too high, 0, time: 0.032839059829711914s
+10 : 6 3 1, Dimension too high, 0, time: 0.05736899375915527s
+10 : 6 2 2, Dimension too high, 0, time: 0.05733609199523926s
+10 : 6 2 1 1, Dimension too high, 0, time: 0.09340095520019531s
+10 : 6 1 1 1 1, Dimension too high, 0, time: 0.17965006828308105s
+10 : 5 5, Dimension too high, 0, time: 0.03514695167541504s
+10 : 5 4 1, Dimension too high, 0, time: 0.05879998207092285s
+10 : 5 3 2, Dimension too high, 0, time: 0.05828285217285156s
+10 : 5 3 1 1, Dimension too high, 0, time: 0.09486103057861328s
+10 : 5 2 2 1, Dimension too high, 0, time: 0.09438610076904297s
+10 : 5 2 1 1 1, Dimension too high, 0, time: 0.1558530330657959s
+10 : 5 1 1 1 1 1, Dimension too high, 0, time: 0.2746241092681885s
+10 : 4 4 2, Dimension too high, 0, time: 0.05851411819458008s
+10 : 4 4 1 1, Dimension too high, 0, time: 0.0938880443572998s
+10 : 4 3 3, Dimension too high, 0, time: 0.05808901786804199s
+10 : 4 3 2 1, Dimension too high, 0, time: 0.09420013427734375s
+10 : 4 3 1 1 1, Dimension too high, 0, time: 0.14934206008911133s
+10 : 4 2 2 2, Dimension too high, 0, time: 0.09549403190612793s
+10 : 4 2 2 1 1, Dimension too high, 0, time: 0.15038609504699707s
+10 : 4 2 1 1 1 1, Dimension too high, 0, time: 0.2419140338897705s
+10 : 4 1 1 1 1 1 1, Dimension too high, 0, time: 0.4349348545074463s
+10 : 3 3 3 1, Dimension too high, 0, time: 0.09389710426330566s
+10 : 3 3 2 2, Dimension too high, 0, time: 0.09362387657165527s
+10 : 3 3 2 1 1, Dimension too high, 0, time: 0.1493220329284668s
+10 : 3 3 1 1 1 1, Dimension too high, 0, time: 0.22692394256591797s
+10 : 3 2 2 2 1, Dimension too high, 0, time: 0.1427440643310547s
+10 : 3 2 2 1 1 1, Dimension too high, 0, time: 0.22406911849975586s
+10 : 3 2 1 1 1 1 1, Dimension too high, 0, time: 0.3730909824371338s
+10 : 3 1 1 1 1 1 1 1, Dimension too high, 0, time: 0.6887538433074951s
+10 : 2 2 2 2 2, Dimension too high, 0, time: 0.14151287078857422s
+10 : 2 2 2 2 1 1, Dimension too high, 0, time: 0.22295618057250977s
+10 : 2 2 2 1 1 1 1, Dimension too high, 0, time: 0.36984992027282715s
+10 : 2 2 1 1 1 1 1 1, Dimension too high, 0, time: 0.6493511199951172s
+10 : 2 1 1 1 1 1 1 1 1, Dimension too high, 0, time: 1.2450170516967773s
+9 1 : 9 1, Dimension too high, 0, time: 0.03270387649536133s
+9 1 : 8 2, Dimension too high, 0, time: 0.032240867614746094s
+9 1 : 8 1 1, Dimension too high, 1, time: 0.06106400489807129s
+9 1 : 7 3, Dimension too high, 0, time: 0.03195309638977051s
+9 1 : 7 2 1, Dimension too high, 1, time: 0.05582284927368164s
+9 1 : 7 1 1 1, Dimension too high, 2, time: 0.0899500846862793s
+9 1 : 6 4, Dimension too high, 0, time: 0.03221297264099121s
+9 1 : 6 3 1, Dimension too high, 1, time: 0.0560460090637207s
+9 1 : 6 2 2, Dimension too high, 1, time: 0.05586695671081543s
+9 1 : 6 2 1 1, Dimension too high, 2, time: 0.09066104888916016s
+9 1 : 6 1 1 1 1, Dimension too high, 3, time: 0.14090704917907715s
+9 1 : 5 5, Dimension too high, 0, time: 0.0324559211730957s
+9 1 : 5 4 1, Dimension too high, 1, time: 0.05621194839477539s
+9 1 : 5 3 2, Dimension too high, 1, time: 0.056220054626464844s
+9 1 : 5 3 1 1, Dimension too high, 2, time: 0.09047079086303711s
+9 1 : 5 2 2 1, Dimension too high, 2, time: 0.09035301208496094s
+9 1 : 5 2 1 1 1, Dimension too high, 3, time: 0.1887359619140625s
+9 1 : 5 1 1 1 1 1, Dimension too high, 4, time: 0.2552049160003662s
+9 1 : 4 4 2, Dimension too high, 1, time: 0.05995607376098633s
+9 1 : 4 4 1 1, Dimension too high, 2, time: 0.09641909599304199s
+9 1 : 4 3 3, Dimension too high, 1, time: 0.05951118469238281s
+9 1 : 4 3 2 1, Dimension too high, 2, time: 0.09742307662963867s
+9 1 : 4 3 1 1 1, Dimension too high, 3, time: 0.1535780429840088s
+9 1 : 4 2 2 2, Dimension too high, 2, time: 0.09630608558654785s
+9 1 : 4 2 2 1 1, Dimension too high, 3, time: 0.1523118019104004s
+9 1 : 4 2 1 1 1 1, Dimension too high, 4, time: 0.2477719783782959s
+9 1 : 4 1 1 1 1 1 1, Dimension too high, 5, time: 0.4138009548187256s
+9 1 : 3 3 3 1, Dimension too high, 2, time: 0.09589314460754395s
+9 1 : 3 3 2 2, Dimension too high, 2, time: 0.09633398056030273s
+9 1 : 3 3 2 1 1, Dimension too high, 3, time: 0.1519029140472412s
+9 1 : 3 3 1 1 1 1, Dimension too high, 4, time: 0.24409699440002441s
+9 1 : 3 2 2 2 1, Dimension too high, 3, time: 0.15229010581970215s
+9 1 : 3 2 2 1 1 1, Dimension too high, 4, time: 0.23649001121520996s
+9 1 : 3 2 1 1 1 1 1, Dimension too high, 5, time: 0.37077999114990234s
+9 1 : 3 1 1 1 1 1 1 1, Dimension too high, 6, time: 0.6368279457092285s
+9 1 : 2 2 2 2 2, Dimension too high, 3, time: 0.14211297035217285s
+9 1 : 2 2 2 2 1 1, Dimension too high, 4, time: 0.2226428985595703s
+9 1 : 2 2 2 1 1 1 1, Dimension too high, 5, time: 0.3673069477081299s
+9 1 : 2 2 1 1 1 1 1 1, Dimension too high, 6, time: 0.634972095489502s
+9 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 7, time: 1.1670238971710205s
+8 2 : 8 2, Dimension too high, 0, time: 0.03268289566040039s
+8 2 : 8 1 1, Dimension too high, 0, time: 0.056153059005737305s
+8 2 : 7 3, Dimension too high, 0, time: 0.03206801414489746s
+8 2 : 7 2 1, Dimension too high, 1, time: 0.05612802505493164s
+8 2 : 7 1 1 1, Dimension too high, 2, time: 0.0909261703491211s
+8 2 : 6 4, Dimension too high, 0, time: 0.0323481559753418s
+8 2 : 6 3 1, Dimension too high, 1, time: 0.05641317367553711s
+8 2 : 6 2 2, Dimension too high, 1, time: 0.05625510215759277s
+8 2 : 6 2 1 1, Dimension too high, 2, time: 0.09116792678833008s
+8 2 : 6 1 1 1 1, Dimension too high, 3, time: 0.14196014404296875s
+8 2 : 5 5, Dimension too high, 0, time: 0.03258180618286133s
+8 2 : 5 4 1, Dimension too high, 1, time: 0.05652594566345215s
+8 2 : 5 3 2, Dimension too high, 1, time: 0.05640411376953125s
+8 2 : 5 3 1 1, Dimension too high, 2, time: 0.09122204780578613s
+8 2 : 5 2 2 1, Dimension too high, 2, time: 0.09101200103759766s
+8 2 : 5 2 1 1 1, Dimension too high, 3, time: 0.1419541835784912s
+8 2 : 5 1 1 1 1 1, Dimension too high, 4, time: 0.22226786613464355s
+8 2 : 4 4 2, Dimension too high, 1, time: 0.0564420223236084s
+8 2 : 4 4 1 1, Dimension too high, 2, time: 0.09069299697875977s
+8 2 : 4 3 3, Dimension too high, 1, time: 0.056234121322631836s
+8 2 : 4 3 2 1, Dimension too high, 2, time: 0.09085988998413086s
+8 2 : 4 3 1 1 1, Dimension too high, 3, time: 0.14170598983764648s
+8 2 : 4 2 2 2, Dimension too high, 2, time: 0.09093213081359863s
+8 2 : 4 2 2 1 1, Dimension too high, 3, time: 0.14144301414489746s
+8 2 : 4 2 1 1 1 1, Dimension too high, 4, time: 0.22169709205627441s
+8 2 : 4 1 1 1 1 1 1, Dimension too high, 5, time: 0.36791419982910156s
+8 2 : 3 3 3 1, Dimension too high, 2, time: 0.09124207496643066s
+8 2 : 3 3 2 2, Dimension too high, 2, time: 0.09108281135559082s
+8 2 : 3 3 2 1 1, Dimension too high, 3, time: 0.1413271427154541s
+8 2 : 3 3 1 1 1 1, Dimension too high, 4, time: 0.22153711318969727s
+8 2 : 3 2 2 2 1, Dimension too high, 3, time: 0.1411299705505371s
+8 2 : 3 2 2 1 1 1, Dimension too high, 4, time: 0.2218189239501953s
+8 2 : 3 2 1 1 1 1 1, Dimension too high, 5, time: 0.3647298812866211s
+8 2 : 3 1 1 1 1 1 1 1, Dimension too high, 6, time: 0.6367580890655518s
+8 2 : 2 2 2 2 2, Dimension too high, 3, time: 0.14162516593933105s
+8 2 : 2 2 2 2 1 1, Dimension too high, 4, time: 0.221390962600708s
+8 2 : 2 2 2 1 1 1 1, Dimension too high, 5, time: 0.3651859760284424s
+8 2 : 2 2 1 1 1 1 1 1, Dimension too high, 6, time: 0.6325650215148926s
+8 2 : 2 1 1 1 1 1 1 1 1, Dimension too high, 7, time: 1.2485859394073486s
+8 1 1 : 8 1 1, Dimension too high, 0, time: 0.05886220932006836s
+8 1 1 : 7 3, Dimension too high, 0, time: 0.03330111503601074s
+8 1 1 : 7 2 1, Dimension too high, 0, time: 0.05903005599975586s
+8 1 1 : 7 1 1 1, Dimension too high, 2, time: 0.09688997268676758s
+8 1 1 : 6 4, Dimension too high, 0, time: 0.036097049713134766s
+8 1 1 : 6 3 1, Dimension too high, 0, time: 0.0602259635925293s
+8 1 1 : 6 2 2, Dimension too high, 0, time: 0.05938291549682617s
+8 1 1 : 6 2 1 1, Dimension too high, 2, time: 0.09641599655151367s
+8 1 1 : 6 1 1 1 1, Dimension too high, 4, time: 0.15383505821228027s
+8 1 1 : 5 5, Dimension too high, 0, time: 0.03429818153381348s
+8 1 1 : 5 4 1, Dimension too high, 0, time: 0.05930781364440918s
+8 1 1 : 5 3 2, Dimension too high, 0, time: 0.05926799774169922s
+8 1 1 : 5 3 1 1, Dimension too high, 2, time: 0.09646105766296387s
+8 1 1 : 5 2 2 1, Dimension too high, 2, time: 0.09651994705200195s
+8 1 1 : 5 2 1 1 1, Dimension too high, 4, time: 0.15302395820617676s
+8 1 1 : 5 1 1 1 1 1, Dimension too high, 6, time: 0.24626421928405762s
+8 1 1 : 4 4 2, Dimension too high, 0, time: 0.05877494812011719s
+8 1 1 : 4 4 1 1, Dimension too high, 2, time: 0.09546899795532227s
+8 1 1 : 4 3 3, Dimension too high, 0, time: 0.059178829193115234s
+8 1 1 : 4 3 2 1, Dimension too high, 2, time: 0.09626603126525879s
+8 1 1 : 4 3 1 1 1, Dimension too high, 4, time: 0.15302801132202148s
+8 1 1 : 4 2 2 2, Dimension too high, 2, time: 0.09774088859558105s
+8 1 1 : 4 2 2 1 1, Dimension too high, 4, time: 0.15275311470031738s
+8 1 1 : 4 2 1 1 1 1, Dimension too high, 6, time: 0.24425601959228516s
+8 1 1 : 4 1 1 1 1 1 1, Dimension too high, 8, time: 0.3877859115600586s
+8 1 1 : 3 3 3 1, Dimension too high, 2, time: 0.09595489501953125s
+8 1 1 : 3 3 2 2, Dimension too high, 2, time: 0.0956418514251709s
+8 1 1 : 3 3 2 1 1, Dimension too high, 4, time: 0.15175509452819824s
+8 1 1 : 3 3 1 1 1 1, Dimension too high, 6, time: 0.22583699226379395s
+8 1 1 : 3 2 2 2 1, Dimension too high, 4, time: 0.14370298385620117s
+8 1 1 : 3 2 2 1 1 1, Dimension too high, 6, time: 0.22350406646728516s
+8 1 1 : 3 2 1 1 1 1 1, Dimension too high, 8, time: 0.3655428886413574s
+8 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 10, time: 0.6265029907226562s
+8 1 1 : 2 2 2 2 2, Dimension too high, 4, time: 0.14291095733642578s
+8 1 1 : 2 2 2 2 1 1, Dimension too high, 6, time: 0.2229139804840088s
+8 1 1 : 2 2 2 1 1 1 1, Dimension too high, 8, time: 0.36481189727783203s
+8 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 10, time: 0.6260240077972412s
+8 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 12, time: 1.1367359161376953s
+7 3 : 7 3, Dimension too high, 0, time: 0.032846927642822266s
+7 3 : 7 2 1, Dimension too high, 0, time: 0.05665302276611328s
+7 3 : 7 1 1 1, Dimension too high, 0, time: 0.09126901626586914s
+7 3 : 6 4, Dimension too high, 0, time: 0.03252100944519043s
+7 3 : 6 3 1, Dimension too high, 1, time: 0.05642819404602051s
+7 3 : 6 2 2, Dimension too high, 1, time: 0.05644679069519043s
+7 3 : 6 2 1 1, Dimension too high, 2, time: 0.09102892875671387s
+7 3 : 6 1 1 1 1, Dimension too high, 3, time: 0.1419680118560791s
+7 3 : 5 5, Dimension too high, 0, time: 0.03285408020019531s
+7 3 : 5 4 1, Dimension too high, 1, time: 0.05734515190124512s
+7 3 : 5 3 2, Dimension too high, 1, time: 0.0568389892578125s
+7 3 : 5 3 1 1, Dimension too high, 2, time: 0.09174680709838867s
+7 3 : 5 2 2 1, Dimension too high, 2, time: 0.09200811386108398s
+7 3 : 5 2 1 1 1, Dimension too high, 3, time: 0.14239811897277832s
+7 3 : 5 1 1 1 1 1, Dimension too high, 4, time: 0.22252106666564941s
+7 3 : 4 4 2, Dimension too high, 1, time: 0.05693793296813965s
+7 3 : 4 4 1 1, Dimension too high, 2, time: 0.09112906455993652s
+7 3 : 4 3 3, Dimension too high, 1, time: 0.05656599998474121s
+7 3 : 4 3 2 1, Dimension too high, 2, time: 0.09106707572937012s
+7 3 : 4 3 1 1 1, Dimension too high, 3, time: 0.1419060230255127s
+7 3 : 4 2 2 2, Dimension too high, 2, time: 0.09130692481994629s
+7 3 : 4 2 2 1 1, Dimension too high, 3, time: 0.14233613014221191s
+7 3 : 4 2 1 1 1 1, Dimension too high, 4, time: 0.22314906120300293s
+7 3 : 4 1 1 1 1 1 1, Dimension too high, 5, time: 0.36669492721557617s
+7 3 : 3 3 3 1, Dimension too high, 2, time: 0.09124398231506348s
+7 3 : 3 3 2 2, Dimension too high, 2, time: 0.0909891128540039s
+7 3 : 3 3 2 1 1, Dimension too high, 3, time: 0.14151406288146973s
+7 3 : 3 3 1 1 1 1, Dimension too high, 4, time: 0.22222113609313965s
+7 3 : 3 2 2 2 1, Dimension too high, 3, time: 0.14272093772888184s
+7 3 : 3 2 2 1 1 1, Dimension too high, 4, time: 0.2225809097290039s
+7 3 : 3 2 1 1 1 1 1, Dimension too high, 5, time: 0.36583900451660156s
+7 3 : 3 1 1 1 1 1 1 1, Dimension too high, 6, time: 0.6355860233306885s
+7 3 : 2 2 2 2 2, Dimension too high, 3, time: 0.14193201065063477s
+7 3 : 2 2 2 2 1 1, Dimension too high, 4, time: 0.22343707084655762s
+7 3 : 2 2 2 1 1 1 1, Dimension too high, 5, time: 0.3679540157318115s
+7 3 : 2 2 1 1 1 1 1 1, Dimension too high, 6, time: 0.641136884689331s
+7 3 : 2 1 1 1 1 1 1 1 1, Dimension too high, 7, time: 1.3248569965362549s
+7 2 1 : 7 2 1, Dimension too high, 0, time: 0.0589449405670166s
+7 2 1 : 7 1 1 1, Dimension too high, 1, time: 0.09649395942687988s
+7 2 1 : 6 4, Dimension too high, 0, time: 0.03398585319519043s
+7 2 1 : 6 3 1, Dimension too high, 0, time: 0.059316158294677734s
+7 2 1 : 6 2 2, Dimension too high, 1, time: 0.059782981872558594s
+7 2 1 : 6 2 1 1, Dimension too high, 3, time: 0.09692001342773438s
+7 2 1 : 6 1 1 1 1, Dimension too high, 5, time: 0.1534559726715088s
+7 2 1 : 5 5, Dimension too high, 0, time: 0.03446602821350098s
+7 2 1 : 5 4 1, Dimension too high, 0, time: 0.05942893028259277s
+7 2 1 : 5 3 2, Dimension too high, 1, time: 0.0592648983001709s
+7 2 1 : 5 3 1 1, Dimension too high, 3, time: 0.09644579887390137s
+7 2 1 : 5 2 2 1, Dimension too high, 3, time: 0.0976557731628418s
+7 2 1 : 5 2 1 1 1, Dimension too high, 5, time: 0.15338921546936035s
+7 2 1 : 5 1 1 1 1 1, Dimension too high, 7, time: 0.246690034866333s
+7 2 1 : 4 4 2, Dimension too high, 1, time: 0.05964303016662598s
+7 2 1 : 4 4 1 1, Dimension too high, 3, time: 0.09680891036987305s
+7 2 1 : 4 3 3, Dimension too high, 1, time: 0.059938907623291016s
+7 2 1 : 4 3 2 1, Dimension too high, 3, time: 0.09668993949890137s
+7 2 1 : 4 3 1 1 1, Dimension too high, 5, time: 0.15263080596923828s
+7 2 1 : 4 2 2 2, Dimension too high, 3, time: 0.09718990325927734s
+7 2 1 : 4 2 2 1 1, Dimension too high, 5, time: 0.1523909568786621s
+7 2 1 : 4 2 1 1 1 1, Dimension too high, 7, time: 0.2445371150970459s
+7 2 1 : 4 1 1 1 1 1 1, Dimension too high, 9, time: 0.3894948959350586s
+7 2 1 : 3 3 3 1, Dimension too high, 3, time: 0.0967249870300293s
+7 2 1 : 3 3 2 2, Dimension too high, 3, time: 0.09586215019226074s
+7 2 1 : 3 3 2 1 1, Dimension too high, 5, time: 0.14904189109802246s
+7 2 1 : 3 3 1 1 1 1, Dimension too high, 7, time: 0.22682404518127441s
+7 2 1 : 3 2 2 2 1, Dimension too high, 5, time: 0.14407706260681152s
+7 2 1 : 3 2 2 1 1 1, Dimension too high, 7, time: 0.22336196899414062s
+7 2 1 : 3 2 1 1 1 1 1, Dimension too high, 9, time: 0.36625003814697266s
+7 2 1 : 3 1 1 1 1 1 1 1, 203*x^6 + 2022*x^5 + 4835*x^4 + 3588*x^3 + 864*x^2 + 58*x + 1, 11, time: 4.221389055252075s
+7 2 1 : 2 2 2 2 2, Dimension too high, 5, time: 0.1542220115661621s
+7 2 1 : 2 2 2 2 1 1, Dimension too high, 7, time: 0.2434101104736328s
+7 2 1 : 2 2 2 1 1 1 1, Dimension too high, 9, time: 0.3965280055999756s
+7 2 1 : 2 2 1 1 1 1 1 1, 204*x^6 + 2052*x^5 + 4985*x^4 + 3788*x^3 + 933*x^2 + 64*x + 1, 11, time: 3.3589179515838623s
+7 2 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 13, time: 1.1662709712982178s
+7 1 1 1 : 7 1 1 1, Dimension too high, 0, time: 0.09519100189208984s
+7 1 1 1 : 6 4, Dimension too high, 0, time: 0.03375601768493652s
+7 1 1 1 : 6 3 1, Dimension too high, -1, time: 0.0056438446044921875s
+7 1 1 1 : 6 2 2, Dimension too high, 0, time: 0.05789685249328613s
+7 1 1 1 : 6 2 1 1, Dimension too high, 0, time: 0.09311509132385254s
+7 1 1 1 : 6 1 1 1 1, Dimension too high, 3, time: 0.14341187477111816s
+7 1 1 1 : 5 5, Dimension too high, 0, time: 0.03308510780334473s
+7 1 1 1 : 5 4 1, Dimension too high, -1, time: 0.005471944808959961s
+7 1 1 1 : 5 3 2, Dimension too high, 0, time: 0.05721402168273926s
+7 1 1 1 : 5 3 1 1, Dimension too high, 0, time: 0.0920250415802002s
+7 1 1 1 : 5 2 2 1, Dimension too high, 0, time: 0.09263396263122559s
+7 1 1 1 : 5 2 1 1 1, Dimension too high, 3, time: 0.14345812797546387s
+7 1 1 1 : 5 1 1 1 1 1, Dimension too high, 6, time: 0.22267484664916992s
+7 1 1 1 : 4 4 2, Dimension too high, 0, time: 0.056849002838134766s
+7 1 1 1 : 4 4 1 1, Dimension too high, 0, time: 0.09161901473999023s
+7 1 1 1 : 4 3 3, Dimension too high, 0, time: 0.056797027587890625s
+7 1 1 1 : 4 3 2 1, Dimension too high, 0, time: 0.09185910224914551s
+7 1 1 1 : 4 3 1 1 1, Dimension too high, 3, time: 0.14259004592895508s
+7 1 1 1 : 4 2 2 2, Dimension too high, 0, time: 0.0917971134185791s
+7 1 1 1 : 4 2 2 1 1, Dimension too high, 3, time: 0.14261198043823242s
+7 1 1 1 : 4 2 1 1 1 1, Dimension too high, 6, time: 0.22276997566223145s
+7 1 1 1 : 4 1 1 1 1 1 1, Dimension too high, 9, time: 0.36399292945861816s
+7 1 1 1 : 3 3 3 1, Dimension too high, 0, time: 0.09171295166015625s
+7 1 1 1 : 3 3 2 2, Dimension too high, 0, time: 0.09178900718688965s
+7 1 1 1 : 3 3 2 1 1, Dimension too high, 3, time: 0.1425151824951172s
+7 1 1 1 : 3 3 1 1 1 1, Dimension too high, 6, time: 0.2223038673400879s
+7 1 1 1 : 3 2 2 2 1, Dimension too high, 3, time: 0.14307093620300293s
+7 1 1 1 : 3 2 2 1 1 1, Dimension too high, 6, time: 0.22273921966552734s
+7 1 1 1 : 3 2 1 1 1 1 1, Dimension too high, 9, time: 0.3638589382171631s
+7 1 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 12, time: 0.625032901763916s
+7 1 1 1 : 2 2 2 2 2, Dimension too high, 3, time: 0.1426558494567871s
+7 1 1 1 : 2 2 2 2 1 1, Dimension too high, 6, time: 0.22251009941101074s
+7 1 1 1 : 2 2 2 1 1 1 1, Dimension too high, 9, time: 0.36449289321899414s
+7 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 12, time: 0.6231980323791504s
+7 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 15, time: 1.1257460117340088s
+6 4 : 6 4, Dimension too high, 0, time: 0.03275895118713379s
+6 4 : 6 3 1, Dimension too high, 0, time: 0.056532859802246094s
+6 4 : 6 2 2, Dimension too high, 0, time: 0.05654406547546387s
+6 4 : 6 2 1 1, Dimension too high, 0, time: 0.09099817276000977s
+6 4 : 6 1 1 1 1, Dimension too high, 0, time: 0.14182400703430176s
+6 4 : 5 5, Dimension too high, 0, time: 0.03239011764526367s
+6 4 : 5 4 1, Dimension too high, 1, time: 0.0561671257019043s
+6 4 : 5 3 2, Dimension too high, 1, time: 0.05674600601196289s
+6 4 : 5 3 1 1, Dimension too high, 2, time: 0.09136295318603516s
+6 4 : 5 2 2 1, Dimension too high, 2, time: 0.09144806861877441s
+6 4 : 5 2 1 1 1, Dimension too high, 3, time: 0.1419379711151123s
+6 4 : 5 1 1 1 1 1, Dimension too high, 4, time: 0.2217249870300293s
+6 4 : 4 4 2, Dimension too high, 1, time: 0.05649614334106445s
+6 4 : 4 4 1 1, Dimension too high, 2, time: 0.0909891128540039s
+6 4 : 4 3 3, Dimension too high, 1, time: 0.05642294883728027s
+6 4 : 4 3 2 1, Dimension too high, 2, time: 0.09101295471191406s
+6 4 : 4 3 1 1 1, Dimension too high, 3, time: 0.14194393157958984s
+6 4 : 4 2 2 2, Dimension too high, 2, time: 0.09121108055114746s
+6 4 : 4 2 2 1 1, Dimension too high, 3, time: 0.14186978340148926s
+6 4 : 4 2 1 1 1 1, Dimension too high, 4, time: 0.22275495529174805s
+6 4 : 4 1 1 1 1 1 1, Dimension too high, 5, time: 0.3663210868835449s
+6 4 : 3 3 3 1, Dimension too high, 2, time: 0.09107494354248047s
+6 4 : 3 3 2 2, Dimension too high, 2, time: 0.09112715721130371s
+6 4 : 3 3 2 1 1, Dimension too high, 3, time: 0.14206886291503906s
+6 4 : 3 3 1 1 1 1, Dimension too high, 4, time: 0.22361993789672852s
+6 4 : 3 2 2 2 1, Dimension too high, 3, time: 0.1625208854675293s
+6 4 : 3 2 2 1 1 1, Dimension too high, 4, time: 0.2516448497772217s
+6 4 : 3 2 1 1 1 1 1, Dimension too high, 5, time: 0.4233541488647461s
+6 4 : 3 1 1 1 1 1 1 1, Dimension too high, 6, time: 0.6859009265899658s
+6 4 : 2 2 2 2 2, Dimension too high, 3, time: 0.15272998809814453s
+6 4 : 2 2 2 2 1 1, Dimension too high, 4, time: 0.24256396293640137s
+6 4 : 2 2 2 1 1 1 1, Dimension too high, 5, time: 0.37866997718811035s
+6 4 : 2 2 1 1 1 1 1 1, Dimension too high, 6, time: 0.6501991748809814s
+6 4 : 2 1 1 1 1 1 1 1 1, Dimension too high, 7, time: 1.179414987564087s
+6 3 1 : 6 3 1, Dimension too high, 0, time: 0.05718088150024414s
+6 3 1 : 6 2 2, Dimension too high, 0, time: 0.05656290054321289s
+6 3 1 : 6 2 1 1, Dimension too high, 1, time: 0.0915830135345459s
+6 3 1 : 6 1 1 1 1, Dimension too high, 2, time: 0.14284801483154297s
+6 3 1 : 5 5, Dimension too high, 0, time: 0.03271794319152832s
+6 3 1 : 5 4 1, Dimension too high, 0, time: 0.056633949279785156s
+6 3 1 : 5 3 2, Dimension too high, 1, time: 0.05672001838684082s
+6 3 1 : 5 3 1 1, Dimension too high, 3, time: 0.09143209457397461s
+6 3 1 : 5 2 2 1, Dimension too high, 3, time: 0.09142804145812988s
+6 3 1 : 5 2 1 1 1, Dimension too high, 5, time: 0.142225980758667s
+6 3 1 : 5 1 1 1 1 1, Dimension too high, 7, time: 0.22266101837158203s
+6 3 1 : 4 4 2, Dimension too high, 1, time: 0.05678606033325195s
+6 3 1 : 4 4 1 1, Dimension too high, 3, time: 0.09139609336853027s
+6 3 1 : 4 3 3, Dimension too high, 1, time: 0.05698680877685547s
+6 3 1 : 4 3 2 1, Dimension too high, 3, time: 0.09160995483398438s
+6 3 1 : 4 3 1 1 1, Dimension too high, 5, time: 0.14203286170959473s
+6 3 1 : 4 2 2 2, Dimension too high, 3, time: 0.0917198657989502s
+6 3 1 : 4 2 2 1 1, Dimension too high, 5, time: 0.14274096488952637s
+6 3 1 : 4 2 1 1 1 1, Dimension too high, 7, time: 0.22302007675170898s
+6 3 1 : 4 1 1 1 1 1 1, Dimension too high, 9, time: 0.3662848472595215s
+6 3 1 : 3 3 3 1, Dimension too high, 3, time: 0.09149003028869629s
+6 3 1 : 3 3 2 2, Dimension too high, 3, time: 0.091278076171875s
+6 3 1 : 3 3 2 1 1, Dimension too high, 5, time: 0.1421949863433838s
+6 3 1 : 3 3 1 1 1 1, Dimension too high, 7, time: 0.22214889526367188s
+6 3 1 : 3 2 2 2 1, Dimension too high, 5, time: 0.14238715171813965s
+6 3 1 : 3 2 2 1 1 1, Dimension too high, 7, time: 0.22275710105895996s
+6 3 1 : 3 2 1 1 1 1 1, Dimension too high, 9, time: 0.3656198978424072s
+6 3 1 : 3 1 1 1 1 1 1 1, 2128*x^6 + 12732*x^5 + 20550*x^4 + 11057*x^3 + 1956*x^2 + 93*x + 1, 11, time: 3.019026041030884s
+6 3 1 : 2 2 2 2 2, Dimension too high, 5, time: 0.15476703643798828s
+6 3 1 : 2 2 2 2 1 1, Dimension too high, 7, time: 0.24747610092163086s
+6 3 1 : 2 2 2 1 1 1 1, Dimension too high, 9, time: 0.4064748287200928s
+6 3 1 : 2 2 1 1 1 1 1 1, 2882*x^6 + 17838*x^5 + 29199*x^4 + 15643*x^3 + 2682*x^2 + 117*x + 1, 11, time: 3.304633140563965s
+6 3 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 13, time: 1.1972150802612305s
+6 2 2 : 6 2 2, Dimension too high, 0, time: 0.058624982833862305s
+6 2 2 : 6 2 1 1, Dimension too high, 0, time: 0.09583091735839844s
+6 2 2 : 6 1 1 1 1, Dimension too high, 1, time: 0.151961088180542s
+6 2 2 : 5 5, Dimension too high, 0, time: 0.034204959869384766s
+6 2 2 : 5 4 1, Dimension too high, -1, time: 0.005617856979370117s
+6 2 2 : 5 3 2, Dimension too high, 0, time: 0.05875802040100098s
+6 2 2 : 5 3 1 1, Dimension too high, 0, time: 0.09559202194213867s
+6 2 2 : 5 2 2 1, Dimension too high, 2, time: 0.0959470272064209s
+6 2 2 : 5 2 1 1 1, Dimension too high, 4, time: 0.15108394622802734s
+6 2 2 : 5 1 1 1 1 1, Dimension too high, 6, time: 0.2360548973083496s
+6 2 2 : 4 4 2, Dimension too high, 0, time: 0.058892011642456055s
+6 2 2 : 4 4 1 1, Dimension too high, 0, time: 0.0953369140625s
+6 2 2 : 4 3 3, Dimension too high, 0, time: 0.0585780143737793s
+6 2 2 : 4 3 2 1, Dimension too high, 2, time: 0.09484410285949707s
+6 2 2 : 4 3 1 1 1, Dimension too high, 4, time: 0.14505410194396973s
+6 2 2 : 4 2 2 2, Dimension too high, 2, time: 0.0926351547241211s
+6 2 2 : 4 2 2 1 1, Dimension too high, 4, time: 0.14284491539001465s
+6 2 2 : 4 2 1 1 1 1, Dimension too high, 6, time: 0.2249751091003418s
+6 2 2 : 4 1 1 1 1 1 1, Dimension too high, 8, time: 0.37094902992248535s
+6 2 2 : 3 3 3 1, Dimension too high, 2, time: 0.09213399887084961s
+6 2 2 : 3 3 2 2, Dimension too high, 2, time: 0.0921480655670166s
+6 2 2 : 3 3 2 1 1, Dimension too high, 4, time: 0.1430659294128418s
+6 2 2 : 3 3 1 1 1 1, Dimension too high, 6, time: 0.22387409210205078s
+6 2 2 : 3 2 2 2 1, Dimension too high, 4, time: 0.14295697212219238s
+6 2 2 : 3 2 2 1 1 1, Dimension too high, 6, time: 0.22339200973510742s
+6 2 2 : 3 2 1 1 1 1 1, Dimension too high, 8, time: 0.36763715744018555s
+6 2 2 : 3 1 1 1 1 1 1 1, Dimension too high, 10, time: 0.6383860111236572s
+6 2 2 : 2 2 2 2 2, Dimension too high, 4, time: 0.14261412620544434s
+6 2 2 : 2 2 2 2 1 1, Dimension too high, 6, time: 0.22217106819152832s
+6 2 2 : 2 2 2 1 1 1 1, Dimension too high, 8, time: 0.3651280403137207s
+6 2 2 : 2 2 1 1 1 1 1 1, Dimension too high, 10, time: 0.6331870555877686s
+6 2 2 : 2 1 1 1 1 1 1 1 1, Dimension too high, 12, time: 1.1650798320770264s
+6 2 1 1 : 6 2 1 1, Dimension too high, 0, time: 0.09168791770935059s
+6 2 1 1 : 6 1 1 1 1, Dimension too high, 2, time: 0.14202094078063965s
+6 2 1 1 : 5 5, Dimension too high, 0, time: 0.03258395195007324s
+6 2 1 1 : 5 4 1, Dimension too high, -1, time: 0.005295991897583008s
+6 2 1 1 : 5 3 2, Dimension too high, 0, time: 0.05661296844482422s
+6 2 1 1 : 5 3 1 1, Dimension too high, 0, time: 0.09134411811828613s
+6 2 1 1 : 5 2 2 1, Dimension too high, 1, time: 0.09123802185058594s
+6 2 1 1 : 5 2 1 1 1, Dimension too high, 5, time: 0.14187908172607422s
+6 2 1 1 : 5 1 1 1 1 1, Dimension too high, 8, time: 0.22228598594665527s
+6 2 1 1 : 4 4 2, Dimension too high, 0, time: 0.05705690383911133s
+6 2 1 1 : 4 4 1 1, Dimension too high, 0, time: 0.09144282341003418s
+6 2 1 1 : 4 3 3, Dimension too high, 1, time: 0.0565190315246582s
+6 2 1 1 : 4 3 2 1, Dimension too high, 1, time: 0.09135293960571289s
+6 2 1 1 : 4 3 1 1 1, Dimension too high, 5, time: 0.14178013801574707s
+6 2 1 1 : 4 2 2 2, Dimension too high, 2, time: 0.09128308296203613s
+6 2 1 1 : 4 2 2 1 1, Dimension too high, 5, time: 0.14179015159606934s
+6 2 1 1 : 4 2 1 1 1 1, Dimension too high, 8, time: 0.22130703926086426s
+6 2 1 1 : 4 1 1 1 1 1 1, 15*x^7 + 300*x^6 + 1455*x^5 + 2460*x^4 + 1590*x^3 + 396*x^2 + 33*x + 1, 11, time: 0.4110851287841797s
+6 2 1 1 : 3 3 3 1, Dimension too high, 1, time: 0.09280610084533691s
+6 2 1 1 : 3 3 2 2, Dimension too high, 2, time: 0.09134602546691895s
+6 2 1 1 : 3 3 2 1 1, Dimension too high, 5, time: 0.15399384498596191s
+6 2 1 1 : 3 3 1 1 1 1, Dimension too high, 8, time: 0.23711609840393066s
+6 2 1 1 : 3 2 2 2 1, Dimension too high, 5, time: 0.1419820785522461s
+6 2 1 1 : 3 2 2 1 1 1, Dimension too high, 8, time: 0.22129607200622559s
+6 2 1 1 : 3 2 1 1 1 1 1, 16*x^7 + 348*x^6 + 1801*x^5 + 3175*x^4 + 2110*x^3 + 526*x^2 + 43*x + 1, 11, time: 0.403947114944458s
+6 2 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 14, time: 0.6270501613616943s
+6 2 1 1 : 2 2 2 2 2, Dimension too high, 5, time: 0.1425950527191162s
+6 2 1 1 : 2 2 2 2 1 1, Dimension too high, 8, time: 0.2214200496673584s
+6 2 1 1 : 2 2 2 1 1 1 1, 17*x^7 + 396*x^6 + 2157*x^5 + 3935*x^4 + 2671*x^3 + 666*x^2 + 53*x + 1, 11, time: 0.4161710739135742s
+6 2 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 14, time: 0.6310169696807861s
+6 2 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 17, time: 1.2162549495697021s
+6 1 1 1 1 : 6 1 1 1 1, Dimension too high, 0, time: 0.15366005897521973s
+6 1 1 1 1 : 5 5, Dimension too high, 0, time: 0.034429073333740234s
+6 1 1 1 1 : 5 4 1, Dimension too high, -1, time: 0.00572514533996582s
+6 1 1 1 1 : 5 3 2, Dimension too high, -1, time: 0.005439043045043945s
+6 1 1 1 1 : 5 3 1 1, Dimension too high, -1, time: 0.00568699836730957s
+6 1 1 1 1 : 5 2 2 1, Dimension too high, -1, time: 0.0059168338775634766s
+6 1 1 1 1 : 5 2 1 1 1, Dimension too high, 0, time: 0.1530749797821045s
+6 1 1 1 1 : 5 1 1 1 1 1, Dimension too high, 4, time: 0.23967695236206055s
+6 1 1 1 1 : 4 4 2, Dimension too high, -1, time: 0.0060269832611083984s
+6 1 1 1 1 : 4 4 1 1, Dimension too high, -1, time: 0.0058171749114990234s
+6 1 1 1 1 : 4 3 3, Dimension too high, 0, time: 0.05906510353088379s
+6 1 1 1 1 : 4 3 2 1, Dimension too high, -1, time: 0.006203174591064453s
+6 1 1 1 1 : 4 3 1 1 1, Dimension too high, 0, time: 0.14910197257995605s
+6 1 1 1 1 : 4 2 2 2, Dimension too high, 0, time: 0.09497714042663574s
+6 1 1 1 1 : 4 2 2 1 1, Dimension too high, 0, time: 0.14469289779663086s
+6 1 1 1 1 : 4 2 1 1 1 1, Dimension too high, 4, time: 0.2252030372619629s
+6 1 1 1 1 : 4 1 1 1 1 1 1, Dimension too high, 8, time: 0.3668348789215088s
+6 1 1 1 1 : 3 3 3 1, Dimension too high, -1, time: 0.006095170974731445s
+6 1 1 1 1 : 3 3 2 2, Dimension too high, 0, time: 0.0918889045715332s
+6 1 1 1 1 : 3 3 2 1 1, Dimension too high, 0, time: 0.14535212516784668s
+6 1 1 1 1 : 3 3 1 1 1 1, Dimension too high, 4, time: 0.22486305236816406s
+6 1 1 1 1 : 3 2 2 2 1, Dimension too high, 0, time: 0.1435391902923584s
+6 1 1 1 1 : 3 2 2 1 1 1, Dimension too high, 4, time: 0.22422194480895996s
+6 1 1 1 1 : 3 2 1 1 1 1 1, Dimension too high, 8, time: 0.3664069175720215s
+6 1 1 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 12, time: 0.624006986618042s
+6 1 1 1 1 : 2 2 2 2 2, Dimension too high, 0, time: 0.14283084869384766s
+6 1 1 1 1 : 2 2 2 2 1 1, Dimension too high, 4, time: 0.22302699089050293s
+6 1 1 1 1 : 2 2 2 1 1 1 1, Dimension too high, 8, time: 0.3642580509185791s
+6 1 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 12, time: 0.6232550144195557s
+6 1 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 16, time: 1.1221249103546143s
+5 5 : 5 5, Dimension too high, 0, time: 0.0329740047454834s
+5 5 : 5 4 1, Dimension too high, 0, time: 0.05655789375305176s
+5 5 : 5 3 2, Dimension too high, 0, time: 0.05638599395751953s
+5 5 : 5 3 1 1, Dimension too high, 0, time: 0.0913550853729248s
+5 5 : 5 2 2 1, Dimension too high, 0, time: 0.09138202667236328s
+5 5 : 5 2 1 1 1, Dimension too high, 0, time: 0.14227986335754395s
+5 5 : 5 1 1 1 1 1, Dimension too high, 0, time: 0.224074125289917s
+5 5 : 4 4 2, Dimension too high, 0, time: 0.056648969650268555s
+5 5 : 4 4 1 1, Dimension too high, 1, time: 0.09152102470397949s
+5 5 : 4 3 3, Dimension too high, 0, time: 0.056897878646850586s
+5 5 : 4 3 2 1, Dimension too high, 1, time: 0.0912477970123291s
+5 5 : 4 3 1 1 1, Dimension too high, 2, time: 0.1421198844909668s
+5 5 : 4 2 2 2, Dimension too high, 1, time: 0.09114885330200195s
+5 5 : 4 2 2 1 1, Dimension too high, 2, time: 0.14215493202209473s
+5 5 : 4 2 1 1 1 1, Dimension too high, 3, time: 0.22265982627868652s
+5 5 : 4 1 1 1 1 1 1, Dimension too high, 4, time: 0.36834001541137695s
+5 5 : 3 3 3 1, Dimension too high, 1, time: 0.09179115295410156s
+5 5 : 3 3 2 2, Dimension too high, 1, time: 0.09119582176208496s
+5 5 : 3 3 2 1 1, Dimension too high, 2, time: 0.14249610900878906s
+5 5 : 3 3 1 1 1 1, Dimension too high, 3, time: 0.2252960205078125s
+5 5 : 3 2 2 2 1, Dimension too high, 2, time: 0.14252996444702148s
+5 5 : 3 2 2 1 1 1, Dimension too high, 3, time: 0.22343683242797852s
+5 5 : 3 2 1 1 1 1 1, Dimension too high, 4, time: 0.368732213973999s
+5 5 : 3 1 1 1 1 1 1 1, Dimension too high, 5, time: 0.6393609046936035s
+5 5 : 2 2 2 2 2, Dimension too high, 2, time: 0.14237403869628906s
+5 5 : 2 2 2 2 1 1, Dimension too high, 3, time: 0.2238140106201172s
+5 5 : 2 2 2 1 1 1 1, Dimension too high, 4, time: 0.36860108375549316s
+5 5 : 2 2 1 1 1 1 1 1, Dimension too high, 5, time: 0.6597371101379395s
+5 5 : 2 1 1 1 1 1 1 1 1, Dimension too high, 6, time: 1.2572710514068604s
+5 4 1 : 5 4 1, Dimension too high, 0, time: 0.05986905097961426s
+5 4 1 : 5 3 2, Dimension too high, 0, time: 0.05939888954162598s
+5 4 1 : 5 3 1 1, Dimension too high, 1, time: 0.09638404846191406s
+5 4 1 : 5 2 2 1, Dimension too high, 1, time: 0.09684586524963379s
+5 4 1 : 5 2 1 1 1, Dimension too high, 2, time: 0.15302681922912598s
+5 4 1 : 5 1 1 1 1 1, Dimension too high, 3, time: 0.24415111541748047s
+5 4 1 : 4 4 2, Dimension too high, 1, time: 0.05937314033508301s
+5 4 1 : 4 4 1 1, Dimension too high, 3, time: 0.09566998481750488s
+5 4 1 : 4 3 3, Dimension too high, 1, time: 0.05906486511230469s
+5 4 1 : 4 3 2 1, Dimension too high, 3, time: 0.09568500518798828s
+5 4 1 : 4 3 1 1 1, Dimension too high, 5, time: 0.15002012252807617s
+5 4 1 : 4 2 2 2, Dimension too high, 3, time: 0.09602499008178711s
+5 4 1 : 4 2 2 1 1, Dimension too high, 5, time: 0.14627504348754883s
+5 4 1 : 4 2 1 1 1 1, Dimension too high, 7, time: 0.2238450050354004s
+5 4 1 : 4 1 1 1 1 1 1, Dimension too high, 9, time: 0.36756300926208496s
+5 4 1 : 3 3 3 1, Dimension too high, 3, time: 0.09245800971984863s
+5 4 1 : 3 3 2 2, Dimension too high, 3, time: 0.09209203720092773s
+5 4 1 : 3 3 2 1 1, Dimension too high, 5, time: 0.14318299293518066s
+5 4 1 : 3 3 1 1 1 1, Dimension too high, 7, time: 0.22420716285705566s
+5 4 1 : 3 2 2 2 1, Dimension too high, 5, time: 0.14313292503356934s
+5 4 1 : 3 2 2 1 1 1, Dimension too high, 7, time: 0.22459888458251953s
+5 4 1 : 3 2 1 1 1 1 1, Dimension too high, 9, time: 0.3679640293121338s
+5 4 1 : 3 1 1 1 1 1 1 1, 412*x^6 + 3742*x^5 + 8073*x^4 + 5404*x^3 + 1160*x^2 + 66*x + 1, 11, time: 3.6696860790252686s
+5 4 1 : 2 2 2 2 2, Dimension too high, 5, time: 0.15478992462158203s
+5 4 1 : 2 2 2 2 1 1, Dimension too high, 7, time: 0.24837994575500488s
+5 4 1 : 2 2 2 1 1 1 1, Dimension too high, 9, time: 0.41072797775268555s
+5 4 1 : 2 2 1 1 1 1 1 1, 2577*x^6 + 15376*x^5 + 24516*x^4 + 12876*x^3 + 2186*x^2 + 96*x + 1, 11, time: 4.247426986694336s
+5 4 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 13, time: 1.1815378665924072s
+5 3 2 : 5 3 2, Dimension too high, 0, time: 0.05941200256347656s
+5 3 2 : 5 3 1 1, Dimension too high, 0, time: 0.09611010551452637s
+5 3 2 : 5 2 2 1, Dimension too high, 1, time: 0.09586191177368164s
+5 3 2 : 5 2 1 1 1, Dimension too high, 2, time: 0.14952611923217773s
+5 3 2 : 5 1 1 1 1 1, Dimension too high, 3, time: 0.22774004936218262s
+5 3 2 : 4 4 2, Dimension too high, 0, time: 0.05804800987243652s
+5 3 2 : 4 4 1 1, Dimension too high, 0, time: 0.09259581565856934s
+5 3 2 : 4 3 3, Dimension too high, 1, time: 0.057463884353637695s
+5 3 2 : 4 3 2 1, Dimension too high, 3, time: 0.09209799766540527s
+5 3 2 : 4 3 1 1 1, Dimension too high, 5, time: 0.14305806159973145s
+5 3 2 : 4 2 2 2, Dimension too high, 3, time: 0.09260797500610352s
+5 3 2 : 4 2 2 1 1, Dimension too high, 5, time: 0.14367008209228516s
+5 3 2 : 4 2 1 1 1 1, Dimension too high, 7, time: 0.22393584251403809s
+5 3 2 : 4 1 1 1 1 1 1, Dimension too high, 9, time: 0.3704640865325928s
+5 3 2 : 3 3 3 1, Dimension too high, 3, time: 0.09201502799987793s
+5 3 2 : 3 3 2 2, Dimension too high, 3, time: 0.09168601036071777s
+5 3 2 : 3 3 2 1 1, Dimension too high, 5, time: 0.14245080947875977s
+5 3 2 : 3 3 1 1 1 1, Dimension too high, 7, time: 0.22407293319702148s
+5 3 2 : 3 2 2 2 1, Dimension too high, 5, time: 0.1429309844970703s
+5 3 2 : 3 2 2 1 1 1, Dimension too high, 7, time: 0.22381091117858887s
+5 3 2 : 3 2 1 1 1 1 1, Dimension too high, 9, time: 0.3687899112701416s
+5 3 2 : 3 1 1 1 1 1 1 1, 63*x^8 + 1974*x^7 + 15708*x^6 + 42426*x^5 + 43587*x^4 + 17154*x^3 + 2376*x^2 + 93*x + 1, 11, time: 2.8239381313323975s
+5 3 2 : 2 2 2 2 2, Dimension too high, 5, time: 0.15493392944335938s
+5 3 2 : 2 2 2 2 1 1, Dimension too high, 7, time: 0.24526095390319824s
+5 3 2 : 2 2 2 1 1 1 1, Dimension too high, 9, time: 0.4031980037689209s
+5 3 2 : 2 2 1 1 1 1 1 1, x^9 + 216*x^8 + 6090*x^7 + 44469*x^6 + 110448*x^5 + 103452*x^4 + 36462*x^3 + 4366*x^2 + 138*x + 1, 11, time: 2.874635934829712s
+5 3 2 : 2 1 1 1 1 1 1 1 1, Dimension too high, 13, time: 1.19822096824646s
+5 3 1 1 : 5 3 1 1, Dimension too high, 0, time: 0.09608006477355957s
+5 3 1 1 : 5 2 2 1, Dimension too high, 0, time: 0.09540510177612305s
+5 3 1 1 : 5 2 1 1 1, Dimension too high, 2, time: 0.1508650779724121s
+5 3 1 1 : 5 1 1 1 1 1, Dimension too high, 4, time: 0.22706985473632812s
+5 3 1 1 : 4 4 2, Dimension too high, 0, time: 0.05880999565124512s
+5 3 1 1 : 4 4 1 1, Dimension too high, 0, time: 0.09284400939941406s
+5 3 1 1 : 4 3 3, Dimension too high, 1, time: 0.05750417709350586s
+5 3 1 1 : 4 3 2 1, Dimension too high, 1, time: 0.09260296821594238s
+5 3 1 1 : 4 3 1 1 1, Dimension too high, 5, time: 0.1427600383758545s
+5 3 1 1 : 4 2 2 2, Dimension too high, 2, time: 0.09198188781738281s
+5 3 1 1 : 4 2 2 1 1, Dimension too high, 5, time: 0.14285612106323242s
+5 3 1 1 : 4 2 1 1 1 1, Dimension too high, 8, time: 0.2223210334777832s
+5 3 1 1 : 4 1 1 1 1 1 1, 10*x^6 + 180*x^5 + 615*x^4 + 616*x^3 + 219*x^2 + 24*x + 1, 11, time: 0.402846097946167s
+5 3 1 1 : 3 3 3 1, Dimension too high, 1, time: 0.09272980690002441s
+5 3 1 1 : 3 3 2 2, Dimension too high, 2, time: 0.09154486656188965s
+5 3 1 1 : 3 3 2 1 1, Dimension too high, 5, time: 0.14214611053466797s
+5 3 1 1 : 3 3 1 1 1 1, Dimension too high, 8, time: 0.22169709205627441s
+5 3 1 1 : 3 2 2 2 1, Dimension too high, 5, time: 0.1428360939025879s
+5 3 1 1 : 3 2 2 1 1 1, Dimension too high, 8, time: 0.22262120246887207s
+5 3 1 1 : 3 2 1 1 1 1 1, 31*x^7 + 648*x^6 + 3246*x^5 + 5495*x^4 + 3436*x^3 + 779*x^2 + 54*x + 1, 11, time: 0.41204404830932617s
+5 3 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 14, time: 0.6283659934997559s
+5 3 1 1 : 2 2 2 2 2, Dimension too high, 5, time: 0.1423790454864502s
+5 3 1 1 : 2 2 2 2 1 1, Dimension too high, 8, time: 0.2238020896911621s
+5 3 1 1 : 2 2 2 1 1 1 1, 93*x^7 + 1836*x^6 + 8552*x^5 + 13230*x^4 + 7397*x^3 + 1433*x^2 + 78*x + 1, 11, time: 0.45168590545654297s
+5 3 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 14, time: 0.6291630268096924s
+5 3 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 17, time: 1.1393368244171143s
+5 2 2 1 : 5 2 2 1, Dimension too high, 0, time: 0.09116196632385254s
+5 2 2 1 : 5 2 1 1 1, Dimension too high, 1, time: 0.1420140266418457s
+5 2 2 1 : 5 1 1 1 1 1, Dimension too high, 4, time: 0.22321391105651855s
+5 2 2 1 : 4 4 2, Dimension too high, -1, time: 0.005342006683349609s
+5 2 2 1 : 4 4 1 1, Dimension too high, -1, time: 0.0054340362548828125s
+5 2 2 1 : 4 3 3, Dimension too high, 0, time: 0.05638694763183594s
+5 2 2 1 : 4 3 2 1, Dimension too high, 0, time: 0.0913231372833252s
+5 2 2 1 : 4 3 1 1 1, Dimension too high, 1, time: 0.14193487167358398s
+5 2 2 1 : 4 2 2 2, Dimension too high, 2, time: 0.09128308296203613s
+5 2 2 1 : 4 2 2 1 1, Dimension too high, 5, time: 0.14150404930114746s
+5 2 2 1 : 4 2 1 1 1 1, Dimension too high, 8, time: 0.22133922576904297s
+5 2 2 1 : 4 1 1 1 1 1 1, 60*x^6 + 390*x^5 + 846*x^4 + 648*x^3 + 192*x^2 + 18*x + 1, 11, time: 0.42310500144958496s
+5 2 2 1 : 3 3 3 1, Dimension too high, 0, time: 0.09317398071289062s
+5 2 2 1 : 3 3 2 2, Dimension too high, 2, time: 0.09131193161010742s
+5 2 2 1 : 3 3 2 1 1, Dimension too high, 5, time: 0.1415238380432129s
+5 2 2 1 : 3 3 1 1 1 1, Dimension too high, 8, time: 0.22169899940490723s
+5 2 2 1 : 3 2 2 2 1, Dimension too high, 5, time: 0.14190101623535156s
+5 2 2 1 : 3 2 2 1 1 1, Dimension too high, 8, time: 0.22059106826782227s
+5 2 2 1 : 3 2 1 1 1 1 1, 26*x^7 + 438*x^6 + 2056*x^5 + 3426*x^4 + 2158*x^3 + 502*x^2 + 38*x + 1, 11, time: 0.4183211326599121s
+5 2 2 1 : 3 1 1 1 1 1 1 1, Dimension too high, 14, time: 0.6339778900146484s
+5 2 2 1 : 2 2 2 2 2, Dimension too high, 5, time: 0.14156389236450195s
+5 2 2 1 : 2 2 2 2 1 1, Dimension too high, 8, time: 0.22079706192016602s
+5 2 2 1 : 2 2 2 1 1 1 1, x^8 + 92*x^7 + 1284*x^6 + 5392*x^5 + 8161*x^4 + 4672*x^3 + 966*x^2 + 62*x + 1, 11, time: 0.48757219314575195s
+5 2 2 1 : 2 2 1 1 1 1 1 1, Dimension too high, 14, time: 0.6681308746337891s
+5 2 2 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 17, time: 1.1582880020141602s
+5 2 1 1 1 : 5 2 1 1 1, Dimension too high, 0, time: 0.14293718338012695s
+5 2 1 1 1 : 5 1 1 1 1 1, Dimension too high, 3, time: 0.2236919403076172s
+5 2 1 1 1 : 4 4 2, Dimension too high, -1, time: 0.005628108978271484s
+5 2 1 1 1 : 4 4 1 1, Dimension too high, -1, time: 0.005525112152099609s
+5 2 1 1 1 : 4 3 3, Dimension too high, 0, time: 0.056738853454589844s
+5 2 1 1 1 : 4 3 2 1, Dimension too high, -1, time: 0.00586390495300293s
+5 2 1 1 1 : 4 3 1 1 1, Dimension too high, 0, time: 0.14290189743041992s
+5 2 1 1 1 : 4 2 2 2, Dimension too high, 1, time: 0.09180593490600586s
+5 2 1 1 1 : 4 2 2 1 1, Dimension too high, 1, time: 0.14256596565246582s
+5 2 1 1 1 : 4 2 1 1 1 1, Dimension too high, 7, time: 0.22170686721801758s
+5 2 1 1 1 : 4 1 1 1 1 1 1, 10*x^6 + 60*x^5 + 165*x^4 + 164*x^3 + 78*x^2 + 12*x + 1, 11, time: 0.38576793670654297s
+5 2 1 1 1 : 3 3 3 1, Dimension too high, -1, time: 0.01090693473815918s
+5 2 1 1 1 : 3 3 2 2, Dimension too high, 1, time: 0.0925140380859375s
+5 2 1 1 1 : 3 3 2 1 1, Dimension too high, 1, time: 0.14163804054260254s
+5 2 1 1 1 : 3 3 1 1 1 1, Dimension too high, 7, time: 0.2216939926147461s
+5 2 1 1 1 : 3 2 2 2 1, Dimension too high, 2, time: 0.14245915412902832s
+5 2 1 1 1 : 3 2 2 1 1 1, Dimension too high, 7, time: 0.2225508689880371s
+5 2 1 1 1 : 3 2 1 1 1 1 1, x^7 + 28*x^6 + 176*x^5 + 420*x^4 + 399*x^3 + 158*x^2 + 22*x + 1, 11, time: 0.37839603424072266s
+5 2 1 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 15, time: 0.6237568855285645s
+5 2 1 1 1 : 2 2 2 2 2, Dimension too high, 3, time: 0.14231491088867188s
+5 2 1 1 1 : 2 2 2 2 1 1, Dimension too high, 7, time: 0.2217099666595459s
+5 2 1 1 1 : 2 2 2 1 1 1 1, 2*x^7 + 52*x^6 + 336*x^5 + 780*x^4 + 714*x^3 + 258*x^2 + 32*x + 1, 11, time: 0.386016845703125s
+5 2 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 15, time: 0.625417947769165s
+5 2 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 19, time: 1.1254651546478271s
+5 1 1 1 1 1 : 5 1 1 1 1 1, Dimension too high, 0, time: 0.22222495079040527s
+5 1 1 1 1 1 : 4 4 2, Dimension too high, -1, time: 0.005533933639526367s
+5 1 1 1 1 1 : 4 4 1 1, Dimension too high, -1, time: 0.005413055419921875s
+5 1 1 1 1 1 : 4 3 3, Dimension too high, -1, time: 0.004960060119628906s
+5 1 1 1 1 1 : 4 3 2 1, Dimension too high, -1, time: 0.005408048629760742s
+5 1 1 1 1 1 : 4 3 1 1 1, Dimension too high, -1, time: 0.006047964096069336s
+5 1 1 1 1 1 : 4 2 2 2, Dimension too high, -1, time: 0.005338907241821289s
+5 1 1 1 1 1 : 4 2 2 1 1, Dimension too high, -1, time: 0.005978107452392578s
+5 1 1 1 1 1 : 4 2 1 1 1 1, Dimension too high, 0, time: 0.222398042678833s
+5 1 1 1 1 1 : 4 1 1 1 1 1 1, Dimension too high, 5, time: 0.3659541606903076s
+5 1 1 1 1 1 : 3 3 3 1, Dimension too high, -1, time: 0.0060079097747802734s
+5 1 1 1 1 1 : 3 3 2 2, Dimension too high, -1, time: 0.005544185638427734s
+5 1 1 1 1 1 : 3 3 2 1 1, Dimension too high, -1, time: 0.005997896194458008s
+5 1 1 1 1 1 : 3 3 1 1 1 1, Dimension too high, 0, time: 0.22221112251281738s
+5 1 1 1 1 1 : 3 2 2 2 1, Dimension too high, -1, time: 0.006528139114379883s
+5 1 1 1 1 1 : 3 2 2 1 1 1, Dimension too high, 0, time: 0.22288298606872559s
+5 1 1 1 1 1 : 3 2 1 1 1 1 1, Dimension too high, 5, time: 0.36362218856811523s
+5 1 1 1 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 10, time: 0.6215438842773438s
+5 1 1 1 1 1 : 2 2 2 2 2, Dimension too high, 0, time: 0.14257192611694336s
+5 1 1 1 1 1 : 2 2 2 2 1 1, Dimension too high, 0, time: 0.2230222225189209s
+5 1 1 1 1 1 : 2 2 2 1 1 1 1, Dimension too high, 5, time: 0.41392016410827637s
+5 1 1 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 10, time: 0.6767849922180176s
+5 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 15, time: 1.130802869796753s
+4 4 2 : 4 4 2, Dimension too high, 0, time: 0.057440996170043945s
+4 4 2 : 4 4 1 1, Dimension too high, 0, time: 0.09199905395507812s
+4 4 2 : 4 3 3, Dimension too high, 0, time: 0.05707502365112305s
+4 4 2 : 4 3 2 1, Dimension too high, 1, time: 0.09207797050476074s
+4 4 2 : 4 3 1 1 1, Dimension too high, 2, time: 0.143388032913208s
+4 4 2 : 4 2 2 2, Dimension too high, 1, time: 0.09192299842834473s
+4 4 2 : 4 2 2 1 1, Dimension too high, 2, time: 0.14330005645751953s
+4 4 2 : 4 2 1 1 1 1, Dimension too high, 3, time: 0.22442984580993652s
+4 4 2 : 4 1 1 1 1 1 1, Dimension too high, 4, time: 0.37452197074890137s
+4 4 2 : 3 3 3 1, Dimension too high, 2, time: 0.09196901321411133s
+4 4 2 : 3 3 2 2, Dimension too high, 2, time: 0.09147381782531738s
+4 4 2 : 3 3 2 1 1, Dimension too high, 4, time: 0.14260101318359375s
+4 4 2 : 3 3 1 1 1 1, Dimension too high, 6, time: 0.22425198554992676s
+4 4 2 : 3 2 2 2 1, Dimension too high, 4, time: 0.14528608322143555s
+4 4 2 : 3 2 2 1 1 1, Dimension too high, 6, time: 0.22466278076171875s
+4 4 2 : 3 2 1 1 1 1 1, Dimension too high, 8, time: 0.3695969581604004s
+4 4 2 : 3 1 1 1 1 1 1 1, Dimension too high, 10, time: 0.6401081085205078s
+4 4 2 : 2 2 2 2 2, Dimension too high, 4, time: 0.1428220272064209s
+4 4 2 : 2 2 2 2 1 1, Dimension too high, 6, time: 0.22409582138061523s
+4 4 2 : 2 2 2 1 1 1 1, Dimension too high, 8, time: 0.36910510063171387s
+4 4 2 : 2 2 1 1 1 1 1 1, Dimension too high, 10, time: 0.6384730339050293s
+4 4 2 : 2 1 1 1 1 1 1 1 1, Dimension too high, 12, time: 1.1759650707244873s
+4 4 1 1 : 4 4 1 1, Dimension too high, 0, time: 0.0911870002746582s
+4 4 1 1 : 4 3 3, Dimension too high, 0, time: 0.056450843811035156s
+4 4 1 1 : 4 3 2 1, Dimension too high, 0, time: 0.09162187576293945s
+4 4 1 1 : 4 3 1 1 1, Dimension too high, 2, time: 0.14225387573242188s
+4 4 1 1 : 4 2 2 2, Dimension too high, 0, time: 0.09173107147216797s
+4 4 1 1 : 4 2 2 1 1, Dimension too high, 2, time: 0.14236688613891602s
+4 4 1 1 : 4 2 1 1 1 1, Dimension too high, 4, time: 0.22238898277282715s
+4 4 1 1 : 4 1 1 1 1 1 1, Dimension too high, 6, time: 0.3644368648529053s
+4 4 1 1 : 3 3 3 1, Dimension too high, 0, time: 0.0915219783782959s
+4 4 1 1 : 3 3 2 2, Dimension too high, 1, time: 0.09107494354248047s
+4 4 1 1 : 3 3 2 1 1, Dimension too high, 4, time: 0.14214491844177246s
+4 4 1 1 : 3 3 1 1 1 1, Dimension too high, 7, time: 0.22130703926086426s
+4 4 1 1 : 3 2 2 2 1, Dimension too high, 4, time: 0.14185309410095215s
+4 4 1 1 : 3 2 2 1 1 1, Dimension too high, 7, time: 0.2218918800354004s
+4 4 1 1 : 3 2 1 1 1 1 1, Dimension too high, 10, time: 0.36376285552978516s
+4 4 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 13, time: 0.6240289211273193s
+4 4 1 1 : 2 2 2 2 2, Dimension too high, 4, time: 0.14219093322753906s
+4 4 1 1 : 2 2 2 2 1 1, Dimension too high, 7, time: 0.22336411476135254s
+4 4 1 1 : 2 2 2 1 1 1 1, Dimension too high, 10, time: 0.36646413803100586s
+4 4 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 13, time: 0.6853039264678955s
+4 4 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 16, time: 1.1781730651855469s
+4 3 3 : 4 3 3, Dimension too high, 0, time: 0.05892682075500488s
+4 3 3 : 4 3 2 1, Dimension too high, 0, time: 0.0956258773803711s
+4 3 3 : 4 3 1 1 1, Dimension too high, 0, time: 0.15125107765197754s
+4 3 3 : 4 2 2 2, Dimension too high, 0, time: 0.0958101749420166s
+4 3 3 : 4 2 2 1 1, Dimension too high, 1, time: 0.1479320526123047s
+4 3 3 : 4 2 1 1 1 1, Dimension too high, 2, time: 0.2264418601989746s
+4 3 3 : 4 1 1 1 1 1 1, Dimension too high, 3, time: 0.37650108337402344s
+4 3 3 : 3 3 3 1, Dimension too high, 2, time: 0.0919649600982666s
+4 3 3 : 3 3 2 2, Dimension too high, 2, time: 0.09186911582946777s
+4 3 3 : 3 3 2 1 1, Dimension too high, 4, time: 0.14264607429504395s
+4 3 3 : 3 3 1 1 1 1, Dimension too high, 6, time: 0.22399520874023438s
+4 3 3 : 3 2 2 2 1, Dimension too high, 4, time: 0.14342784881591797s
+4 3 3 : 3 2 2 1 1 1, Dimension too high, 6, time: 0.22415614128112793s
+4 3 3 : 3 2 1 1 1 1 1, Dimension too high, 8, time: 0.3686649799346924s
+4 3 3 : 3 1 1 1 1 1 1 1, Dimension too high, 10, time: 0.6401729583740234s
+4 3 3 : 2 2 2 2 2, Dimension too high, 4, time: 0.1430220603942871s
+4 3 3 : 2 2 2 2 1 1, Dimension too high, 6, time: 0.22427105903625488s
+4 3 3 : 2 2 2 1 1 1 1, Dimension too high, 8, time: 0.37244701385498047s
+4 3 3 : 2 2 1 1 1 1 1 1, Dimension too high, 10, time: 0.6402170658111572s
+4 3 3 : 2 1 1 1 1 1 1 1 1, Dimension too high, 12, time: 1.1775181293487549s
+4 3 2 1 : 4 3 2 1, Dimension too high, 0, time: 0.09154081344604492s
+4 3 2 1 : 4 3 1 1 1, Dimension too high, 1, time: 0.14221882820129395s
+4 3 2 1 : 4 2 2 2, Dimension too high, 1, time: 0.09111595153808594s
+4 3 2 1 : 4 2 2 1 1, Dimension too high, 3, time: 0.14168119430541992s
+4 3 2 1 : 4 2 1 1 1 1, Dimension too high, 5, time: 0.22234606742858887s
+4 3 2 1 : 4 1 1 1 1 1 1, Dimension too high, 7, time: 0.3681628704071045s
+4 3 2 1 : 3 3 3 1, Dimension too high, 1, time: 0.09153103828430176s
+4 3 2 1 : 3 3 2 2, Dimension too high, 3, time: 0.09114503860473633s
+4 3 2 1 : 3 3 2 1 1, Dimension too high, 6, time: 0.141510009765625s
+4 3 2 1 : 3 3 1 1 1 1, Dimension too high, 9, time: 0.22138118743896484s
+4 3 2 1 : 3 2 2 2 1, Dimension too high, 6, time: 0.14199113845825195s
+4 3 2 1 : 3 2 2 1 1 1, Dimension too high, 9, time: 0.22095894813537598s
+4 3 2 1 : 3 2 1 1 1 1 1, Dimension too high, 12, time: 0.3648688793182373s
+4 3 2 1 : 3 1 1 1 1 1 1 1, Dimension too high, 15, time: 0.6334619522094727s
+4 3 2 1 : 2 2 2 2 2, Dimension too high, 6, time: 0.14215993881225586s
+4 3 2 1 : 2 2 2 2 1 1, Dimension too high, 9, time: 0.22335195541381836s
+4 3 2 1 : 2 2 2 1 1 1 1, Dimension too high, 12, time: 0.365415096282959s
+4 3 2 1 : 2 2 1 1 1 1 1 1, Dimension too high, 15, time: 0.6323530673980713s
+4 3 2 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 18, time: 1.2660670280456543s
+4 3 1 1 1 : 4 3 1 1 1, Dimension too high, 0, time: 0.1539769172668457s
+4 3 1 1 1 : 4 2 2 2, Dimension too high, 0, time: 0.09699296951293945s
+4 3 1 1 1 : 4 2 2 1 1, Dimension too high, 0, time: 0.15424418449401855s
+4 3 1 1 1 : 4 2 1 1 1 1, Dimension too high, 3, time: 0.24614596366882324s
+4 3 1 1 1 : 4 1 1 1 1 1 1, Dimension too high, 6, time: 0.3909440040588379s
+4 3 1 1 1 : 3 3 3 1, Dimension too high, -1, time: 0.0067920684814453125s
+4 3 1 1 1 : 3 3 2 2, Dimension too high, 1, time: 0.0960988998413086s
+4 3 1 1 1 : 3 3 2 1 1, Dimension too high, 1, time: 0.14966487884521484s
+4 3 1 1 1 : 3 3 1 1 1 1, Dimension too high, 7, time: 0.2258288860321045s
+4 3 1 1 1 : 3 2 2 2 1, Dimension too high, 2, time: 0.14449405670166016s
+4 3 1 1 1 : 3 2 2 1 1 1, Dimension too high, 7, time: 0.22311806678771973s
+4 3 1 1 1 : 3 2 1 1 1 1 1, 10*x^6 + 80*x^5 + 235*x^4 + 255*x^3 + 116*x^2 + 18*x + 1, 11, time: 0.3857910633087158s
+4 3 1 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 15, time: 0.6303300857543945s
+4 3 1 1 1 : 2 2 2 2 2, Dimension too high, 3, time: 0.14321494102478027s
+4 3 1 1 1 : 2 2 2 2 1 1, Dimension too high, 7, time: 0.2238759994506836s
+4 3 1 1 1 : 2 2 2 1 1 1 1, 4*x^7 + 112*x^6 + 696*x^5 + 1510*x^4 + 1225*x^3 + 372*x^2 + 34*x + 1, 11, time: 0.4076249599456787s
+4 3 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 15, time: 0.6284868717193604s
+4 3 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 19, time: 1.1358208656311035s
+4 2 2 2 : 4 2 2 2, Dimension too high, 0, time: 0.09119582176208496s
+4 2 2 2 : 4 2 2 1 1, Dimension too high, 0, time: 0.14209198951721191s
+4 2 2 2 : 4 2 1 1 1 1, Dimension too high, 1, time: 0.2243959903717041s
+4 2 2 2 : 4 1 1 1 1 1 1, Dimension too high, 4, time: 0.36855602264404297s
+4 2 2 2 : 3 3 3 1, Dimension too high, -1, time: 0.005858898162841797s
+4 2 2 2 : 3 3 2 2, Dimension too high, 0, time: 0.09093499183654785s
+4 2 2 2 : 3 3 2 1 1, Dimension too high, 0, time: 0.14249801635742188s
+4 2 2 2 : 3 3 1 1 1 1, Dimension too high, 1, time: 0.2236771583557129s
+4 2 2 2 : 3 2 2 2 1, Dimension too high, 3, time: 0.1416311264038086s
+4 2 2 2 : 3 2 2 1 1 1, Dimension too high, 6, time: 0.2220001220703125s
+4 2 2 2 : 3 2 1 1 1 1 1, Dimension too high, 9, time: 0.36574602127075195s
+4 2 2 2 : 3 1 1 1 1 1 1 1, Dimension too high, 12, time: 0.6380751132965088s
+4 2 2 2 : 2 2 2 2 2, Dimension too high, 3, time: 0.14135098457336426s
+4 2 2 2 : 2 2 2 2 1 1, Dimension too high, 6, time: 0.22079205513000488s
+4 2 2 2 : 2 2 2 1 1 1 1, Dimension too high, 9, time: 0.36382102966308594s
+4 2 2 2 : 2 2 1 1 1 1 1 1, Dimension too high, 12, time: 0.6371719837188721s
+4 2 2 2 : 2 1 1 1 1 1 1 1 1, Dimension too high, 15, time: 1.229599952697754s
+4 2 2 1 1 : 4 2 2 1 1, Dimension too high, 0, time: 0.15310192108154297s
+4 2 2 1 1 : 4 2 1 1 1 1, Dimension too high, 2, time: 0.24741196632385254s
+4 2 2 1 1 : 4 1 1 1 1 1 1, Dimension too high, 7, time: 0.4010040760040283s
+4 2 2 1 1 : 3 3 3 1, Dimension too high, -1, time: 0.0069730281829833984s
+4 2 2 1 1 : 3 3 2 2, Dimension too high, 0, time: 0.09636807441711426s
+4 2 2 1 1 : 3 3 2 1 1, Dimension too high, 0, time: 0.1525897979736328s
+4 2 2 1 1 : 3 3 1 1 1 1, Dimension too high, 2, time: 0.23386502265930176s
+4 2 2 1 1 : 3 2 2 2 1, Dimension too high, 2, time: 0.14702105522155762s
+4 2 2 1 1 : 3 2 2 1 1 1, Dimension too high, 8, time: 0.22330403327941895s
+4 2 2 1 1 : 3 2 1 1 1 1 1, Dimension too high, 12, time: 0.3667469024658203s
+4 2 2 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 16, time: 0.6327381134033203s
+4 2 2 1 1 : 2 2 2 2 2, Dimension too high, 4, time: 0.1423499584197998s
+4 2 2 1 1 : 2 2 2 2 1 1, Dimension too high, 8, time: 0.2253260612487793s
+4 2 2 1 1 : 2 2 2 1 1 1 1, Dimension too high, 12, time: 0.36356401443481445s
+4 2 2 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 16, time: 0.6318051815032959s
+4 2 2 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 20, time: 1.142076015472412s
+4 2 1 1 1 1 : 4 2 1 1 1 1, Dimension too high, 0, time: 0.22290897369384766s
+4 2 1 1 1 1 : 4 1 1 1 1 1 1, Dimension too high, 4, time: 0.36657094955444336s
+4 2 1 1 1 1 : 3 3 3 1, Dimension too high, -1, time: 0.00602412223815918s
+4 2 1 1 1 1 : 3 3 2 2, Dimension too high, -1, time: 0.005506992340087891s
+4 2 1 1 1 1 : 3 3 2 1 1, Dimension too high, -1, time: 0.005987882614135742s
+4 2 1 1 1 1 : 3 3 1 1 1 1, Dimension too high, 0, time: 0.2229001522064209s
+4 2 1 1 1 1 : 3 2 2 2 1, Dimension too high, -1, time: 0.006532907485961914s
+4 2 1 1 1 1 : 3 2 2 1 1 1, Dimension too high, 1, time: 0.2221078872680664s
+4 2 1 1 1 1 : 3 2 1 1 1 1 1, Dimension too high, 9, time: 0.3612961769104004s
+4 2 1 1 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 14, time: 0.623690128326416s
+4 2 1 1 1 1 : 2 2 2 2 2, Dimension too high, 2, time: 0.14215898513793945s
+4 2 1 1 1 1 : 2 2 2 2 1 1, Dimension too high, 2, time: 0.22211790084838867s
+4 2 1 1 1 1 : 2 2 2 1 1 1 1, Dimension too high, 9, time: 0.3624398708343506s
+4 2 1 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 14, time: 0.6231310367584229s
+4 2 1 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 19, time: 1.122183084487915s
+4 1 1 1 1 1 1 : 4 1 1 1 1 1 1, Dimension too high, 0, time: 0.368959903717041s
+4 1 1 1 1 1 1 : 3 3 3 1, Dimension too high, -1, time: 0.005815029144287109s
+4 1 1 1 1 1 1 : 3 3 2 2, Dimension too high, -1, time: 0.00561213493347168s
+4 1 1 1 1 1 1 : 3 3 2 1 1, Dimension too high, -1, time: 0.006054878234863281s
+4 1 1 1 1 1 1 : 3 3 1 1 1 1, Dimension too high, -1, time: 0.0073587894439697266s
+4 1 1 1 1 1 1 : 3 2 2 2 1, Dimension too high, -1, time: 0.006067037582397461s
+4 1 1 1 1 1 1 : 3 2 2 1 1 1, Dimension too high, -1, time: 0.007119894027709961s
+4 1 1 1 1 1 1 : 3 2 1 1 1 1 1, Dimension too high, 0, time: 0.4124119281768799s
+4 1 1 1 1 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 6, time: 0.6796219348907471s
+4 1 1 1 1 1 1 : 2 2 2 2 2, Dimension too high, -1, time: 0.007289886474609375s
+4 1 1 1 1 1 1 : 2 2 2 2 1 1, Dimension too high, -1, time: 0.00783395767211914s
+4 1 1 1 1 1 1 : 2 2 2 1 1 1 1, Dimension too high, 0, time: 0.3775360584259033s
+4 1 1 1 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 6, time: 0.6377468109130859s
+4 1 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 12, time: 1.1376838684082031s
+3 3 3 1 : 3 3 3 1, Dimension too high, 0, time: 0.09183406829833984s
+3 3 3 1 : 3 3 2 2, Dimension too high, 0, time: 0.09176492691040039s
+3 3 3 1 : 3 3 2 1 1, Dimension too high, 1, time: 0.14339709281921387s
+3 3 3 1 : 3 3 1 1 1 1, Dimension too high, 2, time: 0.2237849235534668s
+3 3 3 1 : 3 2 2 2 1, Dimension too high, 2, time: 0.14287304878234863s
+3 3 3 1 : 3 2 2 1 1 1, Dimension too high, 4, time: 0.2230970859527588s
+3 3 3 1 : 3 2 1 1 1 1 1, Dimension too high, 6, time: 0.3702249526977539s
+3 3 3 1 : 3 1 1 1 1 1 1 1, Dimension too high, 8, time: 0.64438796043396s
+3 3 3 1 : 2 2 2 2 2, Dimension too high, 3, time: 0.1429290771484375s
+3 3 3 1 : 2 2 2 2 1 1, Dimension too high, 6, time: 0.2227458953857422s
+3 3 3 1 : 2 2 2 1 1 1 1, Dimension too high, 9, time: 0.3669459819793701s
+3 3 3 1 : 2 2 1 1 1 1 1 1, Dimension too high, 12, time: 0.6368038654327393s
+3 3 3 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 15, time: 1.1644189357757568s
+3 3 2 2 : 3 3 2 2, Dimension too high, 0, time: 0.09157514572143555s
+3 3 2 2 : 3 3 2 1 1, Dimension too high, 0, time: 0.14195704460144043s
+3 3 2 2 : 3 3 1 1 1 1, Dimension too high, 1, time: 0.22397494316101074s
+3 3 2 2 : 3 2 2 2 1, Dimension too high, 2, time: 0.14173316955566406s
+3 3 2 2 : 3 2 2 1 1 1, Dimension too high, 4, time: 0.22220778465270996s
+3 3 2 2 : 3 2 1 1 1 1 1, Dimension too high, 6, time: 0.37059903144836426s
+3 3 2 2 : 3 1 1 1 1 1 1 1, Dimension too high, 8, time: 0.6442580223083496s
+3 3 2 2 : 2 2 2 2 2, Dimension too high, 4, time: 0.14273595809936523s
+3 3 2 2 : 2 2 2 2 1 1, Dimension too high, 7, time: 0.22254395484924316s
+3 3 2 2 : 2 2 2 1 1 1 1, Dimension too high, 10, time: 0.36664915084838867s
+3 3 2 2 : 2 2 1 1 1 1 1 1, Dimension too high, 13, time: 0.6569809913635254s
+3 3 2 2 : 2 1 1 1 1 1 1 1 1, Dimension too high, 16, time: 1.2033929824829102s
+3 3 2 1 1 : 3 3 2 1 1, Dimension too high, 0, time: 0.1517801284790039s
+3 3 2 1 1 : 3 3 1 1 1 1, Dimension too high, 2, time: 0.23723292350769043s
+3 3 2 1 1 : 3 2 2 2 1, Dimension too high, 1, time: 0.14605212211608887s
+3 3 2 1 1 : 3 2 2 1 1 1, Dimension too high, 5, time: 0.22354912757873535s
+3 3 2 1 1 : 3 2 1 1 1 1 1, Dimension too high, 8, time: 0.36847400665283203s
+3 3 2 1 1 : 3 1 1 1 1 1 1 1, 14*x^7 + 252*x^6 + 1119*x^5 + 1790*x^4 + 1110*x^3 + 276*x^2 + 23*x + 1, 11, time: 1.7688682079315186s
+3 3 2 1 1 : 2 2 2 2 2, Dimension too high, 4, time: 0.14533185958862305s
+3 3 2 1 1 : 2 2 2 2 1 1, Dimension too high, 8, time: 0.2232990264892578s
+3 3 2 1 1 : 2 2 2 1 1 1 1, Dimension too high, 12, time: 0.36667299270629883s
+3 3 2 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 16, time: 0.6291201114654541s
+3 3 2 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 20, time: 1.1457109451293945s
+3 3 1 1 1 1 : 3 3 1 1 1 1, Dimension too high, 0, time: 0.22258520126342773s
+3 3 1 1 1 1 : 3 2 2 2 1, Dimension too high, -1, time: 0.006452798843383789s
+3 3 1 1 1 1 : 3 2 2 1 1 1, Dimension too high, 0, time: 0.24085187911987305s
+3 3 1 1 1 1 : 3 2 1 1 1 1 1, Dimension too high, 4, time: 0.4153110980987549s
+3 3 1 1 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 8, time: 0.6500170230865479s
+3 3 1 1 1 1 : 2 2 2 2 2, Dimension too high, 1, time: 0.15216708183288574s
+3 3 1 1 1 1 : 2 2 2 2 1 1, Dimension too high, 1, time: 0.2294750213623047s
+3 3 1 1 1 1 : 2 2 2 1 1 1 1, Dimension too high, 8, time: 0.36943697929382324s
+3 3 1 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 13, time: 0.6273629665374756s
+3 3 1 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 18, time: 1.1366040706634521s
+3 2 2 2 1 : 3 2 2 2 1, Dimension too high, 0, time: 0.1428360939025879s
+3 2 2 2 1 : 3 2 2 1 1 1, Dimension too high, 1, time: 0.22374200820922852s
+3 2 2 2 1 : 3 2 1 1 1 1 1, Dimension too high, 4, time: 0.37180495262145996s
+3 2 2 2 1 : 3 1 1 1 1 1 1 1, Dimension too high, 9, time: 0.6421451568603516s
+3 2 2 2 1 : 2 2 2 2 2, Dimension too high, 3, time: 0.14214682579040527s
+3 2 2 2 1 : 2 2 2 2 1 1, Dimension too high, 7, time: 0.22118782997131348s
+3 2 2 2 1 : 2 2 2 1 1 1 1, 24*x^2 + 6*x + 1, 11, time: 0.380504846572876s
+3 2 2 2 1 : 2 2 1 1 1 1 1 1, Dimension too high, 15, time: 0.6328709125518799s
+3 2 2 2 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 19, time: 1.154155969619751s
+3 2 2 1 1 1 : 3 2 2 1 1 1, Dimension too high, 0, time: 0.22254300117492676s
+3 2 2 1 1 1 : 3 2 1 1 1 1 1, Dimension too high, 3, time: 0.36664390563964844s
+3 2 2 1 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 10, time: 0.6302111148834229s
+3 2 2 1 1 1 : 2 2 2 2 2, Dimension too high, 2, time: 0.1416468620300293s
+3 2 2 1 1 1 : 2 2 2 2 1 1, Dimension too high, 2, time: 0.2223958969116211s
+3 2 2 1 1 1 : 2 2 2 1 1 1 1, 1, 11, time: 0.37188196182250977s
+3 2 2 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 16, time: 0.6220989227294922s
+3 2 2 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 21, time: 1.2569780349731445s
+3 2 1 1 1 1 1 : 3 2 1 1 1 1 1, Dimension too high, 0, time: 0.4204730987548828s
+3 2 1 1 1 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 5, time: 0.65277099609375s
+3 2 1 1 1 1 1 : 2 2 2 2 2, Dimension too high, -1, time: 0.0071179866790771484s
+3 2 1 1 1 1 1 : 2 2 2 2 1 1, Dimension too high, -1, time: 0.007919073104858398s
+3 2 1 1 1 1 1 : 2 2 2 1 1 1 1, Dimension too high, 1, time: 0.3714869022369385s
+3 2 1 1 1 1 1 : 2 2 1 1 1 1 1 1, 1, 11, time: 0.6334598064422607s
+3 2 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 17, time: 1.127685785293579s
+3 1 1 1 1 1 1 1 : 3 1 1 1 1 1 1 1, Dimension too high, 0, time: 0.643798828125s
+3 1 1 1 1 1 1 1 : 2 2 2 2 2, Dimension too high, -1, time: 0.006757020950317383s
+3 1 1 1 1 1 1 1 : 2 2 2 2 1 1, Dimension too high, -1, time: 0.0073621273040771484s
+3 1 1 1 1 1 1 1 : 2 2 2 1 1 1 1, Dimension too high, -1, time: 0.009797096252441406s
+3 1 1 1 1 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 0, time: 0.6454648971557617s
+3 1 1 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 7, time: 1.1528260707855225s
+2 2 2 2 2 : 2 2 2 2 2, Dimension too high, 0, time: 0.14188909530639648s
+2 2 2 2 2 : 2 2 2 2 1 1, Dimension too high, 0, time: 0.22431206703186035s
+2 2 2 2 2 : 2 2 2 1 1 1 1, Dimension too high, 1, time: 0.372391939163208s
+2 2 2 2 2 : 2 2 1 1 1 1 1 1, Dimension too high, 4, time: 0.6530790328979492s
+2 2 2 2 2 : 2 1 1 1 1 1 1 1 1, Dimension too high, 9, time: 1.205873966217041s
+2 2 2 2 1 1 : 2 2 2 2 1 1, Dimension too high, 0, time: 0.2508370876312256s
+2 2 2 2 1 1 : 2 2 2 1 1 1 1, Dimension too high, 2, time: 0.4104769229888916s
+2 2 2 2 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 7, time: 0.6503949165344238s
+2 2 2 2 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 14, time: 1.170654058456421s
+2 2 2 1 1 1 1 : 2 2 2 1 1 1 1, Dimension too high, 0, time: 0.370527982711792s
+2 2 2 1 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 4, time: 0.6370089054107666s
+2 2 2 1 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 13, time: 1.152331829071045s
+2 2 1 1 1 1 1 1 : 2 2 1 1 1 1 1 1, Dimension too high, 0, time: 0.6423020362854004s
+2 2 1 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 6, time: 1.154742956161499s
+2 1 1 1 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, Dimension too high, 0, time: 1.1772940158843994s
+Total time (seconds): 238.54132795333862

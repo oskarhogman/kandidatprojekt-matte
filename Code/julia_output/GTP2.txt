@@ -1,0 +1,4 @@
+2 : 2, Unable to create polyhedron or calculate h*, NULL, time: 0.0005209445953369141s
+2 : 1 1, 1, 0, time: 0.5575268268585205s
+1 1 : 1 1, 1, 0, time: 0.04977583885192871s
+Total time (seconds): 0.6129059791564941

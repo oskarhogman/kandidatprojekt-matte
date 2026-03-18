@@ -1,0 +1,23 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{8}{section.1}%
+\contentsline {section}{\numberline {2}Polytopes and Ehrhart theory}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Polytopes}{9}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}$\mathcal {H}$-polytopes and $\mathcal {V}$-polytopes}{9}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Proof of equality between $\mathcal {V}$-polytopes and $\mathcal {H}$-polytopes}{12}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Ehrhart theory}{17}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Rational generating functions}{17}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Ehrhart polynomials}{18}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Symmetric functions}{20}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Semistandard Young tableaus}{20}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Schur functions}{21}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Littlewood-Richardson coefficients}{23}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Gelfand-Tsetlin}{24}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Gelfand-Tseltin patterns}{24}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Gelfand-Tsetlin polytopes}{26}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Method}{28}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Formalisation}{28}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Realization}{30}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Results}{31}{section.6}%
+\contentsline {subsection}{\numberline {6.1}General results}{31}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Polynomials}{31}{subsection.6.2}%
+\contentsline {section}{References}{32}{section*.6}%

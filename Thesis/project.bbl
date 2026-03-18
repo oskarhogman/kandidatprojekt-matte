@@ -1,0 +1,58 @@
+\begin{thebibliography}{DLM04}
+
+\bibitem[Bra07]{braun2007ehrhart}
+Benjamin~James Braun.
+\newblock {\em Ehrhart theory for lattice polytopes}.
+\newblock PhD thesis, Washington University, 2007.
+
+\bibitem[DLM04]{de2004vertices}
+Jes{\'u}s~A De~Loera and Tyrrell~B McAllister.
+\newblock Vertices of gelfand--tsetlin polytopes.
+\newblock {\em Discrete \& Computational Geometry}, 32:459--470, 2004.
+
+\bibitem[DM04]{DeLoeraMcAllister2004}
+Jes{\'{u}}s~A. {De Loera} and Tyrrell~B. McAllister.
+\newblock Vertices of {G}elfand--{T}setlin polytopes.
+\newblock {\em Discrete \& Computational Geometry}, 32(4):459--470, September
+  2004.
+\newblock \href {https://doi.org/10.1007/s00454-004-1133-3}
+  {\path{doi:10.1007/s00454-004-1133-3}}.
+
+\bibitem[KTT04]{KingTolluToumazet2004}
+R.~C. King, C.~Tollu, and F.~Toumazet.
+\newblock Stretched {L}ittlewood--{R}ichardson coefficients and {K}ostka
+  coefficients.
+\newblock In P.~Winternitz, J.~Harnard, C.~S. Lam, and J.~Patera, editors, {\em
+  Symmetry in Physics: In Memory of {R}obert {T}. {S}harp}, volume~34, pages
+  99--112. AMS / OUP, 2004.
+\newblock URL: \url{http://eprints.soton.ac.uk/41202/}.
+
+\bibitem[Ras04]{Rassart2004}
+Etienne Rassart.
+\newblock A polynomiality property for {L}ittlewood--{R}ichardson coefficients.
+\newblock {\em J. Comb. Theory Ser. A}, 107(2):161--179, August 2004.
+\newblock \href {https://doi.org/10.1016/j.jcta.2004.04.003}
+  {\path{doi:10.1016/j.jcta.2004.04.003}}.
+
+\bibitem[Sta01]{StanleyEC2}
+Richard~P. Stanley.
+\newblock {\em Enumerative {C}ombinatorics: {V}olume 2}.
+\newblock Cambridge University Press, first edition, 2001.
+\newblock \href {https://doi.org/10.1017/CBO9780511609589}
+  {\path{doi:10.1017/CBO9780511609589}}.
+
+\bibitem[Sta11]{StanleyEC1}
+Richard~P. Stanley.
+\newblock {\em Enumerative {C}ombinatorics: {V}olume 1}.
+\newblock Cambridge University Press, second edition, 2011.
+\newblock \href {https://doi.org/10.1017/CBO9781139058520}
+  {\path{doi:10.1017/CBO9781139058520}}.
+
+\bibitem[Zie95]{ZieglerLecturesOnPolytopes95}
+G{\"{u}}nter~M. Ziegler.
+\newblock {\em Lectures on polytopes}.
+\newblock Springer-Verlag, New York, 1995.
+\newblock URL:
+  \url{http://www.worldcat.org/search?qt=worldcat_org_all&q=9780387943657}.
+
+\end{thebibliography}

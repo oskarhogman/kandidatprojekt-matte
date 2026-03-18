@@ -1,0 +1,266 @@
+\subsection{Gelfand-Tseltin patterns} \label{gtpattern}
+
+		The definition of the Gelfand-Tsetlin pattern is from \cite{de2004vertices}. 
+		
+		\definition{
+			A \emph{Gelfand-Tsetlin Pattern} or \emph{GT-Pattern} is a triangular array 
+			$(x_{ij})_{1\leq i \leq j \leq n} \in \mathbb{R}^{\binom{n+1}{2}}$ satisfying the following inequalities:
+			\begin{itemize}
+				\item[$\circ$] $x_{ij} \geq 0$, for $1 \leq i \leq j \leq n$; and
+				\item[$\circ$] $x_{i, j+1} \geq x_{ij} \geq x_{i+1, j+1},$ for $1 \leq i \leq j \leq n-1$,
+			\end{itemize}
+			where all $x_{ij} \in \mathbb{N}$.
+		}
+		
+		We usually illustrate this pattern as
+		
+		\begin{center}
+		\begin{tikzpicture}
+			\node at (-3, 3) {$x_{n1}$};
+			\node at (-1, 3) {$x_{n2}$};
+			\node at (1, 3) {$\cdots$};
+			\node at (3, 3) {$x_{nn}$};
+			
+			\node at (-2, 2) {$\ddots$};
+			\node at (0, 2) {$\ddots$};
+			\node at (2, 2) {\reflectbox{$\ddots$}};
+			
+			\node at (-1, 1) {$x_{21}$};
+			\node at (1, 1) {$x_{22}$};
+			
+			\node at (0,0) {$x_{11}$};
+			
+			\draw[->] (-4, 3) -- (-1, 0);
+			\draw[->] (1, 0) -- (4, 3);
+		\end{tikzpicture}
+		\end{center}
+		
+		where the arrows indicate direction of less than or equal for the numbers. 
+		
+		\example{ \label{firstgtpattern}
+		This is an example of a GT-pattern:
+		
+		\begin{center}
+		\begin{tikzpicture}
+			\node at (-4, 4) {$6$};
+			\node at (-2, 4) {$4$};
+			\node at (0, 4) {$3$};
+			\node at (2, 4) {$3$};
+			\node at (4, 4) {$1$};
+			
+			\node at (-3, 3) {$5$};
+			\node at (-1, 3) {$4$};
+			\node at (1, 3) {$3$};
+			\node at (3, 3) {$1$};
+			
+			\node at (-2, 2) {$4$};
+			\node at (0, 2) {$4$};
+			\node at (2, 2) {$2$};
+			
+			\node at (-1, 1) {$4$};
+			\node at (1, 1) {$2$};
+			
+			\node at (0,0) {$2$};
+		\end{tikzpicture}
+		\end{center}
+		Note how each value is less than or equal to the value above it on the left, and greater than or equal to the value above it on the right.
+		}
+		
+		\bigskip
+		
+		\emph{Now we reach the reason for introducing Schur functions in Section \ref{symfuncs}. }
+		\theorem{ \label{thm:ssytgtbijection}
+			GT-Patterns are bijections with semistandard Young tableaus.
+			The set of GT-patterns with top row 
+			$\lambda = [\lambda_1  \text{ } \lambda_2 \text{ } ... \text{ } \lambda_n]$ 
+			is in bijection with the semi-standard Young tableau of shape $\lambda$ 
+			and maximal entry at most $n$. 
+		}
+		\begin{proof}
+			A bijection need to satisfy (1) injection and (2) surjection. 
+			
+			\begin{itemize}
+				\item[(1)]
+					
+					
+				\item[(2)]
+					
+					
+			\end{itemize}
+		\end{proof}
+		
+		\remark{
+			The type of the semistandard Young tableau can be read off from the GT-pattern, 
+			by examining the difference between the summation of the rows in the GT-pattern.
+		}
+		
+		\lemma{
+			The Kostka number $K_{\lambda \alpha}$ of a SSYT is the same Kostka number for the corresponding number of 
+			Gelfand-Tsetlin patterns satisfying the top row $\lambda$ with the row sum differences $\alpha$.
+		}
+		
+		\begin{proof}It follows from Theorem \ref{thm:ssytgtbijection}.
+		\end{proof}
+		
+		\bigskip
+		
+		\emph{
+			We exemplify:		
+		}
+		
+		\example{
+		The GT-Pattern to the left corresponds to the semistandard Young tableau to the right:
+		
+		\begin{minipage}{0.45\textwidth}
+		\centering
+		\begin{tikzpicture}
+			\node at (-4, 4) {$6$};
+			\node at (-2, 4) {$4$};
+			\node at (0, 4) {$3$};
+			\node at (2, 4) {$3$};
+			\node at (4, 4) {$1$};
+			
+			\node at (-3, 3) {$5$};
+			\node at (-1, 3) {$4$};
+			\node at (1, 3) {$3$};
+			\node at (3, 3) {$1$};
+			
+			\node at (-2, 2) {$4$};
+			\node at (0, 2) {$4$};
+			\node at (2, 2) {$2$};
+			
+			\node at (-1, 1) {$4$};
+			\node at (1, 1) {$2$};
+			
+			\node at (0,0) {$2$};
+		\end{tikzpicture}
+		\end{minipage}
+		\hfill
+		\begin{minipage}{0.45\textwidth}
+		\centering
+		\begin{ytableau}
+			1 & 1 & 2 & 2 & 4 & 5 \\
+			2 & 2 & 3 & 3 & \none & \none \\
+			3 & 3 & 4 & \none & \none & \none \\
+			4 & 5 & 5 & \none & \none & \none \\
+			5 & \none & \none & \none & \none & \none
+		\end{ytableau}
+		\end{minipage}
+		
+		Note of how the first row in the GT-Pattern (from the bottom) have the row-sum $2$, and thus we have in the 
+		semi-standard Young tableau $2$ $1$'s. 
+		The difference between the row sum of the first row and the second row in the GT-Pattern is $4$, and so we have 
+		$4$ $2$'s in the tableau.
+		
+		The number of boxes on each row are decided by the top row. 
+		We have for the GT-pattern that $\lambda = [6 \text{ } 4 \text{ } 3 \text{ } 3 \text{ } 1]$ 
+		and thus for the SSYT we also 
+		get the shape $\lambda = [6 \text{ } 4 \text{ } 3 \text{ } 3 \text{ } 1]$.
+		
+		}
+		
+		\emph{
+			That a GT-pattern corresponds to a SSYT means that GT-patterns too are Schur functions, and so the attributes for the Schur functions are also valid for GT-patterns. 
+		}
+		
+\subsection{Gelfand-Tsetlin polytopes} \label{gt-polytopes}
+		
+		\emph{
+		The GT-Pattern described in the previous Section \ref{gtpattern} with its inequalities can be described as a 
+		$\mathcal{H}$-polytope. 
+		We again use a definition from \cite{de2004vertices} and define 
+		}
+		\definition{
+			Given $\lambda, \mu \in \mathbb{Z}^n$, the \emph{Gelfand-Tsetlin polytope} $GT(\lambda,\mu) \subset \mathbb{R}^{\binom{n+1}{2}}$ is the convex 
+			polytope of GT-patterns $(x_{ij})_{1 \leq i \leq j \leq n}$ satisfying the equalities
+			\begin{itemize}
+				\item[$\circ$] $x_{in} = \lambda_i$, for $1 \leq i \leq n$;
+				\item[$\circ$] $x_{11} = \mu_1$; and $\sum_{i=1}^j x_{ij} - \sum_{i=1}^{j-1} x_{i,j-1} = \mu_j$, for $2 \leq j \leq n$.
+			\end{itemize}
+		}
+		
+		This is a polytope in $\mathbb{R}^{n(n+1)/2}$. 
+		The top row is $\lambda$ and $\mu_j$ describes the $j$th row sum. 
+		We show this using an example. 
+		
+		\example{
+			Using the top row from the GT-pattern in Example \ref{firstgtpattern} we have 
+		
+		\begin{center}
+		\begin{tikzpicture}
+			\node at (-2, 2) {$5$};
+			\node at (0, 2) {$3$};
+			\node at (2, 2) {$1$};
+			
+			\node at (-1, 1) {$x_{21}$};
+			\node at (1, 1) {$x_{22}$};
+			
+			\node at (0,0) {$x_{11}$};
+		\end{tikzpicture}
+		\end{center}
+		
+		which gives us $\lambda = [5 \text{ } 3 \text{ } 1]$ and we let the row sums be fixed as $\mu_1 = 2$ and $\mu_2 = 5$. 
+		This gives us the inequalities 
+		\begin{align*}
+			5 \leq x_{21} \leq x_{11} \\
+			3 \leq x_{22} \leq 1 \\
+			x_{21} \leq x_{11} \leq x_{22} \\
+			x_{21} + x_{22} = 5 \\
+			x_{11} = 2
+		\end{align*}
+		and these define hyperplanes giving us an $\mathcal{H}$-polytope. 
+		}
+		
+		\bigskip
+		
+		\emph{
+		The GT-polytopes formed by GT-patterns are not necessarily lattice polytopes. 
+		This was shown in \cite{DeLoeraMcAllister2004}. 
+		}
+		
+		\proposition{
+			For a positive integer $k$, let $\lambda = (k^k, k - 1, 0^k)$ and $\mu = ((k-1)^{k+1}, 1^k)$. 
+			Then a vertex of $GT(\lambda, \mu) \subset X_{2k+1}$ contains entires with denominator $k$
+		}
+		
+		\proof{ 
+			See \cite{DeLoeraMcAllister2004} for a complete proof. 
+		}
+		
+		However, Rassart showed in \cite{Rassart2004} that we still get Ehrhart-polynomials from these polytopes. 
+		
+		\theorem{
+			Let $\lambda, \mu$ be fixed partitions. The function 
+			\[
+			P(k) = K_{k\lambda, k\mu}
+			\]
+			is then the Ehrart function of the GT-polytope indexed by $\lambda$ and $\mu$. 
+			This is a polynomial.
+		}
+		
+		\proof{
+			See \cite{Rassart2004} for a complete proof.
+		}
+		
+		The symmetric properties of the GT-pattern means that the same differences in $\mu_i - \mu_j$ where $i \neq j$, 
+		i.e. the differences between the summation of the rows of the GT-pattern,  
+		give rise to the same Ehrhart polynomial if we let $\lambda$ be fixed. 
+		
+		\bigskip
+		
+		In \cite{KingTolluToumazet2004} King, Tollu, and Toumazet stated three conjectures about 
+		the polynomials given by Schur functions. Following is the second conjecture (3.2) stated in their article. 
+		
+		\begin{conjecture} \label{con:main}
+			For all partitions $\lambda,\mu$ such that $K_{\lambda \mu} > 0$  there exists a polynomial $P_{\lambda \mu}(N)$ 
+			in $N$ with non-negative rational coefficients such that $P_{\lambda \mu}(0) = 1$ and 
+			$P_{\lambda \mu}(N) = K_{N \lambda, N \mu}$ for all positive integers $N$. 
+		\end{conjecture}
+		
+		The first part is, as earlier stated, proven in \cite{Rassart2004}. There does exist polynomials. 
+		However, the second part of the conjuecture, that these polynomials have non-negative coefficients, 
+		have as far as we know, not been proven. 
+		
+		The purpose of this thesis is to test the second part of Conjecture \ref{con:main}. 
+		We test it by generating GT-polytopes, calculating their Ehrhart-polynomials and checking if any of those have 
+		negative coefficients. See Section 5 for method.

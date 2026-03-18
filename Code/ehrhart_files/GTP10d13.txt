@@ -1,0 +1,861 @@
+10 : 10, data missing, NULL
+10 : 9 1, data missing, 0
+10 : 8 2, data missing, 0
+10 : 8 1 1, data missing, 0
+10 : 7 3, data missing, 0
+10 : 7 2 1, data missing, 0
+10 : 7 1 1 1, data missing, 0
+10 : 6 4, data missing, 0
+10 : 6 3 1, data missing, 0
+10 : 6 2 2, data missing, 0
+10 : 6 2 1 1, data missing, 0
+10 : 6 1 1 1 1, data missing, 0
+10 : 5 5, data missing, 0
+10 : 5 4 1, data missing, 0
+10 : 5 3 2, data missing, 0
+10 : 5 3 1 1, data missing, 0
+10 : 5 2 2 1, data missing, 0
+10 : 5 2 1 1 1, data missing, 0
+10 : 5 1 1 1 1 1, data missing, 0
+10 : 4 4 2, data missing, 0
+10 : 4 4 1 1, data missing, 0
+10 : 4 3 3, data missing, 0
+10 : 4 3 2 1, data missing, 0
+10 : 4 3 1 1 1, data missing, 0
+10 : 4 2 2 2, data missing, 0
+10 : 4 2 2 1 1, data missing, 0
+10 : 4 2 1 1 1 1, data missing, 0
+10 : 4 1 1 1 1 1 1, data missing, 0
+10 : 3 3 3 1, data missing, 0
+10 : 3 3 2 2, data missing, 0
+10 : 3 3 2 1 1, data missing, 0
+10 : 3 3 1 1 1 1, data missing, 0
+10 : 3 2 2 2 1, data missing, 0
+10 : 3 2 2 1 1 1, data missing, 0
+10 : 3 2 1 1 1 1 1, data missing, 0
+10 : 3 1 1 1 1 1 1 1, data missing, 0
+10 : 2 2 2 2 2, data missing, 0
+10 : 2 2 2 2 1 1, data missing, 0
+10 : 2 2 2 1 1 1 1, data missing, 0
+10 : 2 2 1 1 1 1 1 1, data missing, 0
+10 : 2 1 1 1 1 1 1 1 1, data missing, 0
+9 1 : 9 1, data missing, 0
+9 1 : 8 2, data missing, 0
+9 1 : 8 1 1, data missing, 1
+9 1 : 7 3, data missing, 0
+9 1 : 7 2 1, data missing, 1
+9 1 : 7 1 1 1, data missing, 2
+9 1 : 6 4, data missing, 0
+9 1 : 6 3 1, data missing, 1
+9 1 : 6 2 2, data missing, 1
+9 1 : 6 2 1 1, data missing, 2
+9 1 : 6 1 1 1 1, data missing, 3
+9 1 : 5 5, data missing, 0
+9 1 : 5 4 1, data missing, 1
+9 1 : 5 3 2, data missing, 1
+9 1 : 5 3 1 1, data missing, 2
+9 1 : 5 2 2 1, data missing, 2
+9 1 : 5 2 1 1 1, data missing, 3
+9 1 : 5 1 1 1 1 1, data missing, 4
+9 1 : 4 4 2, data missing, 1
+9 1 : 4 4 1 1, data missing, 2
+9 1 : 4 3 3, data missing, 1
+9 1 : 4 3 2 1, data missing, 2
+9 1 : 4 3 1 1 1, data missing, 3
+9 1 : 4 2 2 2, data missing, 2
+9 1 : 4 2 2 1 1, data missing, 3
+9 1 : 4 2 1 1 1 1, data missing, 4
+9 1 : 4 1 1 1 1 1 1, data missing, 5
+9 1 : 3 3 3 1, data missing, 2
+9 1 : 3 3 2 2, data missing, 2
+9 1 : 3 3 2 1 1, data missing, 3
+9 1 : 3 3 1 1 1 1, data missing, 4
+9 1 : 3 2 2 2 1, data missing, 3
+9 1 : 3 2 2 1 1 1, data missing, 4
+9 1 : 3 2 1 1 1 1 1, data missing, 5
+9 1 : 3 1 1 1 1 1 1 1, data missing, 6
+9 1 : 2 2 2 2 2, data missing, 3
+9 1 : 2 2 2 2 1 1, data missing, 4
+9 1 : 2 2 2 1 1 1 1, data missing, 5
+9 1 : 2 2 1 1 1 1 1 1, data missing, 6
+9 1 : 2 1 1 1 1 1 1 1 1, data missing, 7
+8 2 : 8 2, data missing, 0
+8 2 : 8 1 1, data missing, 0
+8 2 : 7 3, data missing, 0
+8 2 : 7 2 1, data missing, 1
+8 2 : 7 1 1 1, data missing, 2
+8 2 : 6 4, data missing, 0
+8 2 : 6 3 1, data missing, 1
+8 2 : 6 2 2, data missing, 1
+8 2 : 6 2 1 1, data missing, 2
+8 2 : 6 1 1 1 1, data missing, 3
+8 2 : 5 5, data missing, 0
+8 2 : 5 4 1, data missing, 1
+8 2 : 5 3 2, data missing, 1
+8 2 : 5 3 1 1, data missing, 2
+8 2 : 5 2 2 1, data missing, 2
+8 2 : 5 2 1 1 1, data missing, 3
+8 2 : 5 1 1 1 1 1, data missing, 4
+8 2 : 4 4 2, data missing, 1
+8 2 : 4 4 1 1, data missing, 2
+8 2 : 4 3 3, data missing, 1
+8 2 : 4 3 2 1, data missing, 2
+8 2 : 4 3 1 1 1, data missing, 3
+8 2 : 4 2 2 2, data missing, 2
+8 2 : 4 2 2 1 1, data missing, 3
+8 2 : 4 2 1 1 1 1, data missing, 4
+8 2 : 4 1 1 1 1 1 1, data missing, 5
+8 2 : 3 3 3 1, data missing, 2
+8 2 : 3 3 2 2, data missing, 2
+8 2 : 3 3 2 1 1, data missing, 3
+8 2 : 3 3 1 1 1 1, data missing, 4
+8 2 : 3 2 2 2 1, data missing, 3
+8 2 : 3 2 2 1 1 1, data missing, 4
+8 2 : 3 2 1 1 1 1 1, data missing, 5
+8 2 : 3 1 1 1 1 1 1 1, data missing, 6
+8 2 : 2 2 2 2 2, data missing, 3
+8 2 : 2 2 2 2 1 1, data missing, 4
+8 2 : 2 2 2 1 1 1 1, data missing, 5
+8 2 : 2 2 1 1 1 1 1 1, data missing, 6
+8 2 : 2 1 1 1 1 1 1 1 1, data missing, 7
+8 1 1 : 8 1 1, data missing, 0
+8 1 1 : 7 3, data missing, 0
+8 1 1 : 7 2 1, data missing, 0
+8 1 1 : 7 1 1 1, data missing, 2
+8 1 1 : 6 4, data missing, 0
+8 1 1 : 6 3 1, data missing, 0
+8 1 1 : 6 2 2, data missing, 0
+8 1 1 : 6 2 1 1, data missing, 2
+8 1 1 : 6 1 1 1 1, data missing, 4
+8 1 1 : 5 5, data missing, 0
+8 1 1 : 5 4 1, data missing, 0
+8 1 1 : 5 3 2, data missing, 0
+8 1 1 : 5 3 1 1, data missing, 2
+8 1 1 : 5 2 2 1, data missing, 2
+8 1 1 : 5 2 1 1 1, data missing, 4
+8 1 1 : 5 1 1 1 1 1, data missing, 6
+8 1 1 : 4 4 2, data missing, 0
+8 1 1 : 4 4 1 1, data missing, 2
+8 1 1 : 4 3 3, data missing, 0
+8 1 1 : 4 3 2 1, data missing, 2
+8 1 1 : 4 3 1 1 1, data missing, 4
+8 1 1 : 4 2 2 2, data missing, 2
+8 1 1 : 4 2 2 1 1, data missing, 4
+8 1 1 : 4 2 1 1 1 1, data missing, 6
+8 1 1 : 4 1 1 1 1 1 1, data missing, 8
+8 1 1 : 3 3 3 1, data missing, 2
+8 1 1 : 3 3 2 2, data missing, 2
+8 1 1 : 3 3 2 1 1, data missing, 4
+8 1 1 : 3 3 1 1 1 1, data missing, 6
+8 1 1 : 3 2 2 2 1, data missing, 4
+8 1 1 : 3 2 2 1 1 1, data missing, 6
+8 1 1 : 3 2 1 1 1 1 1, data missing, 8
+8 1 1 : 3 1 1 1 1 1 1 1, data missing, 10
+8 1 1 : 2 2 2 2 2, data missing, 4
+8 1 1 : 2 2 2 2 1 1, data missing, 6
+8 1 1 : 2 2 2 1 1 1 1, data missing, 8
+8 1 1 : 2 2 1 1 1 1 1 1, data missing, 10
+8 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 12
+7 3 : 7 3, data missing, 0
+7 3 : 7 2 1, data missing, 0
+7 3 : 7 1 1 1, data missing, 0
+7 3 : 6 4, data missing, 0
+7 3 : 6 3 1, data missing, 1
+7 3 : 6 2 2, data missing, 1
+7 3 : 6 2 1 1, data missing, 2
+7 3 : 6 1 1 1 1, data missing, 3
+7 3 : 5 5, data missing, 0
+7 3 : 5 4 1, data missing, 1
+7 3 : 5 3 2, data missing, 1
+7 3 : 5 3 1 1, data missing, 2
+7 3 : 5 2 2 1, data missing, 2
+7 3 : 5 2 1 1 1, data missing, 3
+7 3 : 5 1 1 1 1 1, data missing, 4
+7 3 : 4 4 2, data missing, 1
+7 3 : 4 4 1 1, data missing, 2
+7 3 : 4 3 3, data missing, 1
+7 3 : 4 3 2 1, data missing, 2
+7 3 : 4 3 1 1 1, data missing, 3
+7 3 : 4 2 2 2, data missing, 2
+7 3 : 4 2 2 1 1, data missing, 3
+7 3 : 4 2 1 1 1 1, data missing, 4
+7 3 : 4 1 1 1 1 1 1, data missing, 5
+7 3 : 3 3 3 1, data missing, 2
+7 3 : 3 3 2 2, data missing, 2
+7 3 : 3 3 2 1 1, data missing, 3
+7 3 : 3 3 1 1 1 1, data missing, 4
+7 3 : 3 2 2 2 1, data missing, 3
+7 3 : 3 2 2 1 1 1, data missing, 4
+7 3 : 3 2 1 1 1 1 1, data missing, 5
+7 3 : 3 1 1 1 1 1 1 1, data missing, 6
+7 3 : 2 2 2 2 2, data missing, 3
+7 3 : 2 2 2 2 1 1, data missing, 4
+7 3 : 2 2 2 1 1 1 1, data missing, 5
+7 3 : 2 2 1 1 1 1 1 1, data missing, 6
+7 3 : 2 1 1 1 1 1 1 1 1, data missing, 7
+7 2 1 : 7 2 1, data missing, 0
+7 2 1 : 7 1 1 1, data missing, 1
+7 2 1 : 6 4, data missing, 0
+7 2 1 : 6 3 1, data missing, 0
+7 2 1 : 6 2 2, data missing, 1
+7 2 1 : 6 2 1 1, data missing, 3
+7 2 1 : 6 1 1 1 1, data missing, 5
+7 2 1 : 5 5, data missing, 0
+7 2 1 : 5 4 1, data missing, 0
+7 2 1 : 5 3 2, data missing, 1
+7 2 1 : 5 3 1 1, data missing, 3
+7 2 1 : 5 2 2 1, data missing, 3
+7 2 1 : 5 2 1 1 1, data missing, 5
+7 2 1 : 5 1 1 1 1 1, data missing, 7
+7 2 1 : 4 4 2, data missing, 1
+7 2 1 : 4 4 1 1, data missing, 3
+7 2 1 : 4 3 3, data missing, 1
+7 2 1 : 4 3 2 1, data missing, 3
+7 2 1 : 4 3 1 1 1, data missing, 5
+7 2 1 : 4 2 2 2, data missing, 3
+7 2 1 : 4 2 2 1 1, data missing, 5
+7 2 1 : 4 2 1 1 1 1, data missing, 7
+7 2 1 : 4 1 1 1 1 1 1, data missing, 9
+7 2 1 : 3 3 3 1, data missing, 3
+7 2 1 : 3 3 2 2, data missing, 3
+7 2 1 : 3 3 2 1 1, data missing, 5
+7 2 1 : 3 3 1 1 1 1, data missing, 7
+7 2 1 : 3 2 2 2 1, data missing, 5
+7 2 1 : 3 2 2 1 1 1, data missing, 7
+7 2 1 : 3 2 1 1 1 1 1, data missing, 9
+7 2 1 : 3 1 1 1 1 1 1 1, data missing, 11
+7 2 1 : 2 2 2 2 2, data missing, 5
+7 2 1 : 2 2 2 2 1 1, data missing, 7
+7 2 1 : 2 2 2 1 1 1 1, data missing, 9
+7 2 1 : 2 2 1 1 1 1 1 1, data missing, 11
+7 2 1 : 2 1 1 1 1 1 1 1 1, 3433*x**13/222393600 + 63923*x**12/119750400 + 89923*x**11/10886400 + 824057*x**10/10886400 + 1663147*x**9/3628800 + 7031453*x**8/3628800 + 64209289*x**7/10886400 + 143086211*x**6/10886400 + 117513301*x**5/5443200 + 70919437*x**4/2721600 + 1400347*x**3/61600 + 1432901*x**2/103950 + 29011*x/5460 + 1, 13
+7 1 1 1 : 7 1 1 1, data missing, 0
+7 1 1 1 : 6 4, data missing, 0
+7 1 1 1 : 6 3 1, data missing, -1
+7 1 1 1 : 6 2 2, data missing, 0
+7 1 1 1 : 6 2 1 1, data missing, 0
+7 1 1 1 : 6 1 1 1 1, data missing, 3
+7 1 1 1 : 5 5, data missing, 0
+7 1 1 1 : 5 4 1, data missing, -1
+7 1 1 1 : 5 3 2, data missing, 0
+7 1 1 1 : 5 3 1 1, data missing, 0
+7 1 1 1 : 5 2 2 1, data missing, 0
+7 1 1 1 : 5 2 1 1 1, data missing, 3
+7 1 1 1 : 5 1 1 1 1 1, data missing, 6
+7 1 1 1 : 4 4 2, data missing, 0
+7 1 1 1 : 4 4 1 1, data missing, 0
+7 1 1 1 : 4 3 3, data missing, 0
+7 1 1 1 : 4 3 2 1, data missing, 0
+7 1 1 1 : 4 3 1 1 1, data missing, 3
+7 1 1 1 : 4 2 2 2, data missing, 0
+7 1 1 1 : 4 2 2 1 1, data missing, 3
+7 1 1 1 : 4 2 1 1 1 1, data missing, 6
+7 1 1 1 : 4 1 1 1 1 1 1, data missing, 9
+7 1 1 1 : 3 3 3 1, data missing, 0
+7 1 1 1 : 3 3 2 2, data missing, 0
+7 1 1 1 : 3 3 2 1 1, data missing, 3
+7 1 1 1 : 3 3 1 1 1 1, data missing, 6
+7 1 1 1 : 3 2 2 2 1, data missing, 3
+7 1 1 1 : 3 2 2 1 1 1, data missing, 6
+7 1 1 1 : 3 2 1 1 1 1 1, data missing, 9
+7 1 1 1 : 3 1 1 1 1 1 1 1, data missing, 12
+7 1 1 1 : 2 2 2 2 2, data missing, 3
+7 1 1 1 : 2 2 2 2 1 1, data missing, 6
+7 1 1 1 : 2 2 2 1 1 1 1, data missing, 9
+7 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 12
+7 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 15
+6 4 : 6 4, data missing, 0
+6 4 : 6 3 1, data missing, 0
+6 4 : 6 2 2, data missing, 0
+6 4 : 6 2 1 1, data missing, 0
+6 4 : 6 1 1 1 1, data missing, 0
+6 4 : 5 5, data missing, 0
+6 4 : 5 4 1, data missing, 1
+6 4 : 5 3 2, data missing, 1
+6 4 : 5 3 1 1, data missing, 2
+6 4 : 5 2 2 1, data missing, 2
+6 4 : 5 2 1 1 1, data missing, 3
+6 4 : 5 1 1 1 1 1, data missing, 4
+6 4 : 4 4 2, data missing, 1
+6 4 : 4 4 1 1, data missing, 2
+6 4 : 4 3 3, data missing, 1
+6 4 : 4 3 2 1, data missing, 2
+6 4 : 4 3 1 1 1, data missing, 3
+6 4 : 4 2 2 2, data missing, 2
+6 4 : 4 2 2 1 1, data missing, 3
+6 4 : 4 2 1 1 1 1, data missing, 4
+6 4 : 4 1 1 1 1 1 1, data missing, 5
+6 4 : 3 3 3 1, data missing, 2
+6 4 : 3 3 2 2, data missing, 2
+6 4 : 3 3 2 1 1, data missing, 3
+6 4 : 3 3 1 1 1 1, data missing, 4
+6 4 : 3 2 2 2 1, data missing, 3
+6 4 : 3 2 2 1 1 1, data missing, 4
+6 4 : 3 2 1 1 1 1 1, data missing, 5
+6 4 : 3 1 1 1 1 1 1 1, data missing, 6
+6 4 : 2 2 2 2 2, data missing, 3
+6 4 : 2 2 2 2 1 1, data missing, 4
+6 4 : 2 2 2 1 1 1 1, data missing, 5
+6 4 : 2 2 1 1 1 1 1 1, data missing, 6
+6 4 : 2 1 1 1 1 1 1 1 1, data missing, 7
+6 3 1 : 6 3 1, data missing, 0
+6 3 1 : 6 2 2, data missing, 0
+6 3 1 : 6 2 1 1, data missing, 1
+6 3 1 : 6 1 1 1 1, data missing, 2
+6 3 1 : 5 5, data missing, 0
+6 3 1 : 5 4 1, data missing, 0
+6 3 1 : 5 3 2, data missing, 1
+6 3 1 : 5 3 1 1, data missing, 3
+6 3 1 : 5 2 2 1, data missing, 3
+6 3 1 : 5 2 1 1 1, data missing, 5
+6 3 1 : 5 1 1 1 1 1, data missing, 7
+6 3 1 : 4 4 2, data missing, 1
+6 3 1 : 4 4 1 1, data missing, 3
+6 3 1 : 4 3 3, data missing, 1
+6 3 1 : 4 3 2 1, data missing, 3
+6 3 1 : 4 3 1 1 1, data missing, 5
+6 3 1 : 4 2 2 2, data missing, 3
+6 3 1 : 4 2 2 1 1, data missing, 5
+6 3 1 : 4 2 1 1 1 1, data missing, 7
+6 3 1 : 4 1 1 1 1 1 1, data missing, 9
+6 3 1 : 3 3 3 1, data missing, 3
+6 3 1 : 3 3 2 2, data missing, 3
+6 3 1 : 3 3 2 1 1, data missing, 5
+6 3 1 : 3 3 1 1 1 1, data missing, 7
+6 3 1 : 3 2 2 2 1, data missing, 5
+6 3 1 : 3 2 2 1 1 1, data missing, 7
+6 3 1 : 3 2 1 1 1 1 1, data missing, 9
+6 3 1 : 3 1 1 1 1 1 1 1, data missing, 11
+6 3 1 : 2 2 2 2 2, data missing, 5
+6 3 1 : 2 2 2 2 1 1, data missing, 7
+6 3 1 : 2 2 2 1 1 1 1, data missing, 9
+6 3 1 : 2 2 1 1 1 1 1 1, data missing, 11
+6 3 1 : 2 1 1 1 1 1 1 1 1, 32333*x**13/222393600 + 4843*x**12/1140480 + 936541*x**11/17107200 + 8573*x**10/20736 + 1061831*x**9/518400 + 48845*x**8/6912 + 27341813*x**7/1555200 + 3336451*x**6/103680 + 17000359*x**5/388800 + 570559*x**4/12960 + 8902*x**3/275 + 133141*x**2/7920 + 12269*x/2145 + 1, 13
+6 2 2 : 6 2 2, data missing, 0
+6 2 2 : 6 2 1 1, data missing, 0
+6 2 2 : 6 1 1 1 1, data missing, 1
+6 2 2 : 5 5, data missing, 0
+6 2 2 : 5 4 1, data missing, -1
+6 2 2 : 5 3 2, data missing, 0
+6 2 2 : 5 3 1 1, data missing, 0
+6 2 2 : 5 2 2 1, data missing, 2
+6 2 2 : 5 2 1 1 1, data missing, 4
+6 2 2 : 5 1 1 1 1 1, data missing, 6
+6 2 2 : 4 4 2, data missing, 0
+6 2 2 : 4 4 1 1, data missing, 0
+6 2 2 : 4 3 3, data missing, 0
+6 2 2 : 4 3 2 1, data missing, 2
+6 2 2 : 4 3 1 1 1, data missing, 4
+6 2 2 : 4 2 2 2, data missing, 2
+6 2 2 : 4 2 2 1 1, data missing, 4
+6 2 2 : 4 2 1 1 1 1, data missing, 6
+6 2 2 : 4 1 1 1 1 1 1, data missing, 8
+6 2 2 : 3 3 3 1, data missing, 2
+6 2 2 : 3 3 2 2, data missing, 2
+6 2 2 : 3 3 2 1 1, data missing, 4
+6 2 2 : 3 3 1 1 1 1, data missing, 6
+6 2 2 : 3 2 2 2 1, data missing, 4
+6 2 2 : 3 2 2 1 1 1, data missing, 6
+6 2 2 : 3 2 1 1 1 1 1, data missing, 8
+6 2 2 : 3 1 1 1 1 1 1 1, data missing, 10
+6 2 2 : 2 2 2 2 2, data missing, 4
+6 2 2 : 2 2 2 2 1 1, data missing, 6
+6 2 2 : 2 2 2 1 1 1 1, data missing, 8
+6 2 2 : 2 2 1 1 1 1 1 1, data missing, 10
+6 2 2 : 2 1 1 1 1 1 1 1 1, data missing, 12
+6 2 1 1 : 6 2 1 1, data missing, 0
+6 2 1 1 : 6 1 1 1 1, data missing, 2
+6 2 1 1 : 5 5, data missing, 0
+6 2 1 1 : 5 4 1, data missing, -1
+6 2 1 1 : 5 3 2, data missing, 0
+6 2 1 1 : 5 3 1 1, data missing, 0
+6 2 1 1 : 5 2 2 1, data missing, 1
+6 2 1 1 : 5 2 1 1 1, data missing, 5
+6 2 1 1 : 5 1 1 1 1 1, data missing, 8
+6 2 1 1 : 4 4 2, data missing, 0
+6 2 1 1 : 4 4 1 1, data missing, 0
+6 2 1 1 : 4 3 3, data missing, 1
+6 2 1 1 : 4 3 2 1, data missing, 1
+6 2 1 1 : 4 3 1 1 1, data missing, 5
+6 2 1 1 : 4 2 2 2, data missing, 2
+6 2 1 1 : 4 2 2 1 1, data missing, 5
+6 2 1 1 : 4 2 1 1 1 1, data missing, 8
+6 2 1 1 : 4 1 1 1 1 1 1, data missing, 11
+6 2 1 1 : 3 3 3 1, data missing, 1
+6 2 1 1 : 3 3 2 2, data missing, 2
+6 2 1 1 : 3 3 2 1 1, data missing, 5
+6 2 1 1 : 3 3 1 1 1 1, data missing, 8
+6 2 1 1 : 3 2 2 2 1, data missing, 5
+6 2 1 1 : 3 2 2 1 1 1, data missing, 8
+6 2 1 1 : 3 2 1 1 1 1 1, data missing, 11
+6 2 1 1 : 3 1 1 1 1 1 1 1, data missing, 14
+6 2 1 1 : 2 2 2 2 2, data missing, 5
+6 2 1 1 : 2 2 2 2 1 1, data missing, 8
+6 2 1 1 : 2 2 2 1 1 1 1, data missing, 11
+6 2 1 1 : 2 2 1 1 1 1 1 1, data missing, 14
+6 2 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 17
+6 1 1 1 1 : 6 1 1 1 1, data missing, 0
+6 1 1 1 1 : 5 5, data missing, 0
+6 1 1 1 1 : 5 4 1, data missing, -1
+6 1 1 1 1 : 5 3 2, data missing, -1
+6 1 1 1 1 : 5 3 1 1, data missing, -1
+6 1 1 1 1 : 5 2 2 1, data missing, -1
+6 1 1 1 1 : 5 2 1 1 1, data missing, 0
+6 1 1 1 1 : 5 1 1 1 1 1, data missing, 4
+6 1 1 1 1 : 4 4 2, data missing, -1
+6 1 1 1 1 : 4 4 1 1, data missing, -1
+6 1 1 1 1 : 4 3 3, data missing, 0
+6 1 1 1 1 : 4 3 2 1, data missing, -1
+6 1 1 1 1 : 4 3 1 1 1, data missing, 0
+6 1 1 1 1 : 4 2 2 2, data missing, 0
+6 1 1 1 1 : 4 2 2 1 1, data missing, 0
+6 1 1 1 1 : 4 2 1 1 1 1, data missing, 4
+6 1 1 1 1 : 4 1 1 1 1 1 1, data missing, 8
+6 1 1 1 1 : 3 3 3 1, data missing, -1
+6 1 1 1 1 : 3 3 2 2, data missing, 0
+6 1 1 1 1 : 3 3 2 1 1, data missing, 0
+6 1 1 1 1 : 3 3 1 1 1 1, data missing, 4
+6 1 1 1 1 : 3 2 2 2 1, data missing, 0
+6 1 1 1 1 : 3 2 2 1 1 1, data missing, 4
+6 1 1 1 1 : 3 2 1 1 1 1 1, data missing, 8
+6 1 1 1 1 : 3 1 1 1 1 1 1 1, data missing, 12
+6 1 1 1 1 : 2 2 2 2 2, data missing, 0
+6 1 1 1 1 : 2 2 2 2 1 1, data missing, 4
+6 1 1 1 1 : 2 2 2 1 1 1 1, data missing, 8
+6 1 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 12
+6 1 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 16
+5 5 : 5 5, data missing, 0
+5 5 : 5 4 1, data missing, 0
+5 5 : 5 3 2, data missing, 0
+5 5 : 5 3 1 1, data missing, 0
+5 5 : 5 2 2 1, data missing, 0
+5 5 : 5 2 1 1 1, data missing, 0
+5 5 : 5 1 1 1 1 1, data missing, 0
+5 5 : 4 4 2, data missing, 0
+5 5 : 4 4 1 1, data missing, 1
+5 5 : 4 3 3, data missing, 0
+5 5 : 4 3 2 1, data missing, 1
+5 5 : 4 3 1 1 1, data missing, 2
+5 5 : 4 2 2 2, data missing, 1
+5 5 : 4 2 2 1 1, data missing, 2
+5 5 : 4 2 1 1 1 1, data missing, 3
+5 5 : 4 1 1 1 1 1 1, data missing, 4
+5 5 : 3 3 3 1, data missing, 1
+5 5 : 3 3 2 2, data missing, 1
+5 5 : 3 3 2 1 1, data missing, 2
+5 5 : 3 3 1 1 1 1, data missing, 3
+5 5 : 3 2 2 2 1, data missing, 2
+5 5 : 3 2 2 1 1 1, data missing, 3
+5 5 : 3 2 1 1 1 1 1, data missing, 4
+5 5 : 3 1 1 1 1 1 1 1, data missing, 5
+5 5 : 2 2 2 2 2, data missing, 2
+5 5 : 2 2 2 2 1 1, data missing, 3
+5 5 : 2 2 2 1 1 1 1, data missing, 4
+5 5 : 2 2 1 1 1 1 1 1, data missing, 5
+5 5 : 2 1 1 1 1 1 1 1 1, data missing, 6
+5 4 1 : 5 4 1, data missing, 0
+5 4 1 : 5 3 2, data missing, 0
+5 4 1 : 5 3 1 1, data missing, 1
+5 4 1 : 5 2 2 1, data missing, 1
+5 4 1 : 5 2 1 1 1, data missing, 2
+5 4 1 : 5 1 1 1 1 1, data missing, 3
+5 4 1 : 4 4 2, data missing, 1
+5 4 1 : 4 4 1 1, data missing, 3
+5 4 1 : 4 3 3, data missing, 1
+5 4 1 : 4 3 2 1, data missing, 3
+5 4 1 : 4 3 1 1 1, data missing, 5
+5 4 1 : 4 2 2 2, data missing, 3
+5 4 1 : 4 2 2 1 1, data missing, 5
+5 4 1 : 4 2 1 1 1 1, data missing, 7
+5 4 1 : 4 1 1 1 1 1 1, data missing, 9
+5 4 1 : 3 3 3 1, data missing, 3
+5 4 1 : 3 3 2 2, data missing, 3
+5 4 1 : 3 3 2 1 1, data missing, 5
+5 4 1 : 3 3 1 1 1 1, data missing, 7
+5 4 1 : 3 2 2 2 1, data missing, 5
+5 4 1 : 3 2 2 1 1 1, data missing, 7
+5 4 1 : 3 2 1 1 1 1 1, data missing, 9
+5 4 1 : 3 1 1 1 1 1 1 1, data missing, 11
+5 4 1 : 2 2 2 2 2, data missing, 5
+5 4 1 : 2 2 2 2 1 1, data missing, 7
+5 4 1 : 2 2 2 1 1 1 1, data missing, 9
+5 4 1 : 2 2 1 1 1 1 1 1, data missing, 11
+5 4 1 : 2 1 1 1 1 1 1 1 1, 961*x**13/6739200 + 163091*x**12/39916800 + 2058709*x**11/39916800 + 460799*x**10/1209600 + 2233219*x**9/1209600 + 7550281*x**8/1209600 + 7916771*x**7/518400 + 100271231*x**6/3628800 + 8473309*x**5/226800 + 13207*x**4/350 + 2125633*x**3/75600 + 4159843*x**2/277200 + 11483*x/2145 + 1, 13
+5 3 2 : 5 3 2, data missing, 0
+5 3 2 : 5 3 1 1, data missing, 0
+5 3 2 : 5 2 2 1, data missing, 1
+5 3 2 : 5 2 1 1 1, data missing, 2
+5 3 2 : 5 1 1 1 1 1, data missing, 3
+5 3 2 : 4 4 2, data missing, 0
+5 3 2 : 4 4 1 1, data missing, 0
+5 3 2 : 4 3 3, data missing, 1
+5 3 2 : 4 3 2 1, data missing, 3
+5 3 2 : 4 3 1 1 1, data missing, 5
+5 3 2 : 4 2 2 2, data missing, 3
+5 3 2 : 4 2 2 1 1, data missing, 5
+5 3 2 : 4 2 1 1 1 1, data missing, 7
+5 3 2 : 4 1 1 1 1 1 1, data missing, 9
+5 3 2 : 3 3 3 1, data missing, 3
+5 3 2 : 3 3 2 2, data missing, 3
+5 3 2 : 3 3 2 1 1, data missing, 5
+5 3 2 : 3 3 1 1 1 1, data missing, 7
+5 3 2 : 3 2 2 2 1, data missing, 5
+5 3 2 : 3 2 2 1 1 1, data missing, 7
+5 3 2 : 3 2 1 1 1 1 1, data missing, 9
+5 3 2 : 3 1 1 1 1 1 1 1, data missing, 11
+5 3 2 : 2 2 2 2 2, data missing, 5
+5 3 2 : 2 2 2 2 1 1, data missing, 7
+5 3 2 : 2 2 2 1 1 1 1, data missing, 9
+5 3 2 : 2 2 1 1 1 1 1 1, data missing, 11
+5 3 2 : 2 1 1 1 1 1 1 1 1, 13501*x**13/9266400 + 3401449*x**12/119750400 + 29009*x**11/113400 + 438749*x**10/311040 + 2413837*x**9/453600 + 52754419*x**8/3628800 + 961877*x**7/32400 + 100384937*x**6/2177280 + 6218491*x**5/113400 + 9689689*x**4/194400 + 21306737*x**3/623700 + 567935*x**2/33264 + 671*x/117 + 1, 13
+5 3 1 1 : 5 3 1 1, data missing, 0
+5 3 1 1 : 5 2 2 1, data missing, 0
+5 3 1 1 : 5 2 1 1 1, data missing, 2
+5 3 1 1 : 5 1 1 1 1 1, data missing, 4
+5 3 1 1 : 4 4 2, data missing, 0
+5 3 1 1 : 4 4 1 1, data missing, 0
+5 3 1 1 : 4 3 3, data missing, 1
+5 3 1 1 : 4 3 2 1, data missing, 1
+5 3 1 1 : 4 3 1 1 1, data missing, 5
+5 3 1 1 : 4 2 2 2, data missing, 2
+5 3 1 1 : 4 2 2 1 1, data missing, 5
+5 3 1 1 : 4 2 1 1 1 1, data missing, 8
+5 3 1 1 : 4 1 1 1 1 1 1, data missing, 11
+5 3 1 1 : 3 3 3 1, data missing, 1
+5 3 1 1 : 3 3 2 2, data missing, 2
+5 3 1 1 : 3 3 2 1 1, data missing, 5
+5 3 1 1 : 3 3 1 1 1 1, data missing, 8
+5 3 1 1 : 3 2 2 2 1, data missing, 5
+5 3 1 1 : 3 2 2 1 1 1, data missing, 8
+5 3 1 1 : 3 2 1 1 1 1 1, data missing, 11
+5 3 1 1 : 3 1 1 1 1 1 1 1, data missing, 14
+5 3 1 1 : 2 2 2 2 2, data missing, 5
+5 3 1 1 : 2 2 2 2 1 1, data missing, 8
+5 3 1 1 : 2 2 2 1 1 1 1, data missing, 11
+5 3 1 1 : 2 2 1 1 1 1 1 1, data missing, 14
+5 3 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 17
+5 2 2 1 : 5 2 2 1, data missing, 0
+5 2 2 1 : 5 2 1 1 1, data missing, 1
+5 2 2 1 : 5 1 1 1 1 1, data missing, 4
+5 2 2 1 : 4 4 2, data missing, -1
+5 2 2 1 : 4 4 1 1, data missing, -1
+5 2 2 1 : 4 3 3, data missing, 0
+5 2 2 1 : 4 3 2 1, data missing, 0
+5 2 2 1 : 4 3 1 1 1, data missing, 1
+5 2 2 1 : 4 2 2 2, data missing, 2
+5 2 2 1 : 4 2 2 1 1, data missing, 5
+5 2 2 1 : 4 2 1 1 1 1, data missing, 8
+5 2 2 1 : 4 1 1 1 1 1 1, data missing, 11
+5 2 2 1 : 3 3 3 1, data missing, 0
+5 2 2 1 : 3 3 2 2, data missing, 2
+5 2 2 1 : 3 3 2 1 1, data missing, 5
+5 2 2 1 : 3 3 1 1 1 1, data missing, 8
+5 2 2 1 : 3 2 2 2 1, data missing, 5
+5 2 2 1 : 3 2 2 1 1 1, data missing, 8
+5 2 2 1 : 3 2 1 1 1 1 1, data missing, 11
+5 2 2 1 : 3 1 1 1 1 1 1 1, data missing, 14
+5 2 2 1 : 2 2 2 2 2, data missing, 5
+5 2 2 1 : 2 2 2 2 1 1, data missing, 8
+5 2 2 1 : 2 2 2 1 1 1 1, data missing, 11
+5 2 2 1 : 2 2 1 1 1 1 1 1, data missing, 14
+5 2 2 1 : 2 1 1 1 1 1 1 1 1, data missing, 17
+5 2 1 1 1 : 5 2 1 1 1, data missing, 0
+5 2 1 1 1 : 5 1 1 1 1 1, data missing, 3
+5 2 1 1 1 : 4 4 2, data missing, -1
+5 2 1 1 1 : 4 4 1 1, data missing, -1
+5 2 1 1 1 : 4 3 3, data missing, 0
+5 2 1 1 1 : 4 3 2 1, data missing, -1
+5 2 1 1 1 : 4 3 1 1 1, data missing, 0
+5 2 1 1 1 : 4 2 2 2, data missing, 1
+5 2 1 1 1 : 4 2 2 1 1, data missing, 1
+5 2 1 1 1 : 4 2 1 1 1 1, data missing, 7
+5 2 1 1 1 : 4 1 1 1 1 1 1, data missing, 11
+5 2 1 1 1 : 3 3 3 1, data missing, -1
+5 2 1 1 1 : 3 3 2 2, data missing, 1
+5 2 1 1 1 : 3 3 2 1 1, data missing, 1
+5 2 1 1 1 : 3 3 1 1 1 1, data missing, 7
+5 2 1 1 1 : 3 2 2 2 1, data missing, 2
+5 2 1 1 1 : 3 2 2 1 1 1, data missing, 7
+5 2 1 1 1 : 3 2 1 1 1 1 1, data missing, 11
+5 2 1 1 1 : 3 1 1 1 1 1 1 1, data missing, 15
+5 2 1 1 1 : 2 2 2 2 2, data missing, 3
+5 2 1 1 1 : 2 2 2 2 1 1, data missing, 7
+5 2 1 1 1 : 2 2 2 1 1 1 1, data missing, 11
+5 2 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 15
+5 2 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 19
+5 1 1 1 1 1 : 5 1 1 1 1 1, data missing, 0
+5 1 1 1 1 1 : 4 4 2, data missing, -1
+5 1 1 1 1 1 : 4 4 1 1, data missing, -1
+5 1 1 1 1 1 : 4 3 3, data missing, -1
+5 1 1 1 1 1 : 4 3 2 1, data missing, -1
+5 1 1 1 1 1 : 4 3 1 1 1, data missing, -1
+5 1 1 1 1 1 : 4 2 2 2, data missing, -1
+5 1 1 1 1 1 : 4 2 2 1 1, data missing, -1
+5 1 1 1 1 1 : 4 2 1 1 1 1, data missing, 0
+5 1 1 1 1 1 : 4 1 1 1 1 1 1, data missing, 5
+5 1 1 1 1 1 : 3 3 3 1, data missing, -1
+5 1 1 1 1 1 : 3 3 2 2, data missing, -1
+5 1 1 1 1 1 : 3 3 2 1 1, data missing, -1
+5 1 1 1 1 1 : 3 3 1 1 1 1, data missing, 0
+5 1 1 1 1 1 : 3 2 2 2 1, data missing, -1
+5 1 1 1 1 1 : 3 2 2 1 1 1, data missing, 0
+5 1 1 1 1 1 : 3 2 1 1 1 1 1, data missing, 5
+5 1 1 1 1 1 : 3 1 1 1 1 1 1 1, data missing, 10
+5 1 1 1 1 1 : 2 2 2 2 2, data missing, 0
+5 1 1 1 1 1 : 2 2 2 2 1 1, data missing, 0
+5 1 1 1 1 1 : 2 2 2 1 1 1 1, data missing, 5
+5 1 1 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 10
+5 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 15
+4 4 2 : 4 4 2, data missing, 0
+4 4 2 : 4 4 1 1, data missing, 0
+4 4 2 : 4 3 3, data missing, 0
+4 4 2 : 4 3 2 1, data missing, 1
+4 4 2 : 4 3 1 1 1, data missing, 2
+4 4 2 : 4 2 2 2, data missing, 1
+4 4 2 : 4 2 2 1 1, data missing, 2
+4 4 2 : 4 2 1 1 1 1, data missing, 3
+4 4 2 : 4 1 1 1 1 1 1, data missing, 4
+4 4 2 : 3 3 3 1, data missing, 2
+4 4 2 : 3 3 2 2, data missing, 2
+4 4 2 : 3 3 2 1 1, data missing, 4
+4 4 2 : 3 3 1 1 1 1, data missing, 6
+4 4 2 : 3 2 2 2 1, data missing, 4
+4 4 2 : 3 2 2 1 1 1, data missing, 6
+4 4 2 : 3 2 1 1 1 1 1, data missing, 8
+4 4 2 : 3 1 1 1 1 1 1 1, data missing, 10
+4 4 2 : 2 2 2 2 2, data missing, 4
+4 4 2 : 2 2 2 2 1 1, data missing, 6
+4 4 2 : 2 2 2 1 1 1 1, data missing, 8
+4 4 2 : 2 2 1 1 1 1 1 1, data missing, 10
+4 4 2 : 2 1 1 1 1 1 1 1 1, data missing, 12
+4 4 1 1 : 4 4 1 1, data missing, 0
+4 4 1 1 : 4 3 3, data missing, 0
+4 4 1 1 : 4 3 2 1, data missing, 0
+4 4 1 1 : 4 3 1 1 1, data missing, 2
+4 4 1 1 : 4 2 2 2, data missing, 0
+4 4 1 1 : 4 2 2 1 1, data missing, 2
+4 4 1 1 : 4 2 1 1 1 1, data missing, 4
+4 4 1 1 : 4 1 1 1 1 1 1, data missing, 6
+4 4 1 1 : 3 3 3 1, data missing, 0
+4 4 1 1 : 3 3 2 2, data missing, 1
+4 4 1 1 : 3 3 2 1 1, data missing, 4
+4 4 1 1 : 3 3 1 1 1 1, data missing, 7
+4 4 1 1 : 3 2 2 2 1, data missing, 4
+4 4 1 1 : 3 2 2 1 1 1, data missing, 7
+4 4 1 1 : 3 2 1 1 1 1 1, data missing, 10
+4 4 1 1 : 3 1 1 1 1 1 1 1, 179*x**13/74131200 + 247*x**12/2737152 + 1579*x**11/1036800 + 19121*x**10/1244160 + 107363*x**9/1036800 + 204437*x**8/414720 + 1774597*x**7/1036800 + 5488043*x**6/1244160 + 8806271*x**5/1036800 + 3786091*x**4/311040 + 36390191*x**3/2851200 + 447077*x**2/47520 + 5179*x/1170 + 1, 13
+4 4 1 1 : 2 2 2 2 2, data missing, 4
+4 4 1 1 : 2 2 2 2 1 1, data missing, 7
+4 4 1 1 : 2 2 2 1 1 1 1, data missing, 10
+4 4 1 1 : 2 2 1 1 1 1 1 1, 39047*x**13/2075673600 + 27493*x**12/47900160 + 180953*x**11/22809600 + 57401*x**10/870912 + 763481*x**9/2073600 + 425363*x**8/290304 + 62275223*x**7/14515200 + 8189927*x**6/870912 + 8046263*x**5/518400 + 20906813*x**4/1088640 + 6243737*x**3/356400 + 94469*x**2/8316 + 863651*x/180180 + 1, 13
+4 4 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 16
+4 3 3 : 4 3 3, data missing, 0
+4 3 3 : 4 3 2 1, data missing, 0
+4 3 3 : 4 3 1 1 1, data missing, 0
+4 3 3 : 4 2 2 2, data missing, 0
+4 3 3 : 4 2 2 1 1, data missing, 1
+4 3 3 : 4 2 1 1 1 1, data missing, 2
+4 3 3 : 4 1 1 1 1 1 1, data missing, 3
+4 3 3 : 3 3 3 1, data missing, 2
+4 3 3 : 3 3 2 2, data missing, 2
+4 3 3 : 3 3 2 1 1, data missing, 4
+4 3 3 : 3 3 1 1 1 1, data missing, 6
+4 3 3 : 3 2 2 2 1, data missing, 4
+4 3 3 : 3 2 2 1 1 1, data missing, 6
+4 3 3 : 3 2 1 1 1 1 1, data missing, 8
+4 3 3 : 3 1 1 1 1 1 1 1, data missing, 10
+4 3 3 : 2 2 2 2 2, data missing, 4
+4 3 3 : 2 2 2 2 1 1, data missing, 6
+4 3 3 : 2 2 2 1 1 1 1, data missing, 8
+4 3 3 : 2 2 1 1 1 1 1 1, data missing, 10
+4 3 3 : 2 1 1 1 1 1 1 1 1, data missing, 12
+4 3 2 1 : 4 3 2 1, data missing, 0
+4 3 2 1 : 4 3 1 1 1, data missing, 1
+4 3 2 1 : 4 2 2 2, data missing, 1
+4 3 2 1 : 4 2 2 1 1, data missing, 3
+4 3 2 1 : 4 2 1 1 1 1, data missing, 5
+4 3 2 1 : 4 1 1 1 1 1 1, data missing, 7
+4 3 2 1 : 3 3 3 1, data missing, 1
+4 3 2 1 : 3 3 2 2, data missing, 3
+4 3 2 1 : 3 3 2 1 1, data missing, 6
+4 3 2 1 : 3 3 1 1 1 1, data missing, 9
+4 3 2 1 : 3 2 2 2 1, data missing, 6
+4 3 2 1 : 3 2 2 1 1 1, data missing, 9
+4 3 2 1 : 3 2 1 1 1 1 1, data missing, 12
+4 3 2 1 : 3 1 1 1 1 1 1 1, data missing, 15
+4 3 2 1 : 2 2 2 2 2, data missing, 6
+4 3 2 1 : 2 2 2 2 1 1, data missing, 9
+4 3 2 1 : 2 2 2 1 1 1 1, data missing, 12
+4 3 2 1 : 2 2 1 1 1 1 1 1, data missing, 15
+4 3 2 1 : 2 1 1 1 1 1 1 1 1, data missing, 18
+4 3 1 1 1 : 4 3 1 1 1, data missing, 0
+4 3 1 1 1 : 4 2 2 2, data missing, 0
+4 3 1 1 1 : 4 2 2 1 1, data missing, 0
+4 3 1 1 1 : 4 2 1 1 1 1, data missing, 3
+4 3 1 1 1 : 4 1 1 1 1 1 1, data missing, 6
+4 3 1 1 1 : 3 3 3 1, data missing, -1
+4 3 1 1 1 : 3 3 2 2, data missing, 1
+4 3 1 1 1 : 3 3 2 1 1, data missing, 1
+4 3 1 1 1 : 3 3 1 1 1 1, data missing, 7
+4 3 1 1 1 : 3 2 2 2 1, data missing, 2
+4 3 1 1 1 : 3 2 2 1 1 1, data missing, 7
+4 3 1 1 1 : 3 2 1 1 1 1 1, data missing, 11
+4 3 1 1 1 : 3 1 1 1 1 1 1 1, data missing, 15
+4 3 1 1 1 : 2 2 2 2 2, data missing, 3
+4 3 1 1 1 : 2 2 2 2 1 1, data missing, 7
+4 3 1 1 1 : 2 2 2 1 1 1 1, data missing, 11
+4 3 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 15
+4 3 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 19
+4 2 2 2 : 4 2 2 2, data missing, 0
+4 2 2 2 : 4 2 2 1 1, data missing, 0
+4 2 2 2 : 4 2 1 1 1 1, data missing, 1
+4 2 2 2 : 4 1 1 1 1 1 1, data missing, 4
+4 2 2 2 : 3 3 3 1, data missing, -1
+4 2 2 2 : 3 3 2 2, data missing, 0
+4 2 2 2 : 3 3 2 1 1, data missing, 0
+4 2 2 2 : 3 3 1 1 1 1, data missing, 1
+4 2 2 2 : 3 2 2 2 1, data missing, 3
+4 2 2 2 : 3 2 2 1 1 1, data missing, 6
+4 2 2 2 : 3 2 1 1 1 1 1, data missing, 9
+4 2 2 2 : 3 1 1 1 1 1 1 1, data missing, 12
+4 2 2 2 : 2 2 2 2 2, data missing, 3
+4 2 2 2 : 2 2 2 2 1 1, data missing, 6
+4 2 2 2 : 2 2 2 1 1 1 1, data missing, 9
+4 2 2 2 : 2 2 1 1 1 1 1 1, data missing, 12
+4 2 2 2 : 2 1 1 1 1 1 1 1 1, data missing, 15
+4 2 2 1 1 : 4 2 2 1 1, data missing, 0
+4 2 2 1 1 : 4 2 1 1 1 1, data missing, 2
+4 2 2 1 1 : 4 1 1 1 1 1 1, data missing, 7
+4 2 2 1 1 : 3 3 3 1, data missing, -1
+4 2 2 1 1 : 3 3 2 2, data missing, 0
+4 2 2 1 1 : 3 3 2 1 1, data missing, 0
+4 2 2 1 1 : 3 3 1 1 1 1, data missing, 2
+4 2 2 1 1 : 3 2 2 2 1, data missing, 2
+4 2 2 1 1 : 3 2 2 1 1 1, data missing, 8
+4 2 2 1 1 : 3 2 1 1 1 1 1, data missing, 12
+4 2 2 1 1 : 3 1 1 1 1 1 1 1, data missing, 16
+4 2 2 1 1 : 2 2 2 2 2, data missing, 4
+4 2 2 1 1 : 2 2 2 2 1 1, data missing, 8
+4 2 2 1 1 : 2 2 2 1 1 1 1, data missing, 12
+4 2 2 1 1 : 2 2 1 1 1 1 1 1, data missing, 16
+4 2 2 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 20
+4 2 1 1 1 1 : 4 2 1 1 1 1, data missing, 0
+4 2 1 1 1 1 : 4 1 1 1 1 1 1, data missing, 4
+4 2 1 1 1 1 : 3 3 3 1, data missing, -1
+4 2 1 1 1 1 : 3 3 2 2, data missing, -1
+4 2 1 1 1 1 : 3 3 2 1 1, data missing, -1
+4 2 1 1 1 1 : 3 3 1 1 1 1, data missing, 0
+4 2 1 1 1 1 : 3 2 2 2 1, data missing, -1
+4 2 1 1 1 1 : 3 2 2 1 1 1, data missing, 1
+4 2 1 1 1 1 : 3 2 1 1 1 1 1, data missing, 9
+4 2 1 1 1 1 : 3 1 1 1 1 1 1 1, data missing, 14
+4 2 1 1 1 1 : 2 2 2 2 2, data missing, 2
+4 2 1 1 1 1 : 2 2 2 2 1 1, data missing, 2
+4 2 1 1 1 1 : 2 2 2 1 1 1 1, data missing, 9
+4 2 1 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 14
+4 2 1 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 19
+4 1 1 1 1 1 1 : 4 1 1 1 1 1 1, data missing, 0
+4 1 1 1 1 1 1 : 3 3 3 1, data missing, -1
+4 1 1 1 1 1 1 : 3 3 2 2, data missing, -1
+4 1 1 1 1 1 1 : 3 3 2 1 1, data missing, -1
+4 1 1 1 1 1 1 : 3 3 1 1 1 1, data missing, -1
+4 1 1 1 1 1 1 : 3 2 2 2 1, data missing, -1
+4 1 1 1 1 1 1 : 3 2 2 1 1 1, data missing, -1
+4 1 1 1 1 1 1 : 3 2 1 1 1 1 1, data missing, 0
+4 1 1 1 1 1 1 : 3 1 1 1 1 1 1 1, data missing, 6
+4 1 1 1 1 1 1 : 2 2 2 2 2, data missing, -1
+4 1 1 1 1 1 1 : 2 2 2 2 1 1, data missing, -1
+4 1 1 1 1 1 1 : 2 2 2 1 1 1 1, data missing, 0
+4 1 1 1 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 6
+4 1 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 12
+3 3 3 1 : 3 3 3 1, data missing, 0
+3 3 3 1 : 3 3 2 2, data missing, 0
+3 3 3 1 : 3 3 2 1 1, data missing, 1
+3 3 3 1 : 3 3 1 1 1 1, data missing, 2
+3 3 3 1 : 3 2 2 2 1, data missing, 2
+3 3 3 1 : 3 2 2 1 1 1, data missing, 4
+3 3 3 1 : 3 2 1 1 1 1 1, data missing, 6
+3 3 3 1 : 3 1 1 1 1 1 1 1, data missing, 8
+3 3 3 1 : 2 2 2 2 2, data missing, 3
+3 3 3 1 : 2 2 2 2 1 1, data missing, 6
+3 3 3 1 : 2 2 2 1 1 1 1, data missing, 9
+3 3 3 1 : 2 2 1 1 1 1 1 1, data missing, 12
+3 3 3 1 : 2 1 1 1 1 1 1 1 1, data missing, 15
+3 3 2 2 : 3 3 2 2, data missing, 0
+3 3 2 2 : 3 3 2 1 1, data missing, 0
+3 3 2 2 : 3 3 1 1 1 1, data missing, 1
+3 3 2 2 : 3 2 2 2 1, data missing, 2
+3 3 2 2 : 3 2 2 1 1 1, data missing, 4
+3 3 2 2 : 3 2 1 1 1 1 1, data missing, 6
+3 3 2 2 : 3 1 1 1 1 1 1 1, data missing, 8
+3 3 2 2 : 2 2 2 2 2, data missing, 4
+3 3 2 2 : 2 2 2 2 1 1, data missing, 7
+3 3 2 2 : 2 2 2 1 1 1 1, data missing, 10
+3 3 2 2 : 2 2 1 1 1 1 1 1, 36373*x**13/6227020800 + 283*x**12/1496880 + 1324181*x**11/479001600 + 13207*x**10/544320 + 693257*x**9/4838400 + 109699*x**8/181440 + 82209733*x**7/43545600 + 2422921*x**6/544320 + 340244*x**5/42525 + 5966711*x**4/544320 + 112791047*x**3/9979200 + 1406717*x**2/166320 + 749981*x/180180 + 1, 13
+3 3 2 2 : 2 1 1 1 1 1 1 1 1, data missing, 16
+3 3 2 1 1 : 3 3 2 1 1, data missing, 0
+3 3 2 1 1 : 3 3 1 1 1 1, data missing, 2
+3 3 2 1 1 : 3 2 2 2 1, data missing, 1
+3 3 2 1 1 : 3 2 2 1 1 1, data missing, 5
+3 3 2 1 1 : 3 2 1 1 1 1 1, data missing, 8
+3 3 2 1 1 : 3 1 1 1 1 1 1 1, data missing, 11
+3 3 2 1 1 : 2 2 2 2 2, data missing, 4
+3 3 2 1 1 : 2 2 2 2 1 1, data missing, 8
+3 3 2 1 1 : 2 2 2 1 1 1 1, data missing, 12
+3 3 2 1 1 : 2 2 1 1 1 1 1 1, data missing, 16
+3 3 2 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 20
+3 3 1 1 1 1 : 3 3 1 1 1 1, data missing, 0
+3 3 1 1 1 1 : 3 2 2 2 1, data missing, -1
+3 3 1 1 1 1 : 3 2 2 1 1 1, data missing, 0
+3 3 1 1 1 1 : 3 2 1 1 1 1 1, data missing, 4
+3 3 1 1 1 1 : 3 1 1 1 1 1 1 1, data missing, 8
+3 3 1 1 1 1 : 2 2 2 2 2, data missing, 1
+3 3 1 1 1 1 : 2 2 2 2 1 1, data missing, 1
+3 3 1 1 1 1 : 2 2 2 1 1 1 1, data missing, 8
+3 3 1 1 1 1 : 2 2 1 1 1 1 1 1, 7*x**13/24710400 + 7*x**12/633600 + 1147*x**11/5702400 + 391*x**10/172800 + 9091*x**9/518400 + 1897*x**8/19200 + 503159*x**7/1209600 + 76271*x**6/57600 + 825971*x**5/259200 + 247679*x**4/43200 + 5361629*x**3/712800 + 135461*x**2/19800 + 695089*x/180180 + 1, 13
+3 3 1 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 18
+3 2 2 2 1 : 3 2 2 2 1, data missing, 0
+3 2 2 2 1 : 3 2 2 1 1 1, data missing, 1
+3 2 2 2 1 : 3 2 1 1 1 1 1, data missing, 4
+3 2 2 2 1 : 3 1 1 1 1 1 1 1, data missing, 9
+3 2 2 2 1 : 2 2 2 2 2, data missing, 3
+3 2 2 2 1 : 2 2 2 2 1 1, data missing, 7
+3 2 2 2 1 : 2 2 2 1 1 1 1, data missing, 11
+3 2 2 2 1 : 2 2 1 1 1 1 1 1, data missing, 15
+3 2 2 2 1 : 2 1 1 1 1 1 1 1 1, data missing, 19
+3 2 2 1 1 1 : 3 2 2 1 1 1, data missing, 0
+3 2 2 1 1 1 : 3 2 1 1 1 1 1, data missing, 3
+3 2 2 1 1 1 : 3 1 1 1 1 1 1 1, data missing, 10
+3 2 2 1 1 1 : 2 2 2 2 2, data missing, 2
+3 2 2 1 1 1 : 2 2 2 2 1 1, data missing, 2
+3 2 2 1 1 1 : 2 2 2 1 1 1 1, data missing, 11
+3 2 2 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 16
+3 2 2 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 21
+3 2 1 1 1 1 1 : 3 2 1 1 1 1 1, data missing, 0
+3 2 1 1 1 1 1 : 3 1 1 1 1 1 1 1, data missing, 5
+3 2 1 1 1 1 1 : 2 2 2 2 2, data missing, -1
+3 2 1 1 1 1 1 : 2 2 2 2 1 1, data missing, -1
+3 2 1 1 1 1 1 : 2 2 2 1 1 1 1, data missing, 1
+3 2 1 1 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 11
+3 2 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 17
+3 1 1 1 1 1 1 1 : 3 1 1 1 1 1 1 1, data missing, 0
+3 1 1 1 1 1 1 1 : 2 2 2 2 2, data missing, -1
+3 1 1 1 1 1 1 1 : 2 2 2 2 1 1, data missing, -1
+3 1 1 1 1 1 1 1 : 2 2 2 1 1 1 1, data missing, -1
+3 1 1 1 1 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 0
+3 1 1 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 7
+2 2 2 2 2 : 2 2 2 2 2, data missing, 0
+2 2 2 2 2 : 2 2 2 2 1 1, data missing, 0
+2 2 2 2 2 : 2 2 2 1 1 1 1, data missing, 1
+2 2 2 2 2 : 2 2 1 1 1 1 1 1, data missing, 4
+2 2 2 2 2 : 2 1 1 1 1 1 1 1 1, data missing, 9
+2 2 2 2 1 1 : 2 2 2 2 1 1, data missing, 0
+2 2 2 2 1 1 : 2 2 2 1 1 1 1, data missing, 2
+2 2 2 2 1 1 : 2 2 1 1 1 1 1 1, data missing, 7
+2 2 2 2 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 14
+2 2 2 1 1 1 1 : 2 2 2 1 1 1 1, data missing, 0
+2 2 2 1 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 4
+2 2 2 1 1 1 1 : 2 1 1 1 1 1 1 1 1, 7*x**13/74131200 + 7*x**12/1900800 + 389*x**11/5702400 + 137*x**10/172800 + 3337*x**9/518400 + 739*x**8/19200 + 90277*x**7/518400 + 104251*x**6/172800 + 415177*x**5/259200 + 139603*x**4/43200 + 3454883*x**3/712800 + 25373*x**2/4950 + 86761*x/25740 + 1, 13
+2 2 1 1 1 1 1 1 : 2 2 1 1 1 1 1 1, data missing, 0
+2 2 1 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 6
+2 1 1 1 1 1 1 1 1 : 2 1 1 1 1 1 1 1 1, data missing, 0

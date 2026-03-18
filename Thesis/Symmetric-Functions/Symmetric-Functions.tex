@@ -1,0 +1,255 @@
+
+		
+		We start this section on symmetric functions by introducing, 
+		\emph{semistandard Young tableaus}. 
+		The reason for this is that semistandard Young tableaus are in bijection with 
+		Gelfand-Tsetlin patters, 
+		as shown later in Section \ref{gtpattern}. 
+		We then continue through generalizing, introducing \emph{Schur functions}, 
+		and some characteristics of Schur functions. 
+		The source for this part is \cite{StanleyEC2}.
+		
+		\subsection{Semistandard Young tableaus} \label{SSYTsubsection}
+		
+		\definition{
+			A \emph{semistandard Young tableau} (SSYT) of \emph{shape} $\lambda$ is an array $T = (T_{ij})$ of positive integers 
+			such that it is weakly increasing in every row and strictly increasing down in every column.
+		}
+		
+		\definition{
+			The \emph{size} of an SSYT is its number of entries.
+		}
+		
+		\bigskip
+		
+		We give an example to make SSYTs clearer. 
+		
+		\example{
+			Below is a SSYT of shape $(5,4,2,2)$: 
+			
+			\begin{center}
+			\begin{tabular}{c c c c c}
+				1 & 1 & 1 & 3 & 4 \\
+				2 & 3 & 3 & 4 & \\
+				3 & 4 & & & \\
+				4 & 5. & & &
+			\end{tabular}
+			\end{center}
+			
+			As we can see it has 5 integers in the  first row, 4 integers in the second row and 2 in the third and fourth row. 
+			It is also weakly increasing in the rows and strictly increasing in the columns. 
+			
+			Usually a SSYT is written as a \emph{Young diagram}, with boxes filled with positive integers as such
+			
+			\begin{center}
+			\begin{ytableau}
+				1 & 1 & 1 & 3 & 4 \\
+				2 & 3 & 3 & 4 & \none \\
+				3 & 4 & \none & \none & \none \\
+				4 & 5 & \none & \none & \none
+			\end{ytableau}
+			\end{center}
+			
+		}
+		
+		\definition{
+			The SSYT $T$ has the \emph{type} $\alpha = (\alpha_1, \alpha_2, ...)$ if $T$ has 
+			$\alpha_i = \alpha_i(T)$ parts equal to $i$.
+		}
+		
+		\example{
+			The SSYT from earlier, 
+			
+			\begin{center}
+			\begin{ytableau}
+				1 & 1 & 1 & 3 & 4 \\
+				2 & 3 & 3 & 4 & \none \\
+				3 & 4 & \none & \none & \none \\
+				4 & 5 & \none & \none & \none
+			\end{ytableau}
+			\end{center}
+			
+			has type $(3, 1, 4, 4, 1)$ since there are $3$ $1$'s, $1$ $2$'s etc.
+		}
+		
+		\definition{
+			Let $\mu \subseteq \lambda$ such that $\mu_i \leq \lambda_i$ for all $i$. 
+			
+			We define a semistandard Young tableau of \emph{skew} shape $\lambda / \mu$ to be 
+			an array $T = (T_{ij}$ of positive integers of shape $\lambda / \mu$ that is weakly 
+			increasing in every row and strictly increasing in every column.
+		}
+		What we mean by this definition is that the elements in the set $\mu$ are removed 
+		from the semistandard Young tableau, while all other rules apply as usual. 
+		We let an example demonstrate. 
+		
+		\example{
+			Below is a SSYT of shape $(5,4,2,2)/(2,1)$: 
+		
+			\begin{center}
+			\begin{ytableau}
+				\none & \none & 1 & 3 & 4 \\
+				\none & 3 & 3 & 4 & \none \\
+				3 & 4 & \none & \none & \none \\
+				4 & 5 & \none & \none & \none
+			\end{ytableau}
+			\end{center}
+			
+			As we can see the SSYT is still weakly increasing in the rows and strictly increasing 
+			in the column. 
+			However, the first row is missing two integers in the beginning, 
+			and the second row is missing one integer in the beginning, since 
+			$\mu = (2,1)$.
+		}
+		
+	\subsection{Schur functions}
+	\emph{
+		Semistandard Young tableaus are a combinatorial object underlying Schur functions. 	}
+
+		\definition{
+			We denote a \emph{Schur function} as $s_{\lambda}$.
+		}
+		
+		\bigskip		
+		
+		We continue by introducing some definitions, theorems and propositions for Schur functions, using SSYTs as examples. 
+		
+		\definition{
+			Let $\lambda / \mu$ be a skew shape. 
+			The \emph{skew Schur function} $s_{\lambda / \mu} = s_{\lambda / \mu}(x)$ of 
+			\emph{shape} $\lambda / \mu$ in the variables $x = (x_1, x_2, ...)$ is the formal 
+			power series
+			\[
+			s_{\lambda / \mu} (x) = \sum_T x^T,
+			\]
+			summer over all SSYTs $T$ of shape $\lambda / \mu$. 
+			If $\mu = \emptyset$, we call $s_\lambda (x)$ the \emph{Schur function} of shape 
+			$\lambda$.
+		}
+		
+		
+		\theorem{
+			For any skew shape $\lambda / \mu$, the skew Schur function $s_{\lambda / \mu}$ is 
+			a symmetric function.
+		}
+		
+		\proof{
+			This was shown by Cauchy in \cite{cauchy1815memoire}.
+		}
+		
+		\example{
+			All SSYTs of shape $(2,1)$ with the largest part being at most 3 are 
+			
+			\[
+			\begin{array}{cccccccc}
+			\begin{ytableau}
+			1 & 1 \\
+			2 & \none
+			\end{ytableau}
+			&
+			\begin{ytableau}
+			1 & 2 \\
+			2 & \none
+			\end{ytableau}
+			&
+			\begin{ytableau}
+			1 & 1 \\
+			3 & \none
+			\end{ytableau}
+			&
+			\begin{ytableau}
+			1 & 3 \\
+			3 & \none
+			\end{ytableau}
+			&
+			\begin{ytableau}
+			2 & 2 \\
+			3 & \none
+			\end{ytableau}
+			&
+			\begin{ytableau}
+			2 & 3 \\
+			3 & \none
+			\end{ytableau}
+			&
+			\begin{ytableau}
+			1 & 2 \\
+			3 & \none
+			\end{ytableau}
+			&
+			\begin{ytableau}
+			1 & 3 \\
+			2 & \none
+			\end{ytableau}
+			\end{array},
+			\]
+			
+		which gives the Schur function 
+		\[
+		s_{21}(x_1,x_2,x_3) = x_1^2 x_2 + x_1 x_2^2 + x_1^2 x_3 + x_1 x_3^2 + x_2^2 x_3 
+		+ x_2 x_3^2 + 2 x_1 x_2 x_3.
+		\]
+		It is easy to see that $s_{21}$ is a symmetric function. 
+
+		}
+		
+		\definition{
+			Let $\lambda$ be a partition of some integer $n$ and $\alpha$ a weak composition of $n$ 
+			(i.e. a sum of non-negative integers adding up to $n$). 
+			The \emph{Kostka number} $K_{\lambda \alpha}$ then denotes the number of SSYTs of 
+			shape $\lambda$ and type $\alpha$.
+		}
+		
+		\definition{
+		In a similar way we define the \emph{skew Kostka number} $K_{\lambda / \mu, \alpha}$ 
+		as the number of SSYTs of shape $\lambda / \mu$ and type $\alpha$. 
+		}
+		
+		\proposition{
+		\emph{
+			Suppose that $\mu$ and $\lambda$ are partitions with $|\mu| = |\lambda|$ (i.e. they 
+			are the same size) and $K_{\lambda \mu} \neq 0$. Then $\mu \leq \lambda$, refered to as \emph{dominance order}. 
+			Moreover, $K_{\lambda \lambda} = 1$.
+		}
+		}
+		
+		\begin{proof}
+			It is obvious that there only exists one SSYT of type the skew shape $\lambda / \lambda$. 
+			
+			Consider the SSYT with the shape $(3,2,1)/(3,2,1)$. 
+			This is a SSYT with no integers, and this can only be done in one way.
+		\end{proof}
+		
+		\begin{example}
+			Consider the SSYT with $\lambda = (3,2,2)$, $\mu = (1,1)$, and $\alpha = (2,2,1)$. 
+			Then the Kostka number $K_{\lambda / \mu, \alpha} = 2$, since there are two possible 
+			SSYTs. These are 
+			\[
+			\begin{array}{cc}
+			\begin{ytableau}
+			\none & 1 & 1 \\
+			\none & 2 & \none \\
+			2 & 3 & \none
+			\end{ytableau}
+			& \text{ and} \quad
+			\begin{ytableau}
+			\none & 1 & 2 \\
+			\none & 2 & \none \\
+			1 & 3 & \none
+			\end{ytableau}
+			\end{array},
+			\]
+			since they need to be strictly increasing in the columns 
+			and then we only have the choice of switching place on a $1$ and a $2$. 
+		\end{example}
+	
+	\subsection{Littlewood-Richardson coefficients}
+	\emph{
+		Littlewood-Richardson coefficients appear in combinatorics in the theory of symmetric functions \cite{Rassart2004}.
+	}
+		\definition{
+			The \emph{Littlewood-Richardson coefficients} $c_{\lambda \mu}$ are the constants in the multiplication rule for Schur functions defined as 
+			\begin{equation}
+				s_{\lambda} \cdot s_{\mu} = \sum_v c_{\lambda \mu}^v s_v.
+			\end{equation}
+		}
