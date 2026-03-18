@@ -36,6 +36,7 @@ geometry,marginnote,caption,array,sectsty,siunitx,eurosym,colortbl,float,wrapfig
 \usepackage{enumitem} 
 \renewcommand\labelitemi{\textbullet} 
 
+\usepackage{dirtree}
 
 % math environments
 %  we use \newtheorem to specify our theorem-like environments
@@ -141,9 +142,18 @@ geometry,marginnote,caption,array,sectsty,siunitx,eurosym,colortbl,float,wrapfig
 
 \clearpage{\thispagestyle{empty}\cleardoublepage}
 
-\begin{abstract}
-    Your summary goes here
-\end{abstract}
+\begin{center}
+	\textbf{Abstract}
+\end{center}
+    Gelfand-Tsetlin patterns play an important role in combinatorics, as they are in bijection with semistandard Young tableaus, a type of Schur function. Using Gelfand-Tsetlin patterns as a number of halfspaces, one can form Gelfand-Tsetlin polytopes. In this thesis, these polytopes are examined up to a dimension of 21 and their Ehrhart polynomials are computed.
+
+\bigskip
+
+\begin{center}
+	\textbf{Sammanfattning}
+\end{center}
+    Gelfand-Tsetlinmönster spelar en viktig roll i kombinatorik, då de är i bijektion med semistandard Youngtabeller, en typ av Schur-funktion. Genom att använda Gelfand-Tstelinmönster som ett antal halvrum kan man bilda Gelfand-Tsetlinpolytoper. I den här uppsatsen undersöks de här polytoperna upp till en dimension 21 och deras Ehrhart-polynom beräknas.
+
 
 %create the table of contents
 \clearpage{\thispagestyle{empty}\cleardoublepage}
@@ -185,7 +195,7 @@ geometry,marginnote,caption,array,sectsty,siunitx,eurosym,colortbl,float,wrapfig
 %\clearpage{\thispagestyle{empty}\cleardoublepage}
 \section{Results} \label{results}
 	\subfile{Results/Results}
-%\clearpage
+\clearpage
 
 
 %The section with references.

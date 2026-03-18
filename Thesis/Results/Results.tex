@@ -1,53 +1,88 @@
 \subsection{Code and data}
-All code and data can be found on the github page \href{https://github.com/oskarhogman/kandidatprojekt-matte/tree/main}{github.com/oskarhogman/kandidatproject-matte} in the folder \verb+Code/+.
+All code and data can be found on the github page \href{https://github.com/oskarhogman/kandidatprojekt-matte/tree/main}{github.com/oskarhogman/kandidatprojekt-matte} in the folder \verb+Code/+. 
+
+The layout of the folder \verb+Code/+ is as follows:
+
+
+\dirtree{%
+.1 Code.
+.2 ehrhart\_files.
+.3 degrees.
+.4 degree0.txt - degree21.txt.
+.3 GTP1.txt - GTP10d21.txt.
+.3 all\_ehrharts.txt.
+.2 julia\_input.
+.3 GTP1.jl - GTP10.jl.
+.2 julia\_output.
+.3 GTP1.txt - GTP10d21.txt.
+.2 polytopes.
+.3 GTP1.txt - GTP10.txt.
+.2 GTP\_generator.py.
+.2 calculate\_ehrhart.py.
+.2 calculate\_hstar.jl.
+.2 collect\_all\_ehrhart\_polynomials.py.
+.2 collect\_ehrharts\_by\_degree.py.
+.2 create\_julia\_input.py.
+.2 matrix\_generator.py.
+}
+
+The python-file \verb+GTP_generator.py+ creates patterns such as in Example \ref{example:patterns} and puts them as text-files in the folder \verb+polytopes+. Each text-file contain all possible combinations of polytopes, except for the skipped ones as stated in Section \ref{methods}. The name \verb+GTPa+ where \verb+a+ is an integer is a short hand for \emph{Gelfand-Tsetlin Polytope} with top row sum $a$. 
+
+The file \verb+create_julia_input.py+ make use of \verb+matrix_generator.py+ to create the files in the folder \verb+julia_input+. Julia will read the matrices to create the polytopes. 
+
+The Julia-file \verb+calculate_hstar.jl+ read the files in \verb+julia_input+, creates the polytopes and calculate their $h^*$-polynomial and writes the data to the files in \verb+julia_output+. 
+Due to the polytopes in \verb+GTP10+ taking such time, they were divided by dimension and calculated for only one dimension at a time. The file \verb+GTP10d10.txt+ contains all polytopes of dimension 10 or lower.
+
+The file \verb+calculate_ehrhart.py+ then takes the data in \verb+julia_output+ and from the $h^*$-polynomial calculates the Ehrhart polynomial, which is stored in \verb+ehrhart_files+. 
+The file \verb+collect_all_ehrhart_polynomials.py+ then collected the polynomials such that each polynomial is related to all polytopes that gave that specific Ehrhart polynomial and saved in \verb+all_ehrharts.txt+. This is because many polytopes gave the same Ehrhart polynomial. 
+
+The file \verb+collect_ehrharts_by_degree+ saves the Ehrhart polynomials by the dimension of polytope that created them instead, in the folder \verb+ehrhart_files/degrees/+.
 
 \subsection{General results}
 	
-	In total 1722 GT-polytopes were generated. The largest integer to partition was 10. 
-	These created 310 unique Ehrhart polynomials. None of them had a negative coefficient. 
+	In total 1830 Gelfand-Tsetlin polytopes were generated. The largest integer to partition was 10. 
+	These created 321 unique Ehrhart polynomials. None of them had a negative coefficient. 
 
 \subsection{Polynomials}
-	The lowest degree of an Ehrhart polynomial was 0. The highest was 21. As we can see in the table below, 
-	the most common degree was $0$ and the least common degree was $21$ for the polynomials. 
-
-\begin{table}[htbp]
+	The lowest degree of an Ehrhart polynomial was 0. The highest was 21. As we can see in Table \ref{Tab:ehr-poly}, the most common degree was $0$ and the least common degree was $21$ for the polynomials. 
+	
+\begin{table}[ht]
+\caption{Number of Gelfand-Tsetlin polytopes creating an Ehrhart polynomial of a certain degree}
 \begin{tabular}{|c|c|}
 \toprule
 \textbf{Ehrhart polynomial degree} & \textbf{Number of GT-polytopes} \\
 \midrule
-Unable to create $h^*$-polynomial & 86 \\
+0 & 512 \\
 \hline
-0 & 498 \\
+1 & 187 \\
 \hline
-1 & 185 \\
+2 & 190 \\
 \hline
-2 & 188 \\
+3 & 162 \\
 \hline
-3 & 158 \\
+4 & 134 \\
 \hline
-4 & 128 \\
+5 & 113 \\
 \hline
-5 & 108 \\
+6 & 80 \\
 \hline
-6 & 74 \\
+7 & 60 \\
 \hline
-7 & 58 \\
+8 & 64 \\
 \hline
-8 & 60 \\
+9 & 43 \\
 \hline
-9 & 39 \\
+10 & 26 \\
 \hline
-10 & 21 \\
+11 & 44 \\
 \hline
-11 & 41 \\
+12 & 23 \\
 \hline
-12 & 21 \\
+13 & 11 \\
 \hline
-13 & 9 \\
+14 & 18 \\
 \hline
-14 & 15 \\
-\hline
-15 & 12 \\
+15 & 13 \\
 \hline
 16 & 8 \\
 \hline
@@ -62,6 +97,43 @@ Unable to create $h^*$-polynomial & 86 \\
 21 & 1 \\
 \bottomrule
 \end{tabular}
+\label{Tab:ehr-poly}
 \end{table}
 
-\subsection{CPU-time}
+\subsection{CPU-time} \label{CPU-time} 
+For the CPU-time for all files, see Table \ref{Tab:cpu-time}. 
+Notice that even though the polytopes with top row sum 9 and 10 discard all polytopes where the row sum differences all are only 1, \verb+GTP9+ still matches \verb+GTP8+ in CPU-time and \verb+GTP10+ took 412.8 hours, or over 17 days to calculate. 
+The time for GTP10 is slightly skewed to the higher side, due to having to read in and calculate the dimension of each polytope 12 times (once for each file), but by checking the files \verb+GTP10da.txt+ (where \verb+a+ is an integer) in the folder \verb+julia_output.txt+ we see that usually it took $0.1$ seconds to do that, so the computational cost is still for calculating the $h^*$-polynomial.
+
+Checking the files in \verb+julia_output+ we see that the polytope taking longest time to compute was 3 3 2 1 1 : 2 1 1 1 1 1 1 1 1 with a CPU-time of $458759.3045768738$ seconds, or $127$ hours. 
+The shortest CPU-time for a computed polytope (where $h^*$-was able to be computed) was 5 1 1 1 1 1 : 4 3 3 with a CPU-time of $0.008860111236572266$ seconds. 
+
+\begin{table}[ht]
+\caption{Gelfand Tsetlin polytope file and the CPU-time to calculate it}
+\begin{tabular}{|c|c|}
+\toprule
+\textbf{GT-polytope file} & \textbf{CPU-time (seconds)} \\
+\midrule
+GTP1 & 0.8613970279693604 \\
+\hline
+GTP2 & 0.6129059791564941 \\
+\hline
+GTP3 & 0.3842151165008545 \\
+\hline
+GTP4 & 1.2566630840301514 \\
+\hline
+GTP5 & 3.4246909618377686 \\
+\hline
+GTP6 & 9.191021919250488 \\
+\hline
+GTP7 & 23.879514932632446 \\
+\hline
+GTP8 & 225.41200995445251 \\
+\hline
+GTP9 & 219.7667908668518 \\
+\hline
+GTP10 & 1486141.4541709423 \\
+\bottomrule
+\end{tabular}
+\label{Tab:cpu-time}
+\end{table}

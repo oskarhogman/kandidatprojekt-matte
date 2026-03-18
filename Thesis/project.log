@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.13)  18 MAR 2026 06:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.13)  18 MAR 2026 10:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -903,60 +903,82 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count342
 \enitdp@description=\count343
 )
-\c@definition=\count344
+(/usr/share/texlive/texmf-dist/tex/generic/dirtree/dirtree.sty
+Package: dirtree 2012/12/11 v0.32 package wrapper for dirtree
+
+(/usr/share/texlive/texmf-dist/tex/generic/dirtree/dirtree.tex
+`dirtree' v0.32, 2012/12/11 (jcc)
+\DT@offset=\dimen322
+\DT@width=\dimen323
+\DT@sep=\dimen324
+\DT@all=\dimen325
+\DT@rulewidth=\dimen326
+\DT@dotwidth=\dimen327
+\DTbaselineskip=\dimen328
+\DT@counti=\count344
+\DT@countii=\count345
+\DT@countiii=\count346
+\DT@countiv=\count347
+\DT@indent=\dimen329
+\DT@parskip=\dimen330
+\DT@baselineskip=\dimen331
+)
+File: dirtree.tex 2012/12/11 v0.32 `dirtree' (jcc)
+)
+\c@definition=\count348
 
 
-Package amsthm Warning: Unknown theoremstyle `example' on input line 50.
+Package amsthm Warning: Unknown theoremstyle `example' on input line 51.
 
-\c@example=\count345
-\c@theorem=\count346
-\c@proposition=\count347
-\c@corollary=\count348
-\c@lemma=\count349
+\c@example=\count349
+\c@theorem=\count350
+\c@proposition=\count351
+\c@corollary=\count352
+\c@lemma=\count353
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 13
-1.
+2.
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count350
+\l__color_backend_stack_int=\count354
 \l__pdf_internal_box=\box85
 )
 (./project.aux)
 \openout1 = `project.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 131.
-LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 132.
+LaTeX Font Info:    ... okay on input line 132.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count351
-\scratchdimen=\dimen322
+\scratchcounter=\count355
+\scratchdimen=\dimen332
 \scratchbox=\box86
-\nofMPsegments=\count352
-\nofMParguments=\count353
+\nofMPsegments=\count356
+\nofMParguments=\count357
 \everyMPshowfont=\toks59
-\MPscratchCnt=\count354
-\MPscratchDim=\dimen323
-\MPnumerator=\count355
-\makeMPintoPDFobject=\count356
+\MPscratchCnt=\count358
+\MPscratchDim=\dimen333
+\MPnumerator=\count359
+\makeMPintoPDFobject=\count360
 \everyMPtoPDFconversion=\toks60
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1025,8 +1047,8 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 131.
-Package hyperref Info: Link coloring ON on input line 131.
+or `english'. on input line 132.
+Package hyperref Info: Link coloring ON on input line 132.
  (./project.out) (./project.out)
 \@outlinefile=\write4
 \openout4 = `project.out'.
@@ -1034,101 +1056,101 @@ Package hyperref Info: Link coloring ON on input line 131.
 <cover.pdf, id=103, 614.295pt x 794.97pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
-Package pdftex.def Info: cover.pdf  used on input line 136.
+Package pdftex.def Info: cover.pdf  used on input line 137.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
-Package pdftex.def Info: cover.pdf  used on input line 136.
+Package pdftex.def Info: cover.pdf  used on input line 137.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
-Package pdftex.def Info: cover.pdf  used on input line 136.
+Package pdftex.def Info: cover.pdf  used on input line 137.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
-Package pdftex.def Info: cover.pdf  used on input line 136.
+Package pdftex.def Info: cover.pdf  used on input line 137.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
-Package pdftex.def Info: cover.pdf  used on input line 136.
+Package pdftex.def Info: cover.pdf  used on input line 137.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 <cover.pdf, id=109, page=1, 614.295pt x 794.97pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 136.
+Package pdftex.def Info: cover.pdf , page1 used on input line 137.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 136.
+Package pdftex.def Info: cover.pdf , page1 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 136.
+Package pdftex.def Info: cover.pdf , page1 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 136.
+Package pdftex.def Info: cover.pdf , page1 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 136.
+Package pdftex.def Info: cover.pdf , page1 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
  [1
 
 
- <./cover.pdf>]
-<cover.pdf, id=242, page=2, 614.295pt x 794.97pt>
+ <./cover.pdf{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}>]
+<cover.pdf, id=155, page=2, 614.295pt x 794.97pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf , page2 used on input line 136.
+Package pdftex.def Info: cover.pdf , page2 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf , page2 used on input line 136.
+Package pdftex.def Info: cover.pdf , page2 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 2>
-Package pdftex.def Info: cover.pdf , page2 used on input line 136.
+Package pdftex.def Info: cover.pdf , page2 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
  [2
 
  <./cover.pdf>]
-<cover.pdf, id=247, page=3, 614.295pt x 794.97pt>
+<cover.pdf, id=160, page=3, 614.295pt x 794.97pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 3>
-Package pdftex.def Info: cover.pdf , page3 used on input line 136.
+Package pdftex.def Info: cover.pdf , page3 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 3>
-Package pdftex.def Info: cover.pdf , page3 used on input line 136.
+Package pdftex.def Info: cover.pdf , page3 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 3>
-Package pdftex.def Info: cover.pdf , page3 used on input line 136.
+Package pdftex.def Info: cover.pdf , page3 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
  [3
 
  <./cover.pdf>]
-<cover.pdf, id=260, page=4, 614.295pt x 794.97pt>
+<cover.pdf, id=171, page=4, 614.295pt x 794.97pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 4>
-Package pdftex.def Info: cover.pdf , page4 used on input line 136.
+Package pdftex.def Info: cover.pdf , page4 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 4>
-Package pdftex.def Info: cover.pdf , page4 used on input line 136.
+Package pdftex.def Info: cover.pdf , page4 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 4>
-Package pdftex.def Info: cover.pdf , page4 used on input line 136.
+Package pdftex.def Info: cover.pdf , page4 used on input line 137.
 (pdftex.def)             Requested size: 598.43373pt x 774.44368pt.
- [4
+
+[4
 
  <./cover.pdf>] [5
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
-dvips/lm/lm-ec.enc}] [6
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}] [6
 
 
 ]
@@ -1261,27 +1283,58 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (47.20123pt too wide) in paragraph at lines 2--3
+Overfull \hbox (48.18076pt too wide) in paragraph at lines 2--3
 \T1/lmr/m/n/12 All code and data can be found on the github page [][]github.com
-/oskarhogman/kandidatproject-
+/oskarhogman/kandidatprojekt-
  []
 
-) (./project.bbl [31
 
-] [32]) [33] (./project.aux)
+LaTeX Warning: Reference `methods' on page 31 undefined on input line 29.
+
+
+Overfull \hbox (16.4979pt too wide) in paragraph at lines 36--38
+\T1/lmr/m/n/12 the $\OML/lmm/m/it/12 h[]$\T1/lmr/m/n/12 -polynomial cal-cu-late
+s the Ehrhart poly-no-mial, which is stored in [][]\T1/lmtt/m/n/12 ehrhart_file
+s[]\T1/lmr/m/n/12 .
+ []
+
+
+Underfull \vbox (badness 4454) has occurred while \output is active []
+
+ [31
+
+]
+Overfull \hbox (13.98398pt too wide) in paragraph at lines 39--40
+\T1/lmr/m/n/12 men-sion of poly-tope that cre-ated them in-stead, in the folder
+ [][]\T1/lmtt/m/n/12 ehrhart_files/degrees/[]\T1/lmr/m/n/12 . 
+ []
+
+
+Overfull \hbox (2.31693pt too wide) in paragraph at lines 108--110
+\T1/lmr/m/n/12 able to be com-puted) was 5 1 1 1 1 1 : 4 3 3 with a CPU-time of
+ $\OT1/lmr/m/n/12 0\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 008860111236572266$
+ []
+
+) [32] [33] (./project.bbl) [34
+
+] (./project.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `project.out' has not changed.
-(rerunfilecheck)             Checksum: A72DDAD89F70FB503719553287BEB0B8;3621.
+(rerunfilecheck)             Checksum: 96DFE536D0916E18F5F732C2B3B207F3;3621.
  ) 
 Here is how much of TeX's memory you used:
- 30630 strings out of 474222
- 611119 string characters out of 5748733
+ 30743 strings out of 474222
+ 612795 string characters out of 5748733
  1947975 words of memory out of 5000000
- 52137 multiletter control sequences out of 15000+600000
- 663287 words of font info for 125 fonts, out of 8000000 for 9000
+ 52243 multiletter control sequences out of 15000+600000
+ 657302 words of font info for 123 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,17n,87p,544b,1334s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/oskar-hogman/.texlive2023/texmf-var/fonts/pk/ljfour/public/bbm/bbm8.6
@@ -1289,23 +1342,28 @@ Here is how much of TeX's memory you used:
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/share/te
-xmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
-bx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx8.pfb></usr/share/texmf/fo
-nts/type1/public/lm/lmex10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.p
-fb></usr/share/texmf/fonts/type1/public/lm/lmmi6.pfb></usr/share/texmf/fonts/ty
-pe1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr
-/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/publ
-ic/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/share/tex
-mf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/lmri1
-2.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/font
-s/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb><
-/usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on project.pdf (33 pages, 470061 bytes).
+xmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+bx8.pfb></usr/share/texmf/fonts/type1/public/lm/lmex10.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi6.pf
+b></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/typ
+e1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/
+share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public
+/lm/lmr7.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf
+/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy1
+0.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmsy8.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfbx0800.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfrm1728.pfb>
+Output written on project.pdf (34 pages, 515483 bytes).
 PDF statistics:
- 740 PDF objects out of 1000 (max. 8388607)
- 535 compressed objects within 6 object streams
- 148 named destinations out of 1000 (max. 500000)
+ 662 PDF objects out of 1000 (max. 8388607)
+ 547 compressed objects within 6 object streams
+ 150 named destinations out of 1000 (max. 500000)
  255 words of extra memory for PDF output out of 10000 (max. 10000000)
 
