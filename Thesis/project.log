@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.13)  18 MAR 2026 14:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.2.13)  18 MAR 2026 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1289,13 +1289,17 @@ Overfull \hbox (48.18076pt too wide) in paragraph at lines 2--3
  []
 
 
-LaTeX Warning: Reference `methods' on page 31 undefined on input line 29.
+Overfull \hbox (19.29997pt too wide) in paragraph at lines 33--35
+\T1/lmr/m/n/12 poly-topes, com-pute their $\OML/lmm/m/it/12 h[]$\T1/lmr/m/n/12 
+-polynomial and writes the data to the files in [][]\T1/lmtt/m/n/12 julia_outpu
+t[]\T1/lmr/m/n/12 .
+ []
 
 
-Overfull \hbox (16.4979pt too wide) in paragraph at lines 36--38
-\T1/lmr/m/n/12 the $\OML/lmm/m/it/12 h[]$\T1/lmr/m/n/12 -polynomial cal-cu-late
-s the Ehrhart poly-no-mial, which is stored in [][]\T1/lmtt/m/n/12 ehrhart_file
-s[]\T1/lmr/m/n/12 .
+Overfull \hbox (15.19293pt too wide) in paragraph at lines 36--38
+\T1/lmr/m/n/12 the $\OML/lmm/m/it/12 h[]$\T1/lmr/m/n/12 -polynomial com-putes t
+he Ehrhart poly-no-mial, which is stored in [][]\T1/lmtt/m/n/12 ehrhart_files[]
+\T1/lmr/m/n/12 .
  []
 
 
@@ -1315,25 +1319,21 @@ Overfull \hbox (2.31693pt too wide) in paragraph at lines 108--110
  $\OT1/lmr/m/n/12 0\OML/lmm/m/it/12 :\OT1/lmr/m/n/12 008860111236572266$
  []
 
-) [32] [33] (./project.bbl) [34
+[32]) [33] [34] (./project.bbl) [35
 
 ] (./project.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `project.out' has not changed.
 (rerunfilecheck)             Checksum: 96DFE536D0916E18F5F732C2B3B207F3;3621.
  ) 
 Here is how much of TeX's memory you used:
  30744 strings out of 474222
- 612811 string characters out of 5748733
+ 612809 string characters out of 5748733
  1948975 words of memory out of 5000000
- 52244 multiletter control sequences out of 15000+600000
+ 52243 multiletter control sequences out of 15000+600000
  657302 words of font info for 123 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,17n,87p,544b,1340s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1359,10 +1359,10 @@ per/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></u
 sr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts
 /type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-sup
 er/sfrm1728.pfb>
-Output written on project.pdf (34 pages, 508286 bytes).
+Output written on project.pdf (35 pages, 508427 bytes).
 PDF statistics:
- 658 PDF objects out of 1000 (max. 8388607)
- 545 compressed objects within 6 object streams
- 150 named destinations out of 1000 (max. 500000)
+ 664 PDF objects out of 1000 (max. 8388607)
+ 550 compressed objects within 6 object streams
+ 151 named destinations out of 1000 (max. 500000)
  255 words of extra memory for PDF output out of 10000 (max. 10000000)
 

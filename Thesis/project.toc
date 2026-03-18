@@ -22,4 +22,4 @@
 \contentsline {subsection}{\numberline {6.2}General results}{32}{subsection.6.2}%
 \contentsline {subsection}{\numberline {6.3}Polynomials}{32}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}CPU-time}{32}{subsection.6.4}%
-\contentsline {section}{References}{34}{section*.7}%
+\contentsline {section}{References}{35}{section*.7}%

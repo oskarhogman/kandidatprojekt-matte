@@ -26,14 +26,14 @@ The layout of the folder \verb+Code/+ is as follows:
 .2 matrix\_generator.py.
 }
 
-The python-file \verb+GTP_generator.py+ creates patterns such as in Example \ref{example:patterns} and puts them as text-files in the folder \verb+polytopes+. Each text-file contain all possible combinations of polytopes, except for the skipped ones as stated in Section \ref{methods}. The name \verb+GTPa+ where \verb+a+ is an integer is a short hand for \emph{Gelfand-Tsetlin Polytope} with top row sum $a$. 
+The python-file \verb+GTP_generator.py+ creates patterns such as in Example \ref{example:patterns} and puts them as text-files in the folder \verb+polytopes+. Each text-file contain all possible combinations of polytopes, except for the skipped ones as stated in Section \ref{method}. The name \verb+GTPa+, where \verb+a+ is an integer, is a short hand for \emph{Gelfand-Tsetlin Polytope} with top row sum $a$. 
 
 The file \verb+create_julia_input.py+ make use of \verb+matrix_generator.py+ to create the files in the folder \verb+julia_input+. Julia will read the matrices to create the polytopes. 
 
-The Julia-file \verb+calculate_hstar.jl+ read the files in \verb+julia_input+, creates the polytopes and calculate their $h^*$-polynomial and writes the data to the files in \verb+julia_output+. 
-Due to the polytopes in \verb+GTP10+ taking such time, they were divided by dimension and calculated for only one dimension at a time. The file \verb+GTP10d10.txt+ contains all polytopes of dimension 10 or lower.
+The Julia-file \verb+calculate_hstar.jl+ read the files in \verb+julia_input+, creates the polytopes, compute their $h^*$-polynomial and writes the data to the files in \verb+julia_output+. 
+Due to the polytopes in \verb+GTP10+ taking such time, they were divided by dimension and computed for only one dimension at a time. The file \verb+GTP10d10.txt+ contains all polytopes of dimension 10 or lower.
 
-The file \verb+calculate_ehrhart.py+ then takes the data in \verb+julia_output+ and from the $h^*$-polynomial calculates the Ehrhart polynomial, which is stored in \verb+ehrhart_files+. 
+The file \verb+calculate_ehrhart.py+ then takes the data in \verb+julia_output+ and from the $h^*$-polynomial computes the Ehrhart polynomial, which is stored in \verb+ehrhart_files+. 
 The file \verb+collect_all_ehrhart_polynomials.py+ then collected the polynomials such that each polynomial is related to all polytopes that gave that specific Ehrhart polynomial and saved in \verb+all_ehrharts.txt+. This is because many polytopes gave the same Ehrhart polynomial. 
 
 The file \verb+collect_ehrharts_by_degree+ saves the Ehrhart polynomials by the dimension of polytope that created them instead, in the folder \verb+ehrhart_files/degrees/+.
@@ -102,14 +102,14 @@ The file \verb+collect_ehrharts_by_degree+ saves the Ehrhart polynomials by the 
 
 \subsection{CPU-time} \label{CPU-time} 
 For the CPU-time for all files, see Table \ref{Tab:cpu-time}. 
-Notice that even though the polytopes with top row sum 9 and 10 discard all polytopes where the row sum differences all are only 1, \verb+GTP9+ still matches \verb+GTP8+ in CPU-time and \verb+GTP10+ took 412.8 hours, or over 17 days to calculate. 
-The time for GTP10 is slightly skewed to the higher side, due to having to read in and calculate the dimension of each polytope 12 times (once for each file), but by checking the files \verb+GTP10da.txt+ (where \verb+a+ is an integer) in the folder \verb+julia_output.txt+ we see that usually it took $0.1$ seconds to do that, so the computational cost is still for calculating the $h^*$-polynomial.
+Notice that even though the polytopes with top row sum 9 and 10 discard all polytopes where the row sum differences all are only 1, \verb+GTP9+ still matches \verb+GTP8+ in CPU-time and \verb+GTP10+ took 412.8 hours, or over 17 days to compute. 
+The time for GTP10 is slightly skewed to the higher side, due to having to read in and compute the dimension of each polytope 12 times (once for each file), but by checking the files \verb+GTP10da.txt+ (where \verb+a+ is an integer) in the folder \verb+julia_output.txt+ we see that usually it took less than $0.1$ seconds for each polytope to do that, so the computational cost is still for computing the $h^*$-polynomial.
 
 Checking the files in \verb+julia_output+ we see that the polytope taking longest time to compute was 3 3 2 1 1 : 2 1 1 1 1 1 1 1 1 with a CPU-time of $458759.3045768738$ seconds, or $127$ hours. 
 The shortest CPU-time for a computed polytope (where $h^*$-was able to be computed) was 5 1 1 1 1 1 : 4 3 3 with a CPU-time of $0.008860111236572266$ seconds. 
 
 \begin{table}[ht]
-\caption{Gelfand Tsetlin polytope file and the CPU-time to calculate it}
+\caption{Gelfand Tsetlin polytope file and the CPU-time to compute them}
 \begin{tabular}{|c|c|}
 \toprule
 \textbf{GT-polytope file} & \textbf{CPU-time (seconds)} \\
