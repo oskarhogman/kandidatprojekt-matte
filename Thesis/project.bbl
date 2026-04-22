@@ -1,5 +1,9 @@
 \begin{thebibliography}{DLM04}
 
+\bibitem[BR20]{beck2020computing}
+Matthias Beck and Sinai Robins.
+\newblock Computing the continuous discretely, 2020.
+
 \bibitem[Bra07]{braun2007ehrhart}
 Benjamin~James Braun.
 \newblock {\em Ehrhart theory for lattice polytopes}.

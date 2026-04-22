@@ -7,7 +7,7 @@
 			$(x_{ij})_{1\leq i \leq j \leq n} \in \mathbb{R}^{\binom{n+1}{2}}$ satisfying the following inequalities:
 			\begin{itemize}
 				\item[$\circ$] $x_{ij} \geq 0$, for $1 \leq i \leq j \leq n$; and
-				\item[$\circ$] $x_{i, j+1} \geq x_{ij} \geq x_{i+1, j+1},$ for $1 \leq i \leq j \leq n-1$,
+				\item[$\circ$] $x_{i, j+1} \leq x_{ij} \leq x_{i+1, j+1},$ for $1 \leq i \leq j \leq n-1$,
 			\end{itemize}
 			where all $x_{ij} \in \mathbb{N}$.
 		}
@@ -32,6 +32,7 @@
 			
 			\draw[->] (-4, 3) -- (-1, 0);
 			\draw[->] (1, 0) -- (4, 3);
+			\draw[->] (-4, 3.5) -- (4, 3.5);
 		\end{tikzpicture}
 		\end{center}
 		
